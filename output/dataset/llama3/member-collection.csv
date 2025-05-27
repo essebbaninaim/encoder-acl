@@ -1,0 +1,5019 @@
+bee	member of	swarm
+fish	part of	school
+tree	part of	forest
+book	part of	library
+student	member of	class
+drop	part of	waterfall
+pixel	part of	image
+voice	part of	chorus
+line	part of	poem
+thread	part of	sweater
+stone	part of	mountain
+voice	part of	opera
+cell	part of	blood
+word	part of	sentence
+star	part of	constellation
+finger	part of	glove
+foot	part of	shoe
+grain	part of	rice
+beam	part of	ship
+drop	part of	dew
+thread	part of	carpet
+line	part of	grid
+voice	part of	ensemble
+cell	part of	liver
+part	part of	whole
+petal	part of	daisy
+ray	part of	beam
+thread	part of	tapestry
+leaf	part of	sprig
+cell	part of	bone
+finger	part of	fingerless glove
+drop	part of	fountain
+cell	part of	kidney
+line	part of	horizon
+beam	part of	arch
+foot	part of	sock
+ray	part of	light
+cell	part of	nerve
+wave	part of	tide
+finger	part of	handkerchief
+stone	part of	mountain range
+thread	part of	web
+limb	part of	skeleton
+voice	part of	choir
+nail	part of	shoe horn
+beam	part of	girder
+drop	part of	geyser
+ray	part of	spectrum
+thread	part of	cloth
+line	part of	border
+cell	part of	bone marrow
+wave	part of	storm
+finger	part of	handprint
+voice	part of	orchestra
+string	part of	instrument
+cell	part of	skin
+line	part of	map
+petal	part of	rosebush
+beam	part of	framework
+limb	part of	body part
+nail	part of	claw
+drop	part of	dewdrop
+cell	part of	pancreas
+ray	part of	sunbeam
+thread	part of	embroidery
+branch	part of	orchard
+line	part of	shoreline
+voice	part of	concert
+wave	part of	ocean current
+petal	part of	flowerbed
+car	member of	convoy
+employee	member of	company
+ship	member of	fleet
+runner	member of	team
+wave	part of	surf
+student	part of	university
+member	part of	society
+soldier	member of	army
+fish	member of	aquarium
+car	part of	traffic
+book	part of	bookstore
+note	part of	melody
+hand	part of	glove
+leaf	part of	garden
+part	part of	mechanism
+student	member of	club
+part	part of	system
+person	member of	family
+piece	part of	painting
+person	part of	community
+rock	part of	cave
+fish	member of	school
+ship	member of	navy
+person	member of	organization
+wave	part of	lake
+tree	part of	wood
+part	part of	assembly
+word	part of	phrase
+student	member of	school
+finger	part of	fingerboard
+stone	part of	quarry
+car	member of	parade
+piece	part of	game
+brick	part of	arch
+member	part of	team
+bee	member of	colony
+part	part of	engine
+person	member of	group
+note	part of	scale
+hand	part of	handbag
+student	member of	program
+cell	part of	organ
+person	member of	team
+part	part of	machine
+piece	part of	art
+stone	part of	wall
+member	part of	committee
+student	member of	course
+tree	part of	stand
+eye	part of	skull
+branch	part of	branchlet
+book	part of	collection
+leaf	part of	limb
+person	member of	crew
+stone	part of	path
+part	part of	device
+person	member of	association
+tree	part of	orchard
+note	part of	tune
+stone	part of	boulder
+bee	member of	hive
+person	member of	network
+cell	part of	gland
+astronaut	part of	mission
+bird	member of	flock
+dog	member of	pack
+car	part of	convoy
+student	member of	cohort
+artist	part of	troupe
+fish	part of	shoal
+ship	part of	armada
+tree	part of	grove
+musician	part of	ensemble
+athlete	member of	team
+car	part of	caravan
+pilot	part of	crew
+engineer	part of	team
+soldier	member of	battalion
+actor	part of	cast
+plane	part of	formation
+singer	part of	choir
+writer	member of	collective
+sailor	part of	fleet
+engineer	member of	squad
+musician	part of	orchestra
+dancer	member of	troupe
+scientist	part of	research team
+doctor	member of	hospital staff
+soldier	member of	platoon
+student	member of	year group
+employee	part of	department
+teacher	member of	faculty
+researcher	part of	lab
+musician	part of	band
+police officer	member of	force
+engineer	part of	project team
+actor	member of	ensemble
+bird	part of	murder
+musician	part of	quartet
+engineer	member of	workforce
+athlete	part of	squad
+ship	part of	fleet
+car	part of	procession
+pilot	member of	flight crew
+artist	part of	collective
+musician	part of	symphony
+soldier	member of	regiment
+car	part of	motorcade
+sailor	part of	crew
+employee	part of	organization
+writer	member of	writing group
+doctor	member of	medical staff
+bird	part of	skein
+engineer	member of	team
+ship	part of	squadron
+pilot	member of	crew
+actor	member of	cast
+musician	part of	choir
+employee	part of	staff
+athlete	part of	team
+singer	part of	ensemble
+actor	member of	troupe
+artist	member of	collective
+sailor	member of	crew
+musician	member of	symphony
+bird	member of	murder
+athlete	member of	squad
+soldier	part of	army
+sheep	member of	flock
+employee	member of	team
+musician	member of	band
+engineer	member of	project
+journalist	member of	press
+doctor	member of	staff
+singer	member of	chorus
+frog	member of	group
+writer	member of	team
+architect	part of	team
+traveler	part of	group
+businessman	part of	company
+firefighter	part of	brigade
+farmer	member of	community
+runner	part of	relay
+artist	member of	gallery
+politician	part of	government
+scientist	member of	institution
+officer	part of	department
+worker	part of	labor force
+professor	member of	department
+activist	part of	movement
+researcher	part of	team
+explorer	member of	expedition
+designer	part of	design team
+musician	member of	orchestra
+researcher	member of	research team
+scientist	member of	lab
+businessman	member of	board
+manager	part of	management team
+singer	member of	quartet
+doctor	part of	medical team
+traveler	member of	tour group
+singer	part of	chorus
+actor	part of	ensemble
+musician	member of	group
+artist	part of	cooperative
+singer	member of	choir
+writer	part of	writing group
+scientist	part of	research group
+engineer	part of	construction team
+musician	part of	jazz band
+explorer	part of	expedition team
+teacher	member of	school staff
+doctor	part of	medical staff
+businessman	member of	company board
+singer	member of	rock band
+artist	part of	art collective
+musician	member of	musical group
+traveler	member of	caravan
+scientist	member of	research institute
+officer	part of	security team
+teacher	member of	faculty staff
+actor	part of	theater company
+sailor	part of	naval crew
+athlete	part of	sports team
+singer	member of	singing group
+musician	part of	jazz ensemble
+artist	part of	art gallery
+doctor	member of	healthcare team
+writer	part of	writing collective
+scientist	part of	scientific community
+firefighter	part of	fire department
+traveler	part of	tour group
+singer	member of	musical theater company
+researcher	member of	academic department
+engineer	part of	engineering team
+musician	part of	music group
+doctor	part of	medical department
+actor	part of	theater cast
+artist	part of	art movement
+officer	part of	military unit
+traveler	member of	expedition team
+singer	member of	singing troupe
+scientist	part of	scientific institution
+doctor	part of	hospital staff
+businessman	member of	business community
+teacher	member of	educational institution
+droplet	part of	ocean
+sheep	member of	herd
+car	part of	fleet
+person	member of	community
+grain	part of	harvest
+molecule	part of	compound
+stone	part of	monument
+wave	part of	wavefront
+note	part of	symphony
+fish	part of	aquarium
+component	part of	device
+grain	part of	cereal
+star	member of	constellation
+note	part of	composition
+molecule	part of	blood
+element	part of	set
+unit	part of	army
+component	part of	machine
+ray	part of	sunlight
+branch	part of	network
+droplet	part of	spray
+component	part of	vehicle
+piece	part of	jigsaw
+feather	part of	plumage
+piece	part of	mosaic
+molecule	part of	solution
+cell	part of	organism
+component	part of	engine
+particle	part of	gas
+unit	part of	company
+droplet	part of	mist
+piece	part of	collage
+wave	part of	wavelet
+grain	part of	meal
+leaf	part of	foliage
+component	part of	robot
+ship	part of	convoy
+molecule	part of	liquid
+atom	part of	substance
+wave	part of	current
+grain	part of	seed
+unit	part of	platoon
+droplet	part of	fog
+component	part of	computer
+particle	part of	mixture
+note	part of	harmony
+beam	part of	building
+piece	part of	structure
+grain	part of	crop
+branch	part of	limb
+star	member of	galaxy
+atom	part of	compound
+unit	part of	squad
+component	part of	printer
+part	part of	framework
+fish	part of	catch
+particle	part of	dust
+note	part of	chord
+branch	part of	branch
+drop	part of	cascade
+rod	part of	bicycle
+cell phone	part of	network
+flower	part of	garden
+wheel	part of	vehicle
+hand	part of	body
+bookshelf	part of	library
+keyhole	part of	door
+pin	part of	cushion
+student	part of	faculty
+tube	part of	pipe
+lock	part of	gate
+rock	part of	mountain
+employee	part of	firm
+screw	part of	robot
+nail	part of	nail file
+student	part of	team
+finger	part of	finger ring
+book	part of	shelf
+piece	part of	cake
+leaf	part of	leafy greens
+screw	part of	lock
+employee	member of	organization
+finger	part of	finger glove
+lock	part of	lockbox
+petal	part of	plant
+seat	part of	stadium
+nail	part of	hammer head
+thread	part of	sewing machine
+wheel	part of	wheelbarrow
+rod	part of	fence
+stone	part of	aggregate
+screw	part of	tap
+nail	part of	nail polish
+screw	part of	faucet
+rock	part of	hill
+beam	part of	crane
+book	part of	bookshelf
+pin	part of	fastener
+finger	part of	handbag
+screw	part of	engine
+lock	part of	lockout
+worker	member of	team
+student	member of	university
+chair	part of	furniture
+neuron	part of	brain
+bee	part of	hive
+flower	part of	bouquet
+grain	part of	ear
+stone	part of	building
+member	part of	group
+boat	part of	dock
+neuron	part of	nervous system
+bird	part of	aviary
+ray	part of	constellation
+brick	part of	house
+ship	part of	harbor
+grain	part of	sack
+ship	part of	port
+boat	part of	fleet
+bee	part of	colony
+neuron	part of	cerebral cortex
+sailor	part of	navy
+grain	part of	heap
+star	part of	universe
+finger	part of	palm
+ship	part of	voyage
+bird	part of	migration
+beam	part of	roof
+rod	part of	rodentia
+cell	part of	cell membrane
+neuron	part of	brainstem
+wave	part of	ripple
+sailor	part of	crewman
+member	part of	workforce
+grain	part of	cargo
+beam	part of	pier
+finger	part of	fingerling
+thread	part of	fiber
+star	part of	galaxy
+neuron	part of	synapse
+bird	part of	flock
+sailor	part of	navyman
+grain	part of	bag
+cell	part of	blood cell
+neuron	part of	hippocampus
+member	part of	board
+thread	part of	thread count
+artist	member of	troupe
+cat	member of	colony
+soldier	part of	regiment
+plane	part of	squadron
+child	part of	family
+boat	part of	flotilla
+player	member of	team
+horse	member of	herd
+worker	member of	crew
+dog	part of	litter
+soldier	part of	battalion
+musician	member of	ensemble
+animal	part of	zoo
+worker	part of	workforce
+person	member of	society
+bird	part of	murmuration
+dancer	part of	corps de ballet
+person	part of	population
+animal	member of	colony
+worker	member of	workforce
+singer	member of	ensemble
+player	member of	lineup
+worker	part of	team
+animal	part of	menagerie
+soldier	part of	company
+musician	part of	group
+student	member of	academy
+cat	member of	clowder
+worker	member of	staff
+bird	part of	raft
+person	member of	audience
+animal	part of	collection
+horse	part of	string
+person	member of	crowd
+ship	part of	flotilla
+animal	member of	herds
+person	member of	population
+animal	member of	menagerie
+bird	part of	flier
+bee	part of	swarm
+cat	member of	covey
+dog	part of	pack
+citizen	member of	nation
+cloud	part of	sky
+pet	member of	family
+worker	part of	factory
+astronaut	member of	team
+student	part of	academy
+artist	member of	studio
+bird	member of	squadron
+car	member of	caravan
+team	member of	squad
+worker	part of	workshop
+insect	part of	colony
+fish	member of	shoal
+cloud	part of	stratus
+part	of	whole
+team	part of	division
+pixel	part of	graphic
+stone	part of	masonry
+worker	part of	staff
+cloud	part of	weather
+student	part of	institution
+ship	member of	armada
+tree	member of	plantation
+part	of	machinery
+insect	part of	anthill
+atom	part of	atom
+bird	member of	aviary
+key	part of	machine
+person	part of	society
+team	part of	club
+musician	member of	quartet
+insect	part of	hive
+cloud	part of	atmosphere
+student	member of	fraternity
+musician	part of	chorus
+pixel	part of	screen
+student	member of	seminar
+worker	part of	brigade
+team	member of	brigade
+student	part of	department
+car	member of	procession
+plane	part of	airforce
+student	member of	group
+artist	part of	group
+teacher	member of	staff
+officer	member of	squad
+player	part of	lineup
+citizen	member of	community
+member	part of	union
+crew member	part of	ship
+member	part of	organization
+pilot	member of	flight
+member	part of	department
+officer	member of	platoon
+artist	member of	guild
+teacher	member of	department
+player	part of	roster
+member	part of	institution
+teacher	member of	academy
+member	part of	council
+pilot	member of	squadron
+sailor	member of	vessel
+officer	member of	unit
+sailor	part of	flotilla
+member	part of	corporation
+member	part of	firm
+member	part of	syndicate
+artist	member of	cooperative
+officer	member of	brigade
+athlete	part of	lineup
+member	part of	network
+teacher	member of	institution
+member	part of	association
+member	part of	partnership
+sailor	member of	ship
+engineer	member of	company
+musician	member of	choir
+artist	member of	group
+car	member of	fleet
+atom	member of	molecule
+key	member of	keyboard
+grain	part of	grainfield
+sailor	part of	ship
+student	part of	school
+sheep	part of	herd
+component	part of	system
+atom	part of	element
+sailor	member of	navy
+molecule	part of	solvent
+part	part of	parts
+student	part of	college
+piece	part of	jigsaw puzzle
+sailor	member of	coast guard
+drop	part of	ocean
+bird	member of	flight
+part	part of	fraction
+employee	member of	staff
+component	part of	mechanism
+atom	part of	atom cluster
+drop	part of	sprinkler
+sailor	member of	marines
+rock	part of	boulder
+bird	member of	wing
+student	member of	faculty
+stone	part of	statue
+part	part of	percentage
+leaf	part of	tree canopy
+grain	part of	farm
+molecule	part of	polymer
+rock	part of	cliff
+component	part of	engine block
+member	part of	club
+sailor	member of	army
+stone	part of	pavement
+sailor	member of	air force
+rock	part of	geode
+doctor	part of	hospital
+cow	part of	herd
+plane	part of	air force
+writer	member of	community
+bear	member of	family
+artist	part of	gallery
+nurse	part of	hospital
+writer	part of	literary circle
+athlete	part of	league
+doctor	member of	clinic
+artist	part of	studio
+actor	part of	play
+writer	part of	press
+engineer	part of	corps
+sailor	part of	vessel
+student	part of	student body
+writer	part of	publishing house
+bear	part of	pack
+doctor	part of	medical group
+writer	member of	literary group
+engineer	part of	construction crew
+bear	part of	family
+teacher	part of	staff
+pilot	part of	flight
+teacher	part of	faculty
+actor	member of	play
+engineer	member of	corps
+doctor	member of	hospital
+writer	member of	literary circle
+athlete	member of	league
+pilot	part of	air force
+coin	part of	collection
+droplet	part of	rain
+runner	member of	squad
+bricklayer	member of	crew
+slice	part of	cake
+member	member of	club
+bricklayer	part of	construction
+bolt	part of	engine
+grain	part of	field
+cell	part of	bloodstream
+part	part of	orchestra
+coin	part of	bankroll
+rod	part of	tree
+leaf	part of	salad
+staff	member of	orchestra
+nail	part of	coffin
+line	part of	margin
+student	member of	team
+bolt	part of	screwdriver
+part	part of	structure
+droplet	part of	lake
+button	part of	controller
+nail	part of	toolbox
+student	part of	group
+drop	part of	bucket
+brick	part of	fireplace
+piece	part of	picture
+line	part of	fence
+bricklayer	member of	team
+bolt	part of	aircraft
+line	part of	skyline
+screw	part of	socket
+brick	part of	castle
+member	member of	team
+button	part of	panel
+cell	part of	heart
+astronaut	member of	space mission
+coin	part of	currency
+river	part of	delta
+branch	part of	bank
+pencil	part of	set
+manager	member of	team
+wave	part of	motion
+athlete	member of	club
+nurse	member of	staff
+car	part of	garage
+worker	member of	union
+ray	part of	shadow
+block	part of	building
+painter	member of	team
+engineer	member of	crew
+fruit	part of	fruit salad
+tile	part of	mosaic
+driver	member of	convoy
+cell	part of	colony
+worker	member of	factory
+cat	member of	household
+coin	part of	purse
+tile	part of	pavement
+leaf	part of	leaves
+button	part of	garment
+rodent	part of	colony
+branch	part of	hedge
+singer	member of	group
+animal	member of	zoo
+butterfly	part of	garden
+person	part of	crowd
+horse	part of	herd
+artist	part of	company
+worker	member of	department
+star	member of	cluster
+butterfly	part of	cloud
+car	part of	parade
+bird	part of	flight
+animal	member of	herd
+butterfly	part of	swarm
+horse	part of	corral
+person	part of	audience
+animal	member of	pack
+bird	part of	gaggle
+person	part of	gathering
+horse	part of	pasture
+bird	part of	covey
+musician	part of	company
+car	part of	motor
+blade	part of	engine
+cellist	member of	orchestra
+note	part of	piano
+tile	part of	floor
+artist	member of	crew
+shipmate	member of	crew
+bookshelf	part of	bookcase
+screw	part of	mechanism
+staff	part of	orchestra
+fisherman	member of	crew
+officer	member of	army
+rodent	part of	nest
+artist	member of	team
+key	part of	switch
+part	part of	component
+rodent	part of	group
+part	part of	module
+beam	part of	truss
+blade	part of	wing
+cell	part of	cell culture
+tile	part of	wall
+cell	part of	human body
+grain	part of	corn
+line	part of	road
+droplet	part of	waterfall
+note	part of	message
+soldier	member of	squad
+page	part of	calendar
+cell	part of	ecosystem
+page	part of	novel
+grain	part of	wheat
+bird	member of	colony
+stone	part of	arch
+cell	part of	lung
+strand	part of	rope bridge
+book	part of	reading list
+blade	part of	ax
+stone	part of	castle
+wave	part of	shore
+thread	part of	crochet
+grain	part of	grain silo
+leaf	part of	ivy
+rock	part of	outcrop
+page	part of	brochure
+thread	part of	sewing
+blade	part of	scissors
+finger	part of	mitten
+book	part of	bestseller
+grain	part of	hay
+cell	part of	cancer
+strand	part of	fishing net
+cell	part of	tumor
+doctor	member of	medical team
+engineer	member of	research project
+artist	member of	art collective
+computer	part of	system
+researcher	member of	lab
+butterfly	part of	migration
+astronaut	part of	space program
+architect	member of	design team
+athlete	member of	sports club
+scientist	member of	research team
+engineer	member of	development team
+student	part of	cohort
+scientist	member of	institute
+engineer	member of	innovation team
+pilot	member of	air force
+teacher	part of	institution
+researcher	member of	institute
+scientist	part of	project
+sailor	member of	marina
+car	part of	collection
+scientist	member of	department
+engineer	part of	company
+astronaut	member of	space agency
+pilot	part of	air squadron
+student	part of	class
+teacher	part of	school
+butterfly	member of	swarm
+bird	part of	roost
+car	part of	showroom
+athlete	part of	sports club
+sailor	part of	marina
+cloud	part of	storm
+face	part of	picture
+note	part of	score
+cell	part of	culture
+eye	part of	vision
+word	part of	dictionary
+member	part of	crew
+hand	part of	handshake
+sound	part of	symphony
+face	part of	portrait
+finger	part of	fist
+branch	part of	vine
+tree	part of	woodland
+limb	part of	extremity
+drop	part of	shower
+voice	part of	chant
+page	part of	album
+limb	part of	muscle
+part	part of	machinery
+drop	part of	raindrop
+finger	part of	handhold
+eye	part of	gaze
+grain	part of	bundle
+finger	part of	grip
+person	part of	assembly
+note	part of	chorus
+limb	part of	appendage
+eye	part of	sight
+sound	part of	resonance
+page	part of	journal
+student	part of	fraternity
+note	part of	serenade
+finger	part of	grasp
+wave	part of	breaker
+voice	part of	solo
+limb	part of	structure
+page	part of	directory
+finger	part of	hold
+note	part of	sonata
+eye	part of	sightline
+sound	part of	noise
+wave	part of	tsunami
+worker	part of	orchestra
+enzyme	part of	digestive system
+molecule	part of	chemical compound
+employee	part of	company
+page	part of	newspaper
+gene	part of	genome
+sentence	part of	paragraph
+note	part of	musical score
+ingredient	part of	recipe
+strand	part of	dna
+atom	part of	atom nucleus
+chapter	part of	novel
+strand	part of	string
+brick	part of	pyramid
+pebble	part of	river
+page	part of	magazine
+strand	part of	yarn
+worker	part of	hive
+part	part of	aggregate
+ship	part of	navy
+strand	part of	braid
+neuron	part of	forebrain
+page	part of	catalog
+ray	part of	solar system
+strand	part of	cord
+neuron	part of	cerebrum
+fish	part of	lake
+chapter	part of	encyclopedia
+neuron	part of	brainwave
+strand	part of	corduroy
+brick	part of	mansion
+page	part of	manual
+strand	part of	chain
+fish	part of	school of fish
+molecule	part of	mixture
+member	part of	boardroom
+cell	part of	eye
+piece	part of	mosaic art
+neuron	part of	limbic system
+brick	part of	tower
+strand	part of	tapestry
+screw	part of	machinery
+car	part of	highway
+house	part of	neighborhood
+soldier	part of	squad
+fish	part of	river
+molecule	part of	substance
+tree	part of	woods
+electron	part of	circuit
+rock	part of	landscape
+drop	part of	drizzle
+neuron	part of	network
+rock	part of	canyon
+student	member of	institution
+rock	part of	plateau
+thread	part of	garment
+rock	part of	formation
+drop	part of	precipitation
+car	member of	garage
+sun	member of	solar system
+pencil	part of	box
+bear	part of	group
+insect	member of	colony
+horse	member of	stable
+man	member of	society
+bird	member of	migration
+car	part of	train
+person	part of	city
+computer	part of	network
+dog	part of	kennel
+car	member of	rally
+animal	member of	species
+plane	part of	flight
+pen	part of	pen holder
+artist	member of	community
+person	member of	town
+boat	member of	marina
+car	member of	entourage
+leaf	part of	leafy
+person	member of	committee
+child	member of	family
+aircraft	part of	fleet
+employee	member of	workforce
+student	member of	squad
+doctor	member of	faculty
+worker	part of	crew
+team	part of	league
+person	member of	board
+musician	member of	chorus
+child	part of	household
+pilot	member of	wing
+team	part of	championship
+person	member of	government
+employee	part of	corporation
+soldier	member of	company
+team	part of	tournament
+aircraft	part of	squadron
+person	member of	assembly
+artist	member of	society
+apple	member of	fruit
+pencil	part of	stationery
+seat	part of	plane
+wheel	part of	bike
+leg	part of	insect
+seat	part of	theater
+edge	part of	coin
+tip	part of	iceberg
+cord	part of	headphones
+board	part of	skateboard
+seat	part of	auditorium
+rod	part of	pencil
+nail	part of	roofing
+wire	part of	clothesline
+cell	part of	phone
+arm	part of	jacket
+nail	part of	shoe sole
+wheel	part of	tractor
+edge	part of	knife
+seat	part of	cinema
+line	part of	guideline
+seat	part of	bus
+nail	part of	shelf
+petal	part of	peony
+line	part of	threshold
+arm	part of	umbrella
+string	part of	harpist
+seat	part of	boat
+rod	part of	picture frame
+nail	part of	roof
+line	part of	dividing line
+edge	part of	edge of a glass
+seat	part of	opera
+thread	part of	rug
+branch	part of	arbor
+arm	part of	mitten
+nail	part of	picture frame
+line	part of	riverbank
+lion	member of	pride
+beekeeper	member of	apiary
+student	member of	college
+ant	member of	colony
+bear	part of	clan
+businessman	member of	firm
+monkey	part of	troop
+frog	member of	chorus
+officer	member of	corps
+pilot	member of	airline
+lion	member of	safari
+pilot	member of	company
+officer	member of	military
+monkey	part of	troupe
+sailor	member of	squadron
+man	member of	family
+lion	part of	pride
+student	member of	community
+monkey	member of	troop
+pilot	member of	aircrew
+dog	member of	family
+pilot	member of	fleet
+bird	member of	murmuration
+worker	member of	plant
+bear	part of	litter
+horse	member of	ranch
+man	member of	household
+monkey	member of	colony
+guitar	part of	band
+apple	part of	orchard
+mouse	member of	herd
+cat	member of	family
+bear	member of	pride
+bird	member of	covey
+ship	member of	convoy
+engine	part of	machine
+mouse	member of	litter
+hand	part of	wrist
+mouse	member of	troop
+brick	part of	structure
+car	part of	lineup
+bear	member of	herd
+chair	part of	suite
+bird	member of	gaggle
+key	part of	harp
+car	part of	inventory
+engine	part of	vehicle
+mouse	member of	pack
+car	part of	station
+bear	member of	troupe
+cloud	part of	horizon
+hand	part of	forearm
+student	member of	committee
+key	part of	accordion
+engine	part of	engine
+mouse	member of	brood
+car	part of	rally
+student	member of	sorority
+bird	member of	kettle
+bear	member of	band
+branch	part of	thicket
+key	part of	recorder
+brick	part of	foundation
+engine	part of	gear
+cloud	part of	cumulus
+branch	part of	sapling
+key	part of	xylophone
+mouse	member of	covey
+vehicle	part of	fleet
+seed	part of	plant
+crew	part of	boat
+soldier	part of	platoon
+fragment	part of	whole
+section	part of	chart
+segment	part of	circle
+crew	part of	company
+member	part of	community
+limb	part of	arm
+fiber	part of	thread
+crew	part of	aircraft
+element	part of	series
+fragment	part of	fragment
+unit	part of	team
+branch	part of	stem
+component	part of	module
+crew	part of	ship
+star	part of	cluster
+grain	part of	oats
+segment	part of	graph
+atom	part of	nucleus
+limb	part of	wing
+unit	part of	unit
+fiber	part of	rope
+star	part of	sky
+crew	part of	yacht
+segment	part of	spectrum
+limb	part of	hand
+limb	part of	leg
+fragment	part of	piece
+star	part of	planet
+limb	part of	torso
+segment	part of	progression
+star	part of	milky way
+crew	part of	vessel
+element	part of	mixture
+limb	part of	spine
+vehicle	part of	convoy
+fruit	part of	bunch
+vehicle	part of	parade
+strand	part of	hair
+insect	part of	swarm
+vehicle	part of	caravan
+ray	part of	beam of light
+brain	part of	nervous system
+student	member of	crew
+page	part of	portfolio
+grain	part of	pastry
+fruit	part of	fruit bowl
+grain	part of	grain mill
+thread	part of	lace
+star	part of	galaxy cluster
+strand	part of	strand of dna
+page	part of	manuscript
+thread	part of	twine
+fruit	part of	fruitcake
+ray	part of	ray of sunshine
+student	member of	panel
+rabbit	member of	warren
+cat	member of	herd
+bear	member of	clan
+horse	part of	cavalry
+insect	member of	brood
+mouse	part of	colony
+cat	part of	mew
+bird	part of	wing
+person	part of	procession
+elephant	member of	herd
+deer	member of	herd
+bear	part of	den
+rabbit	part of	warren
+ant	part of	nest
+mouse	member of	colony
+fish	part of	pod
+person	part of	committee
+cat	part of	coterie
+plane	member of	airforce
+fish	member of	pod
+tree	part of	plantation
+rabbit	member of	group
+elephant	part of	herd
+ant	member of	swarm
+bird	part of	bevy
+car	part of	cortege
+person	part of	entourage
+rabbit	part of	covey
+ant	part of	colony
+cat	part of	retinue
+tree	member of	grove
+bee	part of	brood
+person	part of	clique
+person	member of	band
+car	part of	cortège
+cat	part of	household
+plane	member of	squadron
+bird	member of	flier
+car	member of	motorcade
+person	member of	staff
+plane	part of	fleet
+person	member of	gang
+person	member of	panel
+wheel	part of	machine
+student	member of	choir
+bricklayer	member of	construction crew
+strand of yarn	part of	sweater
+person	part of	orchestra
+atom	part of	metal
+leaflet	part of	book
+piece of music	part of	concert
+screwdriver	part of	toolbox
+thread	part of	needle
+grain of sand	part of	desert
+student	member of	debate team
+pebble	part of	path
+student	member of	sports team
+atom	part of	crystal
+thread	part of	seam
+student	member of	study group
+screw	part of	anchor
+student	member of	school choir
+wheel	part of	carriage
+grain	part of	pile
+part	part of	unit
+drop	part of	puddle
+strand	part of	cable
+drop	part of	lake
+pebble	part of	road
+person	part of	team
+citizen	member of	society
+atom	part of	gas
+fruit	part of	salad
+employee	member of	department
+particle	part of	wave
+sheepdog	part of	flock
+branch	part of	root
+sheep	part of	flock
+electron	part of	nucleus
+part	part of	part
+neuron	part of	spinal cord
+strand	part of	wire
+part	part of	element
+employee	member of	firm
+word	part of	language
+animal	member of	kingdom
+particle	part of	atom
+pipe	part of	plumbing
+pebble	part of	gravel
+seed	part of	seedling
+beam	part of	pulley
+member	member of	committee
+drop	part of	tear
+key	part of	bunch
+beam	part of	ceiling
+seed	part of	pod
+pebble	part of	gravel driveway
+bird	part of	fly
+leaf	part of	maple tree
+piece	part of	collection
+note	part of	requiem
+cell	part of	cluster
+key	part of	bunch of keys
+stone	part of	cairn
+insect	member of	hive
+cell	part of	platelet
+person	member of	public
+stone	part of	pile
+grain	part of	flour
+astronaut	member of	crew
+poet	member of	community
+line	part of	drawing
+wave	part of	cycle
+element	part of	compound
+player	member of	orchestra
+writer	member of	club
+member	member of	organization
+writer	member of	group
+sailor	member of	yacht
+member	member of	council
+line	part of	shape
+sailor	member of	fleet
+word	part of	title
+person	part of	nation
+cell	part of	cell
+note	part of	hymn
+star	member of	zodiac
+particle	part of	beam
+member	member of	board
+line	part of	edge
+writer	member of	guild
+writer	member of	association
+word	part of	jargon
+key	part of	instrument
+engineer	member of	staff
+bird	member of	squad
+beekeeper	member of	farm
+soldier	member of	unit
+person	part of	throng
+house	part of	street
+beekeeper	member of	beekeeping association
+student	member of	dormitory
+shipwreck	part of	marine debris
+sailor	member of	naval squadron
+employee	member of	administration
+sailor	member of	sailing club
+car	part of	dealership
+fish	part of	aquarium tank
+sailor	member of	crew team
+atom	part of	atom cloud
+brick	part of	building site
+ship	part of	marina
+bird	member of	flocking species
+cell	part of	blood sample
+fish	part of	oceanic ecosystem
+person	member of	workplace
+employee	member of	sales team
+sailor	member of	sailing crew
+brick	part of	sidewalk
+student	member of	student council
+gear	part of	engine block
+fish	part of	freshwater lake
+sailor	member of	maritime organization
+ship	part of	naval fleet
+person	member of	community center
+car	part of	parking lot
+student	member of	honor society
+bee	member of	apiary
+worker	member of	labor union
+atom	part of	gas mixture
+car	part of	vehicle convoy
+sailor	member of	naval unit
+employee	member of	office
+sailor	member of	sailing party
+cell	part of	immune system
+bird	member of	avian species
+person	member of	team effort
+bee	member of	hive colony
+worker	member of	construction team
+astronaut	part of	crew
+nurse	part of	staff
+chef	part of	kitchen
+engineer	member of	department
+lawyer	part of	firm
+engineer	member of	design team
+doctor	part of	practice
+engineer	part of	project
+nurse	member of	ward
+astronaut	member of	space program
+worker	part of	union
+bird	part of	colony
+engineer	member of	lab
+engineer	part of	laboratory
+teacher	part of	academy
+teacher	part of	curriculum
+engineer	member of	workshop
+horse	member of	pasture
+nurse	member of	department
+astronaut	part of	space station
+teacher	part of	education system
+engineer	member of	research team
+student	member of	student body
+astronaut	member of	expedition
+nurse	part of	medical team
+nurse	part of	ward
+seed	part of	seedbed
+pen	part of	pencil
+rope	part of	bundle
+foot	part of	footbridge
+button	part of	glove
+rope	part of	knot
+piece	part of	music
+foot	part of	trail
+fish	part of	pond
+pen	part of	penumbra
+key	part of	ignition
+branch	part of	shrubbery
+foot	part of	footpath
+seed	part of	bouquet
+grain	part of	yield
+note	part of	rhythm
+finger	part of	digit
+button	part of	vest
+rope	part of	cord
+foot	part of	path
+feather	part of	plume
+line	part of	sequence
+wheel	part of	cycle
+book	part of	archive
+staff	part of	staffroom
+page	part of	scroll
+bird	part of	flocking
+bubble	part of	soap solution
+grain of sand	part of	sandcastle
+note taker	member of	audience
+brickwork	part of	building
+beekeeper	member of	beekeeping club
+fisherman	member of	fishing club
+fish food	part of	aquarium
+thread of yarn	part of	sweater
+fish tank	part of	aquarium
+treehouse	part of	backyard
+painter	member of	art collective
+seedling	part of	garden
+droplet	part of	raindrop
+branch of knowledge	part of	science
+artist	member of	art studio
+blade of grass	part of	lawn
+tree surgeon	member of	arborist team
+rivet	part of	airplane
+drop of blood	part of	bloodstream
+note of music	part of	symphony
+fish food	part of	aquarium supply
+thread of reasoning	part of	argument
+rodent burrow	part of	forest
+bubble	part of	glass of soda
+rivet gun	part of	construction equipment
+grain of rice	part of	cooked meal
+drop of water	part of	ocean
+keylogger	member of	cybersecurity team
+wavefront	part of	tsunami
+thread count	part of	fabric quality
+thread of narrative	part of	story
+sailboat	part of	naval fleet
+rodent hide	part of	coat
+button hole	part of	shirt
+leaf blower	part of	gardening equipment
+branch of science	part of	academia
+seedling	part of	nursery
+bubble gum	part of	candy store
+cell phone	part of	phone network
+rivulet of tears	part of	sad story
+droplet of water	part of	water bottle
+blade of steel	part of	sword
+thread of fate	part of	destiny
+rivet of steel	part of	machine
+wave of excitement	part of	crowd
+pebble of thought	part of	idea
+fishbowl	part of	aquarium
+cell membrane	part of	cell
+rivulet of knowledge	part of	expertise
+cat	part of	litter
+judge	member of	court
+kite	part of	bouquet
+ladybug	part of	colony
+letter	part of	package
+light	part of	beam
+line	part of	string
+nation	member of	united nations
+orange	part of	bunch
+pebble	part of	pebble beach
+pinecone	part of	pine
+pipe	part of	network
+plug	part of	cable
+poem	part of	anthology
+pore	part of	skin
+river	part of	network
+rock	part of	collection
+roll	part of	sheet
+seashell	part of	ocean floor
+seam	part of	fabric
+shirt	part of	outfit
+shoe	part of	pair
+signal	part of	message
+spring	part of	season
+sprout	part of	garden
+stitch	part of	embroidery
+stop	part of	sign
+sunflower	part of	field
+table	part of	set
+tail	part of	body
+thread	part of	string
+tube	part of	hose
+vase	part of	collection
+vessel	part of	fleet
+vine	part of	grapevine
+voice	part of	song
+vowel	part of	word
+wheat	part of	field
+year	part of	decade
+yogurt	part of	meal
+yacht	part of	fleet
+yellow	part of	rainbow
+zipper	part of	coat
+zinc	part of	alloy
+zither	part of	orchestra
+writer	member of	publication
+employee	part of	workforce
+artist	part of	exhibition
+engineer	member of	project team
+player	member of	side
+student	part of	program
+member	part of	administration
+person	part of	demographic
+member	part of	government
+artist	part of	collaboration
+member	part of	commission
+member	part of	task force
+student	part of	course
+worker	member of	squad
+pilot	member of	team
+member	part of	cabinet
+member	part of	board of directors
+member	part of	faculty
+member	part of	research team
+pen	part of	pencil case
+pen	part of	bunch
+house	part of	development
+star	part of	pattern
+brick	part of	masonry
+tree	part of	thicket
+bird	part of	flocks
+brick	part of	chimney
+student	member of	gang
+person	member of	council
+bird	part of	brood
+key	part of	ring
+student	member of	union
+writer	part of	crew
+runner	member of	relay
+dancer	part of	troupe
+manager	part of	board
+poet	part of	group
+lawyer	member of	firm
+engineer	part of	brigade
+mechanic	part of	team
+doctor	part of	clinic
+artist	member of	company
+teacher	part of	department
+member	part of	panel
+mechanic	part of	crew
+pilot	member of	unit
+mechanic	member of	crew
+sailor	part of	armada
+doctor	member of	office
+pilot	part of	squadron
+member	part of	assembly
+mechanic	member of	garage
+mechanic	member of	team
+writer	part of	team
+singer	part of	group
+employee	part of	business
+pilot	part of	team
+mechanic	part of	brigade
+doctor	member of	practice
+sailor	member of	flotilla
+pet	part of	family
+friend	part of	social circle
+stone	part of	rock pile
+unit	part of	group
+part	part of	apparatus
+hand	part of	instrument
+unit	part of	structure
+strand	part of	fiber
+unit	part of	organization
+piece	part of	ensemble
+finger	part of	claw
+unit	part of	framework
+hand	part of	mitten
+finger	part of	paw
+unit	part of	system
+part	part of	gadget
+strand	part of	twine
+part	part of	contraption
+member	part of	squad
+player	part of	team
+pet	part of	household
+line	part of	production
+branch	part of	institution
+ship	part of	taskforce
+student	member of	institute
+leaf	part of	bunch
+pen	part of	set
+book	part of	anthology
+car	part of	entourage
+cat	member of	litter
+plane	member of	formation
+horse	member of	team
+dog	member of	kennel
+book	member of	collection
+ship	member of	squadron
+person	member of	jury
+book	part of	compilation
+car	member of	cortege
+tree	member of	copse
+book	part of	bibliography
+bird	member of	murmur
+horse	member of	corral
+dog	member of	litter
+book	part of	reference
+cat	member of	tribe
+horse	part of	platoon
+line	part of	highway
+note	part of	concert
+note	part of	record
+line	part of	code
+hand	part of	mitt
+seed	part of	garden
+cell	part of	population
+piece	part of	gear
+foot	part of	ladder
+leaf	part of	hedge
+bird	part of	nesting
+hand	part of	claw
+line	part of	railway
+foot	part of	hill
+boat	part of	harbor
+eye	part of	eyelet
+car	part of	line
+button	part of	buttonhole
+line	part of	chart
+foot	part of	mountain
+thread	part of	weave
+drop	part of	deluge
+citizen	part of	nation
+speaker	part of	panel
+scientist	member of	team
+officer	part of	administration
+unit	part of	squadron
+aircraft	part of	formation
+team	part of	conference
+team	part of	team
+officer	part of	staff
+boat	part of	squadron
+student	member of	department
+team	part of	squad
+aircraft	part of	flight
+runner	member of	relay team
+student	part of	institute
+musician	member of	quintet
+flower	part of	floral arrangement
+animal	part of	sanctuary
+computer	part of	server
+manager	member of	board
+branch	part of	store
+worker	part of	labor
+musician	member of	troupe
+branch	part of	chain
+car	part of	show room
+branch	part of	market
+singer	part of	opera
+car	part of	lot
+branch	part of	system
+tree	part of	garden
+branch	part of	division
+worker	member of	labor
+astronaut	member of	mission
+wolf	member of	pack
+bus	part of	convoy
+artist	part of	workshop
+sheep	part of	fold
+student	part of	brigade
+bus	part of	procession
+worker	member of	force
+wolf	part of	pack
+bus	part of	fleet
+student	member of	brigade
+pencil	part of	pencil case
+student	member of	family
+rock	part of	outcropping
+student	member of	organization
+car	part of	parking
+book	part of	catalog
+student	member of	family group
+student	member of	household
+rock	part of	geological formation
+person	part of	processionion
+key	part of	set
+student	member of	party
+person	part of	delegation
+grain	part of	grain elevator
+student	member of	delegation
+leaf	part of	branch system
+person	part of	retinue
+student	member of	community service
+person	part of	escort
+fruit	part of	fruit platter
+grain	part of	storage bin
+student	member of	research team
+person	part of	staff
+grain	part of	silo
+bicycle	member of	collection
+part	of	puzzle
+car	member of	highway
+apple	part of	bunch
+plane	part of	airfield
+pen	part of	pen set
+fish	member of	tank
+wave	part of	tidal wave
+book	member of	bestseller list
+boat	part of	marina
+mouse	member of	population
+plane	part of	hangar
+student	member of	workshop
+apple	part of	fruit salad
+rock	part of	quarry
+key	part of	mechanism
+plane	part of	airport
+droplet	part of	wave
+bubble	part of	soap
+stick	part of	bundle
+bubble	part of	bath
+button	part of	sweater
+bubble	part of	drink
+key	part of	house
+button	part of	cuff
+fish	part of	coral
+ray	part of	laser
+bubble	part of	soda
+stick	part of	broom
+bubble	part of	champagne
+button	part of	collar
+rod	part of	ladder
+stick	part of	handle
+bubble	part of	fountain
+thread	part of	cord
+button	part of	necklace
+ray	part of	star
+button	part of	tie
+stick	part of	staff
+bubble	part of	water
+child	member of	household
+cellist	member of	string section
+pilot	member of	squad
+leaf	part of	leafy branch
+person	member of	household
+tree	member of	orchard
+boy	member of	troop
+bird	part of	squadron
+man	member of	tribe
+horse	part of	stable
+man	member of	nation
+tree	member of	forest
+person	member of	nation
+boat	part of	armada
+building	part of	complex
+robot	member of	fleet
+cat	part of	troop
+person	member of	congregation
+tree	member of	stand
+man	member of	crew
+student	part of	family
+insect	member of	swarm
+ship	member of	flotilla
+car	part of	armada
+pen	member of	penmanship
+crew	member of	boat
+board	part of	game
+hand	member of	glove
+student	member of	dorm
+rope	part of	climbing equipment
+pen	part of	writing instrument
+finger	part of	finger puppet
+wave	part of	wave pool
+note	part of	staff
+worker	part of	construction site
+voice	part of	choirboy
+thread	part of	fabric design
+pen	part of	writing desk
+line	part of	balance sheet
+hand	part of	prosthetic
+pipe	part of	pipe smoker
+student	member of	lecture hall
+leg	part of	stand
+wave	part of	beach
+blade	part of	cutter
+voice	part of	echo
+rock	part of	escarpment
+pen	part of	stationery
+crew	member of	yacht
+leg	part of	table leg
+nurse	part of	hospital staff
+firefighter	member of	team
+businessman	member of	corporation
+journalist	member of	news team
+singer	part of	band
+poet	member of	poetry collective
+engineer	member of	engineering firm
+programmer	part of	development team
+scientist	member of	research institution
+activist	member of	activist group
+volunteer	part of	charity organization
+entrepreneur	member of	business network
+designer	member of	design firm
+architect	part of	architectural firm
+historian	member of	historical society
+archaeologist	part of	excavation team
+journalist	member of	media outlet
+model	part of	fashion show
+dancer	member of	dance troupe
+musician	part of	concert orchestra
+sailor	member of	sailing team
+student	part of	study group
+scientist	member of	scientific community
+athlete	member of	national team
+critic	member of	literary magazine
+historian	part of	historical commission
+philosopher	member of	philosophical society
+artist	part of	art museum
+curator	member of	art museum staff
+scientist	member of	scientific committee
+engineer	part of	engineering department
+manager	member of	management board
+teacher	part of	teaching faculty
+professor	member of	academic staff
+musician	part of	music band
+artist	member of	art cooperative
+director	member of	film production team
+writer	part of	writing workshop
+dancer	part of	dance company
+artist	part of	art studio
+musician	member of	music ensemble
+journalist	part of	newsroom
+historian	part of	historical society
+teacher	member of	teaching staff
+actor	part of	acting troupe
+poet	member of	poetry circle
+musician	part of	music collective
+singer	part of	singing ensemble
+historian	member of	historical commission
+scientist	part of	research laboratory
+musician	member of	music band
+journalist	part of	news team
+engineer	member of	engineering department
+pet	member of	household
+student	member of	society
+person	part of	family
+musician	part of	quintet
+person	part of	neighborhood
+artist	part of	laboratory
+worker	part of	labor union
+person	part of	group
+animal	member of	habitat
+person	member of	neighborhood
+animal	part of	ecosystem
+horse	part of	team
+bear	member of	pack
+bear	member of	den
+plane	member of	flight
+horse	part of	stables
+atom	member of	compound
+atom	member of	atom family
+car	member of	traffic
+cell	part of	cell wall
+player	member of	club
+computer	part of	lab
+astronaut	member of	space station
+firefighter	member of	station
+chemist	member of	laboratory
+mechanic	member of	workshop
+engineer	member of	construction crew
+accountant	member of	accounting firm
+engineer	member of	robotics team
+architect	member of	design firm
+singer	member of	band
+researcher	member of	research institution
+pilot	member of	flight squadron
+officer	member of	regiment
+officer	member of	detachment
+pilot	member of	air squadron
+writer	member of	literary club
+pilot	member of	air fleet
+officer	member of	battalion
+student	member of	academic department
+pilot	member of	flight detachment
+officer	member of	squadron
+officer	member of	company
+pilot	member of	flight division
+researcher	member of	research center
+student	member of	graduate school
+pilot	member of	flight wing
+mechanic	member of	garage crew
+doctor	member of	medical clinic
+officer	member of	garrison
+officer	member of	command
+student	member of	school committee
+pilot	member of	flight group
+officer	member of	headquarters
+officer	member of	division
+engineer	member of	project management
+officer	member of	regimental headquarters
+pilot	member of	air station
+mechanic	member of	maintenance crew
+officer	member of	squad leader
+student	member of	honors society
+officer	member of	detachment commander
+student	member of	student union
+singer	member of	choral group
+mechanic	member of	repair shop
+nerve	part of	nervous system
+finger	part of	fingers
+nerve	part of	spinal cord
+book	part of	novel
+strand	part of	web
+cell	part of	marrow
+line	part of	verse
+fiber	part of	yarn
+rod	part of	rodent family
+voice	part of	songbird
+pipe	part of	organ
+line	part of	stanza
+pebble	part of	collection
+pipe	part of	piping
+droplet	part of	stream
+rod	part of	branch
+student	part of	squad
+car	member of	train
+bee	part of	apiary
+atom	part of	mixture
+leaf	part of	canopy
+book	member of	archive
+book	member of	library
+bird	part of	migratory group
+bricklayer	part of	construction team
+pen	part of	holder
+bird	part of	cloud
+singer	part of	quartet
+singer	part of	orchestra
+flower	part of	arrangement
+tree	part of	copse
+flower	part of	garland
+flower	part of	posy
+flower	part of	wreath
+book	part of	volume
+player	part of	game
+driver	member of	team
+team	member of	league
+car	part of	highway system
+team	member of	tournament
+bear	member of	group
+plane	member of	air force
+boat	member of	flotilla
+key	part of	lockset
+bird	member of	avifauna
+key	part of	keyring
+plane	part of	airline
+apple	part of	fruit
+bricklayer	part of	team
+member	part of	parliament
+leaf	part of	leafy green
+member	part of	family
+bricklayer	part of	crew
+rock	part of	mountain range
+student	part of	campus
+brick	part of	edifice
+artist	part of	agency
+person	part of	humanity
+astronaut	part of	team
+member	of	society
+cellist	part of	orchestra
+physicist	part of	research
+physicist	member of	university
+physicist	member of	lab
+physicist	part of	group
+journalist	member of	newsroom
+journalist	part of	media
+sailor	member of	boat
+sailor	member of	team
+pilot	member of	organization
+manager	part of	company
+manager	member of	department
+member	of	club
+cell	member of	colony
+engineer	member of	construction
+physicist	member of	institution
+scientist	part of	team
+scientist	part of	lab
+lawyer	part of	office
+journalist	member of	team
+manager	member of	organization
+manager	part of	department
+astronaut	part of	space mission
+member	of	association
+worker	member of	gang
+car	member of	cortège
+artist	member of	ensemble
+person	member of	fellowship
+bird	member of	troupe
+horse	member of	drove
+judge	part of	court
+voter	member of	electorate
+poet	part of	movement
+physicist	member of	team
+chemist	part of	laboratory
+manager	part of	organization
+researcher	part of	institution
+scientist	member of	academy
+politician	member of	party
+officer	part of	police
+athlete	part of	championship
+worker	part of	department
+poet	part of	circle
+judge	part of	bench
+researcher	part of	institute
+worker	part of	factory floor
+politician	member of	government
+artist	part of	community
+pilot	member of	flight team
+sailor	member of	yacht club
+actor	member of	theater company
+worker	part of	shop
+scientist	member of	board
+politician	member of	council
+sailor	member of	boat club
+student	member of	campus
+worker	part of	plant
+engineer	member of	research group
+actor	part of	production
+chemist	part of	lab
+scientist	member of	council
+tree	part of	landscape
+cat	part of	colony
+car	part of	cavalcade
+cat	part of	feline family
+person	part of	horde
+person	part of	mob
+citizen	member of	city
+scientist	member of	research group
+nurse	member of	healthcare team
+manager	member of	management team
+technician	member of	maintenance team
+coach	member of	coaching staff
+lawyer	member of	law firm
+musician	member of	musical ensemble
+pilot	part of	flight squadron
+engineer	member of	engineering team
+artist	member of	art gallery
+manager	part of	management board
+technician	member of	technical support team
+athlete	member of	athletic team
+artist	part of	creative team
+scientist	member of	scientific society
+engineer	part of	engineering firm
+soldier	member of	military unit
+sailor	member of	naval crew
+technician	member of	technical team
+artist	member of	art association
+musician	part of	musical group
+manager	member of	leadership team
+pilot	member of	aviation team
+athlete	member of	sports team
+doctor	member of	healthcare staff
+musician	member of	musical orchestra
+soldier	member of	armed forces
+artist	member of	art community
+technician	member of	it support team
+teacher	member of	academic staff
+technician	member of	technical staff
+musician	member of	music group
+farmer	part of	farm
+nurse	member of	hospital staff
+poet	part of	literary movement
+architect	part of	firm
+officer	member of	department
+mechanic	part of	garage
+photographer	part of	studio
+lawyer	part of	law firm
+officer	member of	police department
+lawyer	part of	law office
+singer	part of	vocal group
+doctor	member of	medical group
+teacher	member of	academic department
+engineer	part of	tech team
+pilot	member of	airline crew
+singer	part of	singing group
+musician	part of	concert band
+singer	part of	a cappella group
+dancer	part of	dance troupe
+artist	part of	artistic collective
+teacher	member of	school faculty
+officer	member of	emergency services
+musician	part of	jazz combo
+singer	part of	vocal ensemble
+engineer	part of	innovation team
+artist	part of	creative agency
+doctor	member of	medical practice
+worker	part of	manufacturing plant
+singer	part of	gospel choir
+lawyer	part of	law partnership
+engineer	member of	tech firm
+artist	part of	design firm
+teacher	member of	university faculty
+officer	member of	law enforcement
+singer	part of	singing quartet
+engineer	part of	project management
+doctor	member of	medical center
+worker	part of	industrial plant
+musician	part of	rock band
+teacher	member of	school administration
+officer	member of	police force
+beekeeper	member of	organization
+nail	part of	board
+board	part of	cabinet
+brush	part of	paintbrush
+line	part of	route
+worker	member of	cooperative
+page	part of	bookshelf
+brick	part of	bridge
+rod	part of	wheel
+board	part of	console
+line	part of	tram
+rock	part of	island
+person	member of	party
+page	part of	binder
+line	part of	boundary
+ship	part of	navigation
+butterfly	member of	cloud
+chair	part of	set
+player	part of	side
+child	member of	generation
+bird	part of	formation
+butterfly	part of	cluster
+child	member of	kin
+player	member of	roster
+child	member of	class
+wave	part of	wind
+particle	part of	cloud
+drop	part of	storm
+blade	part of	rotor
+petal	part of	bouquet
+drop	part of	mist
+string	part of	fiddle
+note	part of	quartet
+wave	part of	ripples
+grain	part of	loaf
+note	part of	opera
+wave	part of	shoreline
+note	part of	refrain
+particle	part of	fog
+finger	part of	toe
+pilot	part of	airline
+poet	member of	group
+driver	part of	convoy
+runner	member of	pack
+bird	member of	roost
+pilot	part of	formation
+researcher	member of	team
+pilot	part of	squad
+cell	member of	tissue
+member	part of	body
+teacher	member of	team
+car	part of	highway patrol
+key	part of	computer
+person	member of	company
+car	part of	drive
+car	part of	driveway
+tree	part of	row
+car	part of	park
+person	part of	party
+car	part of	display
+car	part of	show
+drop	part of	wave
+rodent	member of	colony
+block	part of	puzzle
+bird	part of	habitat
+rod	part of	system
+stone	part of	structure
+cell	member of	population
+branch	part of	canopy
+stone	part of	architecture
+cell	part of	system
+drop	part of	rainfall
+thread	part of	textile
+rodent	member of	pack
+petal	part of	arrangement
+house	part of	estate
+aircraft	part of	hangar
+rabbit	member of	burrow
+bird	part of	nest
+aircraft	part of	airport
+aircraft	part of	airbase
+fish	part of	tank
+bee	member of	community
+ship	part of	registry
+animal	member of	sanctuary
+car	part of	yard
+bird	member of	species
+fish	part of	stream
+brick	part of	road
+bee	member of	society
+student	member of	community college
+ship	part of	dock
+animal	member of	ecosystem
+fish	part of	ocean
+tree	part of	park
+car	part of	parking garage
+tree	part of	forest reserve
+animal	member of	reserve
+animal	member of	society
+car	part of	vehicle lineup
+pen	part of	pencil set
+bricklayer	member of	construction team
+fisherman	member of	fishing party
+apple	part of	fruit bowl
+runner	member of	racing team
+fisherman	member of	fishing crew
+member	member of	group
+sailor	member of	yachting crew
+leaf	part of	plant life
+fisherman	member of	fishing industry
+student	member of	high school
+fisherman	member of	fishing community
+blade	part of	knife set
+student	member of	university class
+car	part of	convoy system
+musician	member of	jazz band
+student	member of	class of students
+leaf	part of	sprout
+sailor	member of	marina crew
+tree	part of	forest fire
+leaf	part of	botanical garden
+leaf	part of	vegetation
+leaf	part of	garden bed
+worker	member of	work crew
+leaf	part of	garden path
+paragraph	part of	chapter
+letter	part of	alphabet
+needle	part of	sewing machine
+stitch	part of	fabric
+bristle	part of	brush
+bristle	part of	hair
+digit	part of	hand
+pipe	part of	chimney
+rod	part of	pipeline
+pipe	part of	tube
+pipe	part of	conduit
+pipe	part of	cylinder
+pipe	part of	pipe wrench
+lever	part of	mechanism
+arm	part of	wing
+control	part of	airplane
+button	part of	key fob
+button	part of	remote
+button	part of	gamepad
+pixel	part of	display
+axis	part of	graph
+point	part of	coordinate
+axis	part of	coordinate system
+coordinate	part of	map
+map	part of	atlas
+atlas	part of	library
+library	part of	university
+university	part of	campus
+campus	part of	town
+town	part of	country
+country	part of	world
+world	part of	solar system
+planet	part of	solar system
+galaxy	part of	universe
+universe	part of	multiverse
+yarn	part of	fabric
+fabric	part of	garment
+vehicle	member of	procession
+driver	member of	caravan
+firefighter	member of	fire department
+player	member of	league
+musician	member of	trio
+child	member of	troop
+worker	member of	brigade
+artist	member of	association
+worker	member of	labor force
+engineer	member of	factory
+teacher	member of	college
+employee	member of	enterprise
+artist	member of	movement
+astronaut	part of	expedition
+bee	part of	cluster
+car	part of	processionion
+bee	part of	aggregation
+student	member of	population
+worker	part of	force
+bird	member of	coterie
+child	part of	kin
+sailor	part of	squadron
+bird	member of	party
+soldier	part of	detachment
+block	part of	tower
+line	part of	painting
+bead	part of	necklace
+straw	part of	hay
+cube	part of	puzzle
+spark	part of	fire
+pipe	part of	pipeorgan
+block	part of	checkerboard
+stick	part of	brush
+line	part of	wire
+spark	part of	flame
+thread	part of	rope bridge
+screw	part of	wrench
+branch	part of	spruce
+leaf	part of	maple
+line	part of	outline
+bead	part of	garland
+finger	part of	mitt
+chair	part of	committee
+engineer	member of	firm
+engineer	member of	brigade
+member	part of	guild
+face	part of	crowd
+edge	part of	border
+word	part of	vocabulary
+hand	part of	team
+wave	part of	tides
+word	part of	text
+hand	part of	handrail
+leaf	part of	bouquet
+part	part of	entity
+line	part of	equation
+piece	part of	artwork
+driver	member of	crew
+employee	member of	management
+bird	member of	migratory pattern
+boat	member of	fleet
+cat	part of	family
+animal	member of	exhibit
+person	member of	workforce
+animal	part of	herd
+boat	part of	navy
+driver	member of	garage
+singer	member of	orchestra
+student	member of	seminary
+bird	part of	rookery
+student	member of	residence
+singer	member of	troupe
+bird	member of	skein
+priest	member of	congregation
+monk	member of	order
+nun	member of	convent
+monk	member of	monastery
+programmer	member of	team
+editor	member of	staff
+researcher	member of	institution
+analyst	member of	firm
+consultant	member of	firm
+business owner	member of	association
+partner	member of	firm
+investor	member of	syndicate
+executive	member of	board
+voter	member of	community
+member	member of	society
+inhabitant	member of	village
+resident	member of	town
+pilgrim	member of	caravan
+traveler	member of	group
+crew member	member of	ship
+passenger	member of	flight
+client	member of	practice
+customer	member of	store
+customer	member of	restaurant
+patient	member of	ward
+pupil	member of	class
+novice	member of	order
+subscriber	member of	club
+associate	member of	firm
+partner	member of	venture
+associate	member of	partnership
+fellow	member of	institution
+assistant	member of	department
+staff member	member of	office
+representative	member of	government
+delegate	member of	conference
+shareholder	member of	company
+colleague	member of	workplace
+fellow worker	member of	team
+team player	member of	sport
+crew	member of	vessel
+guest	member of	hotel
+camper	member of	camp
+guest	member of	resort
+member	member of	assembly
+participant	member of	event
+member	member of	lodge
+patron	member of	arts
+donor	member of	charity
+subscriber	member of	service
+user	member of	network
+member	member of	union
+colleague	member of	firm
+associate	member of	business
+fellow	member of	club
+member	member of	family
+relative	member of	household
+member	member of	community
+partaker	member of	project
+fellow	member of	group
+inhabitant	member of	town
+resident	member of	city
+member	member of	institution
+pupil	member of	school
+trainee	member of	company
+intern	member of	firm
+novice	member of	trade
+citizen	member of	country
+subject	member of	course
+member	member of	system
+component	member of	whole
+butterfly	member of	colony
+bear	member of	litter
+person	member of	squad
+leaf	part of	leaflet
+cat	member of	cattery
+student	member of	association
+soldier	member of	detachment
+plant	part of	garden
+bee	part of	nest
+car	part of	retinue
+friend	member of	circle
+chapter	part of	story
+stone	part of	mosaic
+sheep	member of	fold
+reader	member of	book club
+author	member of	publishing house
+composer	member of	orchestra
+poet	member of	literary society
+engineer	member of	construction team
+speaker	member of	panel
+singer	member of	a cappella group
+student	part of	seminar
+designer	member of	design studio
+editor	member of	newsroom
+engineer	member of	consulting firm
+explorer	member of	archaeological team
+scientist	member of	research department
+musician	member of	music festival
+actor	member of	movie cast
+teacher	member of	faculty senate
+researcher	member of	think tank
+singer	member of	vocal group
+author	member of	writing group
+engineer	member of	research institute
+scientist	member of	research center
+pilot	member of	airline staff
+musician	member of	rock band
+singer	member of	vocal ensemble
+teacher	member of	advisory board
+singer	member of	gospel choir
+musician	member of	jazz ensemble
+writer	member of	writing collective
+actor	member of	theater troupe
+engineer	member of	software development team
+singer	member of	a cappella choir
+artist	member of	artist collective
+musician	member of	string quartet
+teacher	member of	curriculum committee
+singer	member of	musical group
+researcher	member of	research lab
+musician	member of	music club
+actor	member of	film production company
+singer	member of	performance group
+student	member of	academic program
+student	member of	student government
+singer	member of	musical ensemble
+bee	member of	cluster
+member	part of	fraternity
+teacher	member of	administration
+artist	part of	atelier
+teacher	member of	board
+butterfly	member of	cluster
+mouse	member of	group
+bee	member of	horde
+person	member of	troupe
+mouse	member of	nest
+cat	member of	group
+person	member of	clan
+cat	member of	coterie
+worker	part of	office
+bird	member of	family
+butterfly	part of	caterpillar
+athlete	part of	gym team
+student	part of	research team
+tree	member of	woodland
+butterfly	part of	moth
+fruit	part of	fruit basket
+sailor	part of	convoy
+fruit	part of	punch
+butterfly	part of	metamorphosis
+fruit	part of	dessert
+student	part of	discussion group
+car	part of	processional
+sailor	part of	expedition
+student	part of	committee
+fruit	part of	arrangement
+insect	part of	brood
+student	part of	peer group
+cell	member of	body
+mouse	part of	pack
+bird	member of	community
+key	member of	bunch
+hand	member of	crew
+brick	member of	group
+hand	part of	handhold
+branch	member of	family
+key	part of	cluster
+cell	part of	group
+hand	part of	handle
+star	part of	aurora
+key	member of	set
+stone	part of	cornerstone
+board	part of	computer
+stone	part of	necklace
+bar	part of	graph
+stick	part of	walking stick
+tube	part of	vacuum
+board	part of	bulletin
+stick	part of	switch
+wire	part of	network
+button	part of	purse
+beam	part of	suspension
+pebble	part of	driveway
+rod	part of	antennae
+bar	part of	histogram
+board	part of	display
+rock	part of	cairn
+stick	part of	rake
+wire	part of	fence
+button	part of	gloves
+stick	part of	broomstick
+stone	part of	pathway
+swimmer	member of	swim team
+carpenter	member of	workshop
+engineer	member of	aerospace engineering group
+engineer	member of	civil engineering firm
+singer	member of	opera company
+engineer	member of	chemical engineering department
+engineer	member of	electrical engineering lab
+engineer	member of	mechanical engineering team
+engineer	member of	environmental engineering group
+engineer	member of	computer engineering lab
+singer	member of	pop band
+engineer	member of	industrial engineering firm
+engineer	member of	biomedical engineering team
+student	member of	school band
+actor	member of	film production team
+singer	member of	country band
+engineer	member of	petroleum engineering team
+engineer	member of	structural engineering firm
+dancer	member of	ballet company
+engineer	member of	materials science department
+student	member of	book club
+engineer	member of	materials engineering lab
+musician	member of	marching band
+writer	member of	history club
+poet	member of	spoken word collective
+singer	member of	blues band
+engineer	member of	systems engineering team
+musician	member of	philharmonic orchestra
+artist	member of	visual arts cooperative
+engineer	member of	systems engineering department
+student	member of	science club
+teacher	member of	curriculum development team
+singer	member of	heavy metal band
+engineer	member of	aerospace engineering department
+student	member of	robotics club
+teacher	member of	school board
+student	member of	debate club
+engineer	member of	mechatronics engineering team
+dancer	member of	modern dance troupe
+writer	member of	literary magazine
+student	member of	history club
+musician	member of	concert band
+engineer	member of	mechanical engineering firm
+artist	member of	painting collective
+student	member of	school newspaper
+teacher	member of	professional development team
+poet	member of	poetry slam group
+singer	member of	hip hop band
+engineer	member of	software engineering lab
+writer	member of	journalism club
+singer	member of	folk band
+musician	member of	music school
+engineer	member of	electrical engineering department
+student	member of	math
+bicycle	part of	collection
+person	member of	club
+chair	part of	household
+computer	part of	computer lab
+student	member of	classroom
+cat	part of	community
+car	part of	transportation
+cat	member of	domesticity
+stone	part of	construction
+note	part of	music
+line	part of	dance
+thread	part of	thread
+pin	part of	hat
+leaf	part of	green
+leaf	part of	forest
+coin	part of	treasury
+player	part of	orchestra
+cell	part of	organ system
+component	part of	circuit
+part	part of	equipment
+component	part of	equipment
+branch	part of	garden
+sheep	member of	mob
+component	part of	tool
+cell	part of	cell line
+student	member of	academic
+artist	member of	orchestra
+staff	member of	team
+staff	part of	newspaper
+staff	part of	staff meeting
+petal	part of	tulip
+beam	part of	raft
+staff	part of	faculty
+leg	part of	stool
+staff	part of	committee
+ship	part of	cargo
+screw	part of	machine tool
+staff	part of	personnel
+cell	part of	phone network
+rod	part of	camera
+line	part of	schedule
+screw	part of	aircraft
+beam	part of	structure
+nail	part of	door
+driver	member of	racing team
+scientist	member of	research lab
+fireman	member of	brigade
+chef	member of	culinary team
+police officer	member of	department
+judge	member of	bench
+lawyer	member of	bar
+accountant	member of	firm
+architect	member of	firm
+reporter	member of	news team
+manager	member of	administration
+technician	member of	workshop
+director	member of	board
+designer	member of	firm
+wave	part of	sound
+cog	part of	gear train
+atom	part of	material
+atom	part of	crystal lattice
+strand	part of	rope net
+rod	part of	rodent cage
+wave	part of	spectrum
+book	part of	bookcase
+brick	part of	construction site
+petal	part of	flower arrangement
+atom	part of	alloy
+feather	part of	plumage pattern
+rod	part of	wooden beam
+neuron	part of	brain region
+wheel	part of	bicycle wheel
+rod	part of	tentacle
+thread	part of	tape
+fruit	part of	orchard
+cellist	member of	ensemble
+beekeeper	member of	beekeeping team
+farmer	member of	cooperative
+student	member of	tutorial group
+branch	part of	river
+key	part of	keyboard layout
+pet	member of	pack
+ray	part of	sunlight spectrum
+student	member of	research project
+branch	part of	stream
+student	member of	reading group
+ray	part of	electromagnetic spectrum
+key	part of	keyboard shortcut
+worker	member of	assembly line
+pet	member of	pack pack
+component	part of	apparatus
+student	member of	language exchange
+bee	member of	pollinator
+student	member of	drama club
+musician	member of	brass band
+key	part of	piano keyboard
+student	member of	reading circle
+sailor	member of	yacht crew
+branch	part of	tree branch
+cell	part of	stomach
+musician	member of	string orchestra
+lawyer	member of	bar association
+officer	member of	military unit
+engineer	member of	technical team
+member	part of	ensemble
+officer	member of	police squad
+scientist	member of	academic department
+officer	member of	law enforcement agency
+doctor	member of	medical facility
+engineer	member of	manufacturing team
+doctor	member of	medical corps
+scientist	member of	research organization
+engineer	member of	architectural team
+officer	member of	special forces
+doctor	member of	health team
+engineer	member of	mechanical team
+member	part of	cast
+officer	member of	tactical unit
+teacher	member of	educational staff
+member	member of	committee of organization
+lawyer	member of	legal firm
+scientist	member of	academic institution
+member	member of	working group
+doctor	member of	medical staff team
+officer	member of	tactical forces
+engineer	member of	technical staff
+sailor	member of	naval crew team
+teacher	member of	teaching faculty
+officer	member of	law enforcement unit
+student	member of	university community
+member	member of	business association
+doctor	member of	healthcare group
+artist	member of	art group
+engineer	member of	production team
+lawyer	member of	law firm team
+officer	member of	emergency response
+musician	member of	symphony orchestra
+engineer	member of	research
+car	member of	lineup
+butterfly	member of	population
+stone	part of	ground
+leaf	part of	greenery
+artist	member of	workshop
+bird	part of	nesting box
+dog	member of	bunch
+student	member of	peer group
+flower	part of	vase
+person	part of	crew
+dog	part of	group
+car	part of	lineup of cars
+student	member of	academic community
+mouse	part of	group
+cat	part of	group
+bird	part of	flock of birds
+person	member of	team of people
+pen	part of	case
+student	member of	learning community
+person	part of	group of people
+cat	part of	group of cats
+student	member of	educational institution
+car	part of	carpool
+book	part of	set
+tree	part of	forest ecosystem
+key	part of	set of keys
+flower	part of	bunch
+dog	part of	family of dogs
+book	part of	collection of books
+bee	part of	hive of bees
+cat	part of	litter of kittens
+bird	member of	flock of birds
+tree	part of	plantation of trees
+pen	part of	holder of pens
+student	member of	group of students
+cat	part of	bunch
+dog	member of	pack of dogs
+car	part of	garage of cars
+book	part of	library of books
+student	member of	student population
+bee	member of	colony of bees
+tree	part of	forest of trees
+flower	part of	bouquet of flowers
+person	member of	crew of people
+cat	part of	family of cats
+beekeeper	member of	colony
+carabiner	member of	team
+atomizer	member of	team
+rod	part of	guitar
+bricklayer	member of	workforce
+sailboat	member of	fleet
+book	part of	curriculum
+grain	part of	kernel
+rod	part of	axis
+drop	part of	spray
+bookshelf	part of	bookstore
+pebble	part of	aggregate
+petal	part of	bloom
+rock	part of	crag
+thread	part of	threadwork
+beam	part of	girderwork
+rock	part of	granite
+member	part of	constituency
+sailboat	member of	squadron
+cell	part of	cellscape
+plane	part of	sky
+molecule	member of	solution
+plane	part of	aviation
+soldier	member of	brigade
+molecule	member of	mixture
+sheep	part of	pasture
+grain	part of	estate
+actor	member of	production
+musician	part of	combo
+dancer	part of	company
+engineer	part of	crew
+student	member of	yearbook
+doctor	member of	ward
+teacher	member of	staffroom
+teacher	part of	teaching staff
+musician	member of	big band
+actor	member of	production crew
+singer	part of	jazz ensemble
+musician	part of	big band
+engineer	part of	research team
+doctor	part of	medical clinic
+actor	member of	film cast
+actor	member of	play cast
+actor	member of	production team
+boat	part of	convoy
+pebble	part of	cairn
+vein	part of	leaf
+line	part of	network
+rodent	member of	herd
+piece	part of	board
+screw	part of	device
+string	part of	necklace
+screw	part of	fastener
+nail	part of	tool
+vein	part of	plant
+piece	part of	machine
+screw	part of	fixture
+rod	part of	construction
+line	part of	path
+vein	part of	vascular system
+rod	part of	support
+drop	part of	flow
+vein	part of	network
+member	member of	parliament
+runner	member of	marathon club
+technician	member of	lab
+surgeon	member of	surgical team
+engineer	member of	research center
+artist	member of	museum
+player	member of	chess club
+programmer	member of	development team
+singer	member of	opera
+actor	member of	theater
+engineer	member of	architectural firm
+artist	member of	community arts program
+engineer	member of	product development team
+scientist	member of	research council
+player	member of	bridge club
+singer	member of	choir group
+engineer	member of	startup company
+teacher	member of	staff council
+athlete	member of	track and field team
+writer	member of	editorial board
+engineer	member of	mechanical engineering department
+athlete	member of	sports organization
+doctor	member of	medical association
+artist	member of	visual arts program
+engineer	member of	project management team
+engineer	member of	it department
+athlete	member of	cycling team
+doctor	member of	emergency medical services
+artist	member of	art museum
+scientist	member of	environmental organization
+athlete	member of	equestrian team
+musician	member of	recording studio
+artist	member of	arts council
+teacher	member of	education committee
+singer	member of	chamber choir
+engineer	member of	innovation lab
+athlete	member of	swim team
+doctor	member of	medical group practice
+scientist	member of	physics department
+artist	member of	community arts organization
+engineer	member of	data analytics team
+member	member of	association
+house	member of	estate
+leaf	member of	foliage
+employee	part of	team
+person	part of	tribe
+cell	part of	network
+cell	part of	structure
+bird	part of	avifauna
+person	member of	brigade
+student	member of	troupe
+pen	part of	writing set
+book	part of	publication
+student	part of	graduating class
+firefighter	member of	brigade
+pilot	part of	aircrew
+student	part of	student union
+person	member of	tribe
+employee	member of	board
+artist	part of	exhibit
+officer	part of	army
+nurse	member of	hospital
+writer	member of	workshop
+artist	part of	installation
+employee	member of	corporation
+officer	part of	guard
+athlete	member of	tournament
+manager	member of	staff
+artist	part of	museum
+writer	part of	publication
+musician	part of	concert
+teacher	member of	school
+officer	part of	station
+musician	part of	performance
+athlete	part of	competition
+artist	part of	display
+officer	member of	force
+manager	part of	firm
+artist	part of	collection
+cloud	part of	cloud bank
+thread	part of	strand
+finger	part of	finger nail
+employee	part of	personnel
+wave	part of	surge
+bee	member of	hives
+student	part of	batch
+grain	part of	grain store
+note	part of	document
+part	of engine	car
+part	of machine	factory
+note	part of	sheet music
+worker	member of	mine
+member	of team	company
+key	part of	keycard
+leaf	part of	leafy tree
+member	of squad	military
+part	of engine	train
+wave	part of	wave pattern
+cell	part of	circuit
+note	part of	phrase
+part	of machine	gear
+member	of unit	team
+part	of body	arm
+ray	part of	radiation
+member	of family	household
+stock	part of	inventory
+part	of	mechanism
+part	of	machine
+bird	member of	migratory flock
+stock	part of	market
+part	of	system
+part	of	vehicle
+tree	part of	woodlot
+key	part of	toolset
+stock	part of	portfolio
+part	of	equipment
+member	part of	population
+employee	member of	personnel
+part	of	instrument
+animal	part of	enclosure
+actor	part of	troupe
+actor	part of	company
+aircraft	part of	airforce
+bird	part of	gathering
+boat	part of	sail
+aircraft	part of	airwing
+animal	part of	pack
+aircraft	part of	squad
+actor	part of	theater
+choir member	part of	chorus
+fan	part of	audience
+friend	member of	group
+gang member	part of	gang
+graduate student	member of	university
+guitarist	member of	band
+honeybee	member of	colony
+ice skater	member of	team
+kid	member of	family
+kite	part of	aerial display
+neighbor	member of	neighborhood
+observer	member of	expedition
+oriole	member of	flock
+pearl	part of	oyster
+resident	member of	community
+songbird	member of	chorus
+surgeon	member of	medical staff
+swimmer	member of	team
+tenant	member of	household
+therapist	member of	practice
+volunteer	member of	organization
+warbler	member of	flock
+welder	member of	workshop
+writer	member of	literary society
+blade	part of	lawn
+line	part of	rope
+screw	part of	toy
+student	part of	club
+worker	part of	squad
+student	part of	community
+button	part of	badge
+coin	part of	treasure
+drop	part of	bottle
+stone	part of	road
+actor	member of	company
+piece	part of	design
+car	part of	road
+chair	part of	arrangement
+chair	part of	room
+member	part of	staff
+fish	part of	colony
+atom	part of	solution
+employee	part of	crew
+book	part of	manuscript
+book	part of	tome
+person	part of	household
+fish	part of	swarm
+book	part of	directory
+fireman	member of	station
+lawyer	part of	bar
+runner	part of	pace
+player	part of	rotation
+worker	part of	gang
+engineer	part of	workshop
+engineer	member of	division
+engineer	part of	squad
+worker	member of	corps
+officer	part of	squad
+lawyer	part of	team
+runner	member of	pace
+officer	member of	station
+engineer	part of	division
+officer	part of	force
+cell	member of	organism
+bike	part of	collection
+animal	part of	habitat
+person	member of	gathering
+hair	part of	wig
+rod	part of	rodenticide
+button	part of	clothes
+pipe	part of	pipefitting
+screw	part of	screwjack
+cell	part of	cell phone
+note	part of	notation
+button	part of	microphone
+beam	part of	beamline
+brush	part of	paint
+screw	part of	screwcap
+brick	part of	bricklayer
+bone	part of	skull
+stone	part of	rockery
+fish	part of	fishery
+screw	part of	screwdriver set
+pin	part of	spinning top
+rod	part of	rodent species
+wheel	part of	wheelwright
+button	part of	switch
+cell	part of	cellular network
+grain	part of	harvest season
+rod	part of	rodenticide bait
+stone	part of	stonework
+screw	part of	screwy
+brush	part of	whisk
+nail	part of	nailgun
+bone	part of	skeleton key
+screw	part of	screwscrew
+beam	part of	beamy
+thread	part of	th
+artist	member of	union
+artist	part of	movement
+sailor	part of	voyage
+student	part of	curriculum
+citizen	part of	society
+animal	part of	pod
+student	part of	syllabus
+citizen	part of	city
+sailor	part of	mission
+citizen	part of	municipality
+student	part of	regimen
+animal	part of	drove
+citizen	part of	town
+man	member of	team
+bird	part of	sky
+electron	part of	orbit
+city	part of	country
+town	part of	city
+river	part of	lake
+lake	part of	river
+valley	part of	mountain
+muscle	part of	body
+nerve	part of	system
+heart	part of	system
+foot	part of	body
+ankle	part of	leg
+knee	part of	body
+head	part of	neck
+neck	part of	body
+vein	part of	system
+artery	part of	system
+liver	part of	body
+kidney	part of	body
+heart	part of	body
+blood	part of	body
+nerve	part of	body
+stomach	part of	body
+intestine	part of	body
+skin	part of	body
+vein	part of	blood
+bone	part of	body
+artery	part of	blood
+lung	part of	body
+robot	part of	factory
+robot	part of	machine
+bear	part of	herd
+robot	part of	assembly
+person	part of	public
+athlete	member of	roster
+person	part of	multitude
+robot	part of	machinery
+doctor	member of	team
+bear	member of	cubs
+mouse	part of	herd
+butterfly	part of	flock
+frog	part of	group
+boy	member of	gang
+man	member of	community
+woman	member of	community
+boy	member of	clique
+man	part of	crew
+monkey	part of	tribe
+woman	member of	family
+man	part of	team
+man	part of	community
+vehicle	part of	procession
+electron	part of	molecule
+vehicle	part of	traffic
+bird	part of	squad
+electron	part of	electron cloud
+insect	part of	nest
+cell	part of	cell cycle
+wave	part of	ocean wave
+cat	part of	mews
+leaf	part of	sapling
+fruit	part of	harvest
+officer	member of	crew
+fruit	part of	crop
+officer	member of	administration
+pilot	member of	mission
+bird	part of	migratory flock
+ship	part of	task force
+molecule	part of	chemical
+particle	part of	system
+line	part of	song
+component	part of	assembly
+part	part of	total
+soldier	part of	unit
+robot	part of	assembly line
+pilot	part of	air fleet
+employee	part of	payroll
+student	part of	cohort group
+worker	part of	workforce team
+member	part of	faction
+student	member of	academic institution
+animal	member of	troop
+cat	part of	pack
+car	member of	cavalcade
+runner	member of	marathon
+hiker	member of	group
+philosopher	member of	school
+mathematician	member of	department
+player	member of	squad
+volunteer	member of	team
+philosopher	member of	movement
+scientist	member of	laboratory
+researcher	member of	department
+philosopher	member of	circle
+mathematician	member of	group
+scientist	member of	research facility
+philosopher	member of	forum
+bookshelf	part of	store
+brick	part of	building block
+brick	part of	architecture
+book	part of	inventory
+brick	part of	construction
+cow	member of	herd
+doctor	member of	unit
+writer	member of	organization
+engineer	member of	section
+musician	member of	crew
+teacher	member of	university
+scientist	member of	research
+butterfly	part of	squadron
+ant	part of	line
+frog	part of	swarm
+ant	member of	hill
+bird	member of	chorus
+butterfly	member of	generation
+bird	part of	group
+rabbit	member of	community
+rabbit	part of	group
+wave	part of	wave set
+bug	member of	infestation
+tool	part of	toolbox
+fish	part of	water
+tool	part of	workshop
+fish	part of	schoolyard
+tool	part of	mechanic
+book	part of	stack
+house	part of	mansion
+tool	part of	kit
+house	part of	community
+insect	part of	infestation
+bird	part of	fowl
+book	part of	series
+tool	part of	shed
+line	part of	queue
+word	part of	paragraph
+block	part of	cube
+piece	part of	pattern
+part	part of	composition
+drop	part of	fog
+line	part of	interface
+person	part of	workforce
+thread	part of	threader
+person	part of	company
+person	part of	organization
+line	part of	profile
+part	of	robot
+stone	part of	rock
+edge	part of	ruler
+handle	part of	handlebar
+segment	part of	pie
+fiber	part of	fiber optic
+tooth	part of	jaw
+part	of	device
+edge	part of	edge tool
+rod	part of	axle
+segment	part of	chain
+beam	part of	beam balance
+piece	part of	craft
+part	of	component
+edge	part of	saw
+bolt	part of	door
+rod	part of	ruler
+slice	part of	pie chart
+fiber	part of	cord
+part	of	module
+segment	part of	shape
+beam	part of	gable
+part	of	apparatus
+key	part of	keyhole
+wheel	part of	wheel
+dolphin	member of	pod
+fruit	part of	tree
+grape	part of	grapevine
+queen	part of	hive
+commander	member of	army
+captain	member of	crew
+coach	member of	team
+coach	member of	staff
+staff	part of	institution
+student	member of	staff
+faculty	part of	university
+professor	member of	faculty
+colleague	member of	office
+coworker	member of	office
+team	part of	organization
+company	part of	corporation
+department	part of	corporation
+board	part of	corporation
+squadron	part of	division
+division	part of	army
+battalion	part of	army
+platoon	part of	battalion
+team	member of	club
+team	part of	institution
+finger	part of	finger
+child	member of	youth
+grain	part of	grain
+wave	part of	wave
+finger	part of	thumb
+unit	part of	battalion
+employee	part of	union
+student	member of	orchestra
+member	part of	gang
+student	member of	band
+student	member of	company
+branch	part of	woodland
+student	member of	ensemble
+manager	member of	executive team
+worker	part of	production line
+player	member of	band
+poet	member of	poetry club
+employee	part of	sales team
+crew	member of	ship
+officer	member of	staff
+officer	part of	corps
+officer	part of	battalion
+member	part of	class
+department	part of	company
+person	part of	culture
+chapter	part of	volume
+department	part of	organization
+member	of	partnership
+chapter	part of	publication
+member	of	union
+department	part of	firm
+member	of	committee
+wave	part of	surfing
+insect	part of	garden
+part	of a	machine
+insect	member of	anthill
+rock	part of	rockery
+grain	part of	grainery
+rock	part of	rockpile
+resident	member of	neighborhood
+part	part of	puzzle
+strand	part of	rope ladder
+line	part of	border line
+strand	part of	fiber optic
+thread	part of	braid
+cell	part of	muscle
+strand	part of	rope walk
+strand	part of	cable car
+bricklayer	part of	construction crew
+sailor	part of	sailing club
+component	part of	product
+electron	part of	ion
+electron	part of	compound
+engineer	part of	construction
+robot	part of	robotics
+passenger	part of	convoy
+technician	part of	workshop
+dancer	member of	ensemble
+swimmer	part of	team
+surfer	part of	lineup
+volunteer	part of	charity
+donor	part of	campaign
+staff	part of	department
+traveler	part of	caravan
+engineer	member of	institute
+traveler	part of	tour
+passenger	part of	train
+technician	member of	crew
+volunteer	member of	community
+traveler	part of	expedition
+bird	member of	group
+book	part of	textbook
+thread	part of	weaving
+note	part of	arrangement
+car	part of	escort
+wheel	part of	machinery
+rod	part of	structure
+student	member of	gym
+branch	part of	corporation
+rod	part of	column
+instrument	part of	band
+rod	part of	instrument
+beam	part of	construction
+rod	part of	stand
+neuron	part of	system
+branch	part of	hierarchy
+wheel	part of	equipment
+neuron	part of	circuit
+grain	part of	mix
+stone	part of	cluster
+blade	part of	machine
+particle	part of	universe
+fiber	part of	carpet
+link	part of	chain
+part	part of	process
+part	part of	circuit
+component	part of	circuit board
+rod	part of	steering
+screw	part of	engine block
+link	part of	anchor
+component	part of	electronics
+part	part of	pathway
+link	part of	necklace
+nail	part of	floor
+piece	part of	patch
+part	part of	organism
+rod	part of	stalk
+link	part of	chainlink
+book	part of	bestseller list
+member	part of	board of trustees
+brick	part of	pathway
+student	member of	research group
+student	member of	athletic team
+leaf	part of	tea
+member	part of	advisory board
+student	member of	symphony
+member	part of	board of advisors
+ship	part of	fleet reserve
+student	member of	marching band
+student	member of	volunteer team
+seed	part of	flowerbed
+member	part of	governing board
+worker	part of	warehouse
+ship	part of	maritime
+student	member of	academic team
+leaf	part of	salad bar
+book	part of	literature
+student	member of	research institute
+person	part of	town
+fruit	part of	basket
+vehicle	part of	network
+seed	part of	packet
+vessel	part of	cargo
+guest	member of	party
+drop	part of	water
+vessel	part of	ship
+unit	part of	unitary
+rock	part of	terrain
+strand	part of	bundle
+leaf	part of	spray
+vessel	part of	navy
+strand	part of	ropey
+limb	part of	member
+strand	part of	thread
+author	member of	guild
+poet	member of	collective
+writer	member of	union
+ray	part of	fish
+member	member of	jury
+rod	part of	staff
+writer	member of	pen club
+key	part of	keycap
+ray	part of	starfish
+rod	part of	cane
+drop	part of	stream
+rod	part of	reed
+voice	part of	a c
+beekeeper	member of	association
+firefighter	member of	department
+traveler	member of	expedition
+poet	member of	writing group
+priest	member of	clergy
+rabbi	member of	congregation
+professor	member of	academic department
+musician	member of	chamber orchestra
+manager	member of	board of directors
+judge	member of	appellate court
+nun	member of	sisterhood
+judge	member of	supreme court
+officer	member of	military branch
+player	member of	sports team
+student	member of	graduate program
+firefighter	member of	rescue squad
+scientist	member of	laboratory team
+engineer	member of	construction firm
+student	member of	college class
+student	member of	high school class
+lawyer	member of	law office
+tooth	part of	smile
+pin	part of	safety
+note	part of	sequence
+hand	part of	palm
+finger	part of	fingernail
+button	part of	machine
+pet	part of	litter
+leg	part of	furniture
+line	part of	telephone
+stone	part of	foundation
+petal	part of	stem
+finger	part of	wrist
+soldier	member of	troop
+plane	part of	air fleet
+star	part of	solar system
+cloud	part of	meteorological system
+person	member of	choir
+cloud	part of	overcast
+ant	part of	army
+animal	part of	pride
+butterfly	part of	flutter
+bike	part of	procession
+member	of	community
+player	part of	squad
+member	of	nation
+citizen	part of	population
+plant	part of	ecosystem
+member	of	population
+team	member of	division
+vehicle	member of	convoy
+worker	part of	labor market
+droplet	part of	dew
+fiber	part of	cloth
+ray	part of	flashlight
+brush	part of	kit
+fiber	part of	bundle
+line	part of	contour
+neuron	part of	cortex
+voice	part of	quartet
+leaf	part of	meadow
+fiber	part of	strand
+ray	part of	sunrise
+droplet	part of	cloud
+line	part of	chorus
+word	part of	prose
+grain	part of	storage
+stone	part of	canyon
+grain	part of	bin
+piece	part of	framework
+word	part of	narrative
+house	part of	village
+insect	member of	society
+piece	part of	equipment
+grain	part of	storage unit
+line	part of	lyrics
+piece	part of	mechanism
+bird	part of	flyway
+grain	part of	collection
+piece	part of	furniture
+grain	part of	warehouse
+car	part of	traffic jam
+insect	member of	army
+cog	part of	machine
+bar	part of	chart
+piece	part of	garment
+bar	part of	gate
+grain	part of	bread
+line	part of	axis
+bar	part of	railing
+rod	part of	piston
+screw	part of	toolbox
+bar	part of	bridge
+bolt	part of	wrench
+rod	part of	crankshaft
+pet	part of	zoo
+car	part of	queue
+animal	part of	colony
+car	part of	process
+car	part of	column
+painter	member of	studio
+grain	part of	store
+employee	member of	crew
+car	part of	flow
+student	member of	populace
+grain	part of	load
+grain	part of	grainstore
+worker	member of	group
+fish	part of	sea
+animal	part of	farm
+neuron	part of	organ
+grain	part of	grain heap
+ray	part of	triangle
+ray	part of	quadrilateral
+pebble	part of	riverbed
+piece	part of	scenery
+electron	part of	current
+button	part of	circuit
+ray	part of	polygon
+screw	part of	gearbox
+piece	part of	landscape
+screw	part of	compressor
+button	part of	console
+ray	part of	circle
+button	part of	control panel
+piece	part of	story
+instrument	part of	orchestra
+ship	member of	harbor
+instrument	part of	ensemble
+dog	part of	household
+bike	part of	fleet
+apple	part of	fruit basket
+dog	part of	neighborhood
+cat	part of	house
+artist	part of	ensemble
+fish	part of	coral reef
+bear	part of	pride
+student	part of	residence
+tree	part of	meadow
+bear	part of	troop
+fish	part of	fishpond
+bear	part of	cubs
+cat	part of	neighborhood
+student	member of	school board
+artist	member of	art movement
+scholar	member of	research group
+poet	member of	literary club
+dancer	member of	dance company
+philosopher	member of	philosophical school
+businessperson	member of	board of directors
+engineer	part of	robotics team
+architect	member of	architectural firm
+linguist	member of	linguistic association
+student	member of	school club
+scientist	part of	research project
+businessperson	member of	entrepreneurship group
+designer	member of	design team
+explorer	member of	archaeological expedition
+musician	part of	musical theater company
+athlete	member of	sports league
+lawyer	member of	law society
+scientist	member of	scientific institute
+researcher	member of	research group
+poet	member of	literary organization
+musician	part of	jazz quartet
+philosopher	member of	philosophical club
+businessperson	member of	business association
+musician	part of	chamber music group
+explorer	member of	expedition team
+scientist	member of	scientific team
+philosopher	member of	philosophical organization
+poet	member of	poetry group
+businessperson	member of	business network
+explorer	member of	adventure club
+journalist	member of	news media
+scientist	member of	research committee
+nail	part of	nail set
+sailor	part of	team
+fish	member of	community
+pebble	part of	shore
+snake	part of	nest
+bird	part of	aeroplane
+mouse	part of	computer
+sun	part of	solar system
+satellite	part of	system
+atom	part of	universe
+page	part of	diary
+mouse	part of	computer system
+river	part of	stream
+computer	part of	computer system
+neuron	part of	brain stem
+mouse	part of	desktop
+river	part of	riverbed
+student	member of	board
+cell	part of	epithelium
+river	part of	estuary
+student	member of	task force
+edge	part of	square
+note	part of	invoice
+leaf	part of	leafy plant
+nail	part of	ship
+page	part of	report
+leg	part of	couch
+screw	part of	airplane
+button	part of	television
+bone	part of	dinosaur
+handle	part of	wagon
+screw	part of	windmill
+stick	part of	reed
+board	part of	fence
+part	of	engine
+drop	part of	liquid
+part	of	gear
+note	part of	songbook
+cell	part of	body system
+cell	part of	creature
+thread	part of	stitch
+cell	part of	plant cell
+drop	part of	pool
+student	member of	alumni
+atom	part of	ion
+electron	part of	radiation
+note	part of	aria
+grain	part of	produce
+note	part of	cadence
+atom	part of	isotope
+thread	part of	yarn ball
+writer	part of	workshop
+writer	member of	network
+pilot	part of	fleet
+bird	member of	society
+engineer	member of	laboratory
+writer	member of	society
+philosopher	member of	academy
+mathematician	member of	research group
+researcher	member of	laboratory
+nurse	member of	medical staff
+chemist	member of	research team
+physicist	member of	research group
+musician	member of	folk band
+politician	member of	cabinet
+sociologist	member of	research team
+musician	member of	gospel choir
+psychologist	member of	clinic
+musician	member of	blues band
+business owner	member of	business association
+mathematician	member of	mathematical society
+musician	member of	jazz quartet
+musician	member of	folk ensemble
+historian	member of	historical committee
+musician	member of	pop band
+economist	member of	research team
+officer	member of	armed forces
+physicist	member of	research institution
+musician	member of	musical theater
+mathematician	member of	academic department
+pilot	member of	flight school
+historian	member of	museum staff
+chemist	member of	research center
+musician	member of	country band
+musician	member of	opera company
+officer	member of	fire department
+musician	member of	rock opera
+musician	member of	electronic band
+philosopher	member of	academic department
+pilot	member of	air crew
+musician	member of	gospel quartet
+artist	member of	art guild
+musician	member of	fusion band
+pilot	member of	flight squad
+writer	member of	publishing house
+officer	member of	military academy
+artist	part of	team
+officer	part of	unit
+student	part of	semester
+student	part of	year
+bee	part of	hives
+cell	part of	apparatus
+soldier	part of	corps
+officer	part of	section
+officer	part of	platoon
+robot	member of	army
+frog	part of	chorus
+bird	part of	garden
+sheep	part of	farm
+bird	part of	sanctuary
+grain	part of	basket
+bird	part of	backyard
+sheep	part of	field
+atom	part of	atomosphere
+key	part of	calculator
+book	part of	rack
+sheep	part of	meadow
+frog	member of	pond
+pig	part of	sty
+deer	part of	herd
+sailor	part of	yacht club
+rooster	part of	farm
+rabbit	part of	cavy
+rabbit	part of	burrow
+wolf	part of	litter
+swimmer	part of	relay
+ant	member of	mound
+musician	member of	combo
+animal	member of	farm
+rabbit	member of	hutch
+horse	part of	stud
+butterfly	part of	colony
+chef	member of	kitchen
+poet	member of	workshop
+sailor	member of	expedition
+mechanic	member of	shop
+doctor	member of	research
+musician	member of	jazz group
+engineer	member of	design firm
+sailor	member of	naval team
+pilot	member of	space mission
+beekeeper	member of	beekeeping society
+horse	part of	ranch
+worker	member of	factory crew
+horse	part of	pastureland
+sailor	member of	sailing expedition
+mechanic	member of	repair service
+artist	member of	creative collective
+singer	member of	music group
+team	member of	association
+dancer	member of	corps de ballet
+dancer	member of	company
+team	member of	union
+mouse	member of	community
+star	member of	system
+mouse	member of	swarm
+bird	member of	fledge
+car	part of	corte
+electron	part of	beam
+cell	part of	ganglion
+electron	part of	flow
+star	part of	asterism
+note	part of	solo
+wave	part of	swell
+ray	part of	moon
+branch	part of	arm
+voice	part of	whisper
+drop	part of	cloud
+fruit	part of	mixture
+branch	part of	trunk
+rock	part of	rock pile
+pen	part of	desk
+piano	part of	orchestra
+cell	part of	cell division
+bird	member of	flocks
+engine	part of	aircraft
+finger	part of	nail
+wheel	part of	cog
+finger	part of	fingerpuppet
+person	member of	church
+student	member of	tutorial
+wave	part of	break
+student	member of	forum
+dog	part of	brigade
+bird	member of	cloud
+bird	member of	fink
+runner	part of	team
+nurse	member of	nursing staff
+tourist	member of	tour group
+fireman	part of	fire department
+musician	part of	string quartet
+actor	part of	film cast
+chef	part of	kitchen staff
+engineer	part of	electrical team
+teacher	part of	educational institution
+firefighter	part of	fire brigade
+engineer	part of	highway construction
+engineer	part of	architectural firm
+teacher	member of	educational community
+engineer	part of	engineering corporation
+nurse	part of	emergency response team
+teacher	part of	primary school
+chef	part of	restaurant kitchen
+actor	member of	theater ensemble
+musician	part of	folk band
+musician	part of	classical orchestra
+teacher	member of	college faculty
+journalist	member of	newspaper staff
+singer	part of	pop band
+teacher	part of	special education team
+engineer	part of	bridge construction
+sailor	part of	sailing team
+chef	part of	catering service
+actor	member of	television cast
+teacher	member of	vocational school
+musician	part of	blues band
+musician	part of	pop group
+teacher	member of	elementary school
+doctor	part of	er department
+athlete	part of	marathon team
+actor	member of	film crew
+chef	part of	pastry kitchen
+teacher	member of	boarding school
+singer	part of	musical theater company
+engineer	part of	aerospace corporation
+teacher	member of	language school
+singer	part of	harmony group
+chef	part of	bakery
+actor	member of	drama company
+teacher	member of	academic institution
+scientist	member of	biology lab
+doctor	part of	pediatric department
+singer	part of	folk ensemble
+musician	part of	string ensemble
+teacher	member of	vocational education
+doctor	part of	emergency room
+engineer	part of	construction site
+athlete	part of	national team
+grape	part of	cluster
+mouse	part of	maze
+paper	part of	notebook
+glass	part of	window
+image	part of	painting
+paper	part of	book
+photon	part of	beam
+phrase	part of	sentence
+sheet	part of	set
+sonnet	part of	collection
+song	part of	playlist
+speaker	part of	meeting
+staff	part of	organization
+subject	part of	topic
+tool	part of	toolkit
+vote	part of	election
+yogurt	part of	container
+yacht	part of	marina
+zebra	part of	herd
+zip	part of	archive
+zone	part of	city
+zipper	part of	clothing
+zoologist	member of	association
+book	part of	syllabus
+animal	part of	drive
+person	member of	meeting
+cell	part of	component
+tree	part of	sapling
+cat	part of	feline
+committee	part of	organization
+eye	part of	human body
+flame	part of	fire
+friend	member of	social circle
+gang	part of	street life
+gate	part of	fence
+group	member of	team
+knife	part of	kitchen utensils
+neighbor	member of	community
+nut	part of	tree
+ox	part of	herd
+owner	member of	household
+particle	part of	matter
+photographer	member of	photo studio
+rat	part of	laboratory
+reader	member of	library
+rider	part of	carriage
+rope	part of	sail
+section	part of	book
+side	part of	building
+speaker	part of	machine
+staff	part of	office
+team	member of	organization
+wave	part of	signal
+worm	part of	soil
+year	part of	calendar
+youth	member of	club
+dog	member of	troupe
+person	member of	populace
+bird	part of	foraging party
+dog	part of	brood
+cat	part of	clowder
+fish	part of	fin
+bird	part of	kettle
+cat	part of	kin
+book	part of	portfolio
+dog	part of	family
+reader	member of	audience
+reader	member of	club
+team member	member of	squad
+individual	member of	society
+volunteer	member of	brigade
+participant	member of	group
+player	member of	group
+member	member of	syndicate
+member	member of	syndication
+individual	member of	group
+team member	member of	roster
+citizen	member of	municipality
+participant	member of	rally
+individual	member of	collective
+member	member of	guild
+reader	member of	circle
+citizen	member of	state
+singer	member of	quintet
+team member	member of	lineup
+individual	member of	community
+team member	member of	team
+member	member of	partnership
+citizen	member of	district
+team member	member of	crew
+citizen	member of	county
+member	member of	firm
+player	member of	crew
+team member	member of	group
+citizen	member of	town
+player	member	side
+worker	member of	organization
+grain	part of	cornfield
+element	part of	periodic table
+crew	part of	submarine
+figure	part of	picture
+note	part of	harmonies
+piece	part of	sculpture
+crew	part of	spaceship
+bird	member of	fowl
+student	member of	research
+part	part of	configuration
+team	part of	competition
+performer	part of	group
+crew member	part of	crew
+team player	part of	team
+team member	part of	squad
+member	member of	company
+member	part of	orchestra
+member	part of	choir
+team	part of	company
+team member	part of	crew
+team member	part of	team
+team	member of	team
+member	part of	company
+team	member of	crew
+member	member of	crew
+team	part of	crew
+team	member of	company
+butterfly	member of	migration
+class	member of	hierarchy
+club	member of	organization
+coal	part of	coal mine
+compound	part of	chemical
+conductor	member of	orchestra
+continent	part of	planet
+cook	member of	kitchen staff
+country	part of	continent
+crew	member of	spaceship
+crystal	part of	mineral
+driver	member of	taxi fleet
+dust	part of	atmosphere
+equipment	part of	lab
+fan	member of	audience
+file	part of	folder
+fox	member of	pack
+fragment	part of	rock
+fungus	part of	mycelium
+gemstone	part of	necklace
+grape	part of	vineyard
+group	member of	community
+hand	part of	human body
+hay	part of	haystack
+head	part of	human body
+heart	part of	human body
+helicopter	part of	fleet
+herb	part of	spice mix
+hill	part of	mountain range
+home	part of	neighborhood
+ice	part of	lake
+image	part of	photograph
+immigrant	member of	diaspora
+index	part of	book
+industry	member of	economy
+island	part of	archipelago
+item	member of	inventory
+kangaroo	member of	mob
+light	part of	ray
+liquid	part of	substance
+liver	part of	human body
+lot	part of	plot
+magnet	part of	magnetosphere
+mass	part of	group
+message	part of	letter
+metal	part of	alloy
+meteor	part of	meteor shower
+molecule	part of	cell
+molecule	part of	tissue
+nation	part of	continent
+needle	part of	sewing kit
+nerve	part of	human body
+newt	member of	colony
+nose	part of	human body
+hacker	member of	cybersecurity team
+zoologist	member of	wildlife conservation team
+programmer	member of	software development team
+entrepreneur	member of	startup company
+chemist	member of	lab
+zoologist	member of	zoo staff
+designer	member of	interior design firm
+software developer	member of	it team
+linguist	member of	language department
+artist	member of	street art collective
+computer scientist	member of	research lab
+biologist	member of	conservation organization
+mathematician	member of	mathematics department
+engineer	member of	robotics lab
+linguist	member of	language preservation society
+physicist	member of	physics department
+engineer	member of	aerospace engineering team
+chemist	member of	chemical laboratory
+zoologist	member of	wildlife sanctuary
+software developer	member of	software company
+pilot	member of	air force squadron
+mathematician	member of	mathematics institute
+philosopher	member of	ethics committee
+biologist	member of	marine biology lab
+zoologist	member of	wildlife rescue team
+researcher	member of	medical research team
+computer scientist	member of	research center
+linguist	member of	language exchange program
+engineer	member of	structural engineering team
+physicist	member of	physics research team
+biologist	member of	botanical garden
+researcher	member of	neuroscience lab
+zoologist	member of	zoological society
+philosopher	member of	ethics board
+computer scientist	member of	it department
+historian	member of	historical archives
+linguist	member of	language club
+biologist	member of	microbiology lab
+zoologist	member of	aquarium staff
+researcher	member of	scientific society
+historian	member of	historical society board
+word	part of	poem
+animal	member of	circus
+grain	part of	mixture
+animal	part of	exhibit
+bird	member of	nesting
+word	part of	story
+grain	part of	spice
+drop	part of	rainstorm
+pilot	part of	flight team
+chef	member of	kitchen staff
+teacher	part of	school faculty
+police officer	part of	police department
+firefighter	member of	fire station
+soldier	member of	army unit
+activist	part of	social movement
+coach	member of	sports coaching staff
+engineer	part of	design team
+librarian	part of	library staff
+researcher	part of	research institution
+curator	member of	museum staff
+editor	part of	publishing house
+manager	part of	restaurant management
+choreographer	member of	dance team
+photographer	part of	photo studio
+manager	part of	hotel management
+lawyer	member of	law enforcement agency
+manager	part of	event planning team
+pilot	part of	flight school
+singer	part of	musical theater production
+teacher	part of	special education department
+journalist	part of	investigative reporting team
+musician	part of	country music group
+pilot	part of	military aviation unit
+researcher	part of	environmental research center
+writer	part of	publishing house staff
+engineer	part of	aerospace engineering team
+musician	part of	symphony orchestra
+journalist	member of	news anchor team
+lawyer	part of	public interest law firm
+scientist	part of	marine biology research team
+artist	part of	art therapy group
+musician	member of	electronic music duo
+pilot	part of	airline pilot crew
+researcher	part of	anthropology research team
+engineer	part of	renewable energy development team
+teacher	member of	language instruction department
+singer	part of	music festival lineup
+model	part of	fashion campaign
+chef	member of	catering service
+writer	part of	historical preservation society
+artist	part of	graffiti art team
+pilot	part of	airshow performance team
+engineer	member of	robotics development team
+journalist	part of	investigative journalism unit
+scientist	part of	medical research facility
+musician	part of	music production team
+teacher	member of	adult education department
+engineer	part of	civil engineering firm
+researcher	part of	social sciences research center
+scientist	member of	physics research institute
+artist	part of	visual arts program
+pilot	part of	glider flying club
+model	part of	runway show
+singer	part of	pop music group
+researcher	part of	historical research society
+teacher	member of	high school faculty
+animal	part of	stable
+ship	part of	naval force
+train	part of	train
+runner	part of	marathon
+house	part of	complex
+piece	part of	orchestra
+wire	part of	guitar
+piece	part of	mosaic tile
+part	part of	machine tool
+piece	part of	montage
+piece	part of	patchwork
+drop	part of	sprinkle
+piece	part of	quilt
+stone	part of	outcropping
+piece	part of	pastime
+key	part of	keyboard instrument
+drop	part of	downpour
+piece	part of	assemblage
+thread	part of	embroidery floss
+cell	part of	society
+drop	part of	drizzle of water
+piece	part of	collage frame
+note	part of	theme
+drop	part of	sprinkle of water
+piece	part of	picture frame
+grain	part of	crop yield
+stone	part of	landslide
+drop	part of	sprinkle of dust
+thread	part of	rope cord
+piece	part of	scrapbook
+piece	part of	puzzle piece
+note	part of	score section
+drop	part of	downpour of rain
+grain	part of	grain pile
+engineer	part of	construction project
+engineer	part of	bridge construction team
+engineer	part of	architectural team
+cellist	member of	string quartet
+musician	part of	brass section
+engineer	part of	building design team
+component	part of	gearbox
+component	part of	transmission
+component	part of	gear
+person	part of	family tree
+brick	part of	building structure
+person	part of	village
+writer	member of	writing team
+mechanic	member of	garage team
+scientist	member of	lab team
+engineer	member of	startup
+engineer	member of	architecture team
+athlete	member of	competition
+engineer	member of	tech company
+journalist	member of	press corps
+dancer	member of	ballet
+chef	member of	restaurant staff
+singer	member of	jazz band
+teacher	member of	university staff
+athlete	member of	games
+sailor	member of	yachting club
+engineer	member of	innovation center
+athlete	member of	championships
+researcher	member of	research institute
+note	part of	report
+hand	part of	piano
+hand	part of	clock
+drop	part of	pond
+student	part of	classroom
+rod	part of	pole
+thread	part of	tangle
+leaf	part of	leaf
+rod	part of	rod
+student	part of	student
+employee	part of	management
+branch	part of	forest
+painter	member of	cooperative
+insect	part of	cloud
+car	part of	roadblock
+researcher	member of	project
+bird	member of	rookery
+researcher	member of	center
+sunbeam	part of	light
+drop	part of	raincloud
+sunbeam	part of	sun
+line	part of	melody
+voice	part of	serenade
+branch	part of	sprig
+wave	part of	whitewater
+ray	part of	solar radiation
+neuron	part of	pathway
+member	part of	household
+dog	part of	den
+fish	part of	finned community
+pilot	part of	wing
+member	part of	collective
+worker	part of	workgroup
+key	part of	tool
+artist	member of	syndicate
+key	part of	machinery
+component	part of	framework
+component	part of	gadget
+electron	part of	shell
+component	part of	hardware
+electron	part of	system
+component	part of	instrument
+employee	member of	agency
+electron	part of	bond
+reader	part of	book club
+worker	part of	assembly line
+employee	part of	office
+player	part of	drama
+reader	part of	audience
+player	part of	ensemble
+reader	part of	club
+rabbit	part of	litter
+boat	part of	raft
+butterfly	part of	nuptial flight
+butterfly	part of	brood
+leaf	part of	bough
+butterfly	part of	generation
+butterfly	part of	collection
+apple	part of	harvest
+painter	member of	group
+author	member of	collective
+painter	part of	team
+pen	part of	pen nib
+painter	member of	atelier
+grain	part of	sheaf
+painter	part of	studio
+engineer	member of	corporation
+engineer	member of	organization
+performer	member of	troupe
+performer	member of	company
+musician	member of	sextet
+musician	member of	octet
+musician	member of	collective
+member	part of	congregation
+member	part of	gathering
+ant	member of	nest
+pencil	part of	writing set
+bricklayer	member of	labor union
+bricklayer	member of	trade
+key	part of	lockbox
+river	part of	system
+river	part of	flow
+rabbit	member of	coterie
+ant	member of	anthill
+house	member of	row
+electron	member of	plasma
+cell	member of	cell community
+atom	part of	lattice
+book	member of	set
+grain	part of	stack
+cell	member of	community
+wave	part of	ridge
+wave	part of	crest
+electron	member of	gas
+wave	part of	undertow
+grain	part of	batch
+electron	part of	stream
+wave	part of	bore
+volunteer	member of	group
+mechanic	part of	maintenance team
+gardener	member of	nursery staff
+chef	part of	culinary team
+researcher	member of	scientific team
+photographer	member of	photography club
+composer	member of	symphony
+officer	part of	enforcement agency
+sailor	member of	navy crew
+mechanic	member of	garage staff
+musician	member of	classical band
+actor	member of	tv cast
+engineer	member of	aerospace team
+artist	member of	craft guild
+pilot	member of	air traffic control
+engineer	member of	electronics team
+researcher	member of	scientific institution
+doctor	member of	hospital administration
+pilot	member of	rescue team
+musician	member of	heavy metal band
+mechanic	member of	motorcycle club
+actor	member of	broadway cast
+engineer	member of	it team
+doctor	member of	emergency services
+singer	member of	musical theater
+musician	member of	world music band
+artist	member of	museum staff
+mechanic	member of	auto repair shop
+doctor	member of	medical faculty
+musician	member of	bluegrass band
+pilot	member of	air force crew
+engineer	member of	infrastructure team
+singer	member of	jazz quartet
+actor	member of	playhouse cast
+engineer	member of	civil engineering team
+mechanic	member of	service station
+actor	member of	tv show cast
+musician	member of	swing band
+pilot	member of	flight academy
+artist	member of	art
+player	member of	ensemble
+member	member of	panel
+member	member of	commission
+student	member of	guild
+student	member of	fellowship
+member	member of	staff
+student	member of	chapter
+animal	part of	wildlife
+block	part of	structure
+staff	member of	staff
+coin	part of	change
+piece	part of	tapestry
+pipe	part of	tubing
+pipe	part of	system
+block	part of	edifice
+cell	part of	living thing
+chemist	member of	scientific community
+droplet	part of	liquid
+physicist	member of	research institute
+mechanic	member of	repair team
+author	member of	literary society
+employee	member of	hr department
+astronomer	member of	astronomical society
+employee	member of	marketing team
+historian	member of	historical preservation society
+employee	member of	customer service
+molecule	part of	solid
+pilot	member of	flight control team
+worker	member of	repair crew
+employee	member of	finance department
+neuron	part of	central nervous system
+philosopher	member of	think tank
+athlete	part of	club
+bird	part of	community
+dog	part of	bunch
+elephant	part of	group
+actor	member of	crew
+button	part of	pants
+blade	part of	scythe
+pet	member of	community
+guitar	part of	orchestra
+pet	part of	menagerie
+driver	part of	caravan
+student	part of	year group
+soldier	part of	division
+nail	part of	ladder
+drop	part of	splash
+part	part of	collection
+electron	part of	neutron
+line	part of	cord
+nail	part of	tack
+writer	member of	writing club
+musician	member of	string section
+musician	member of	brass section
+employee	member of	company team
+employee	member of	corporate
+student	member of	school community
+worker	member of	crew team
+musician	member of	quartet group
+worker	member of	workforce team
+musician	member of	ensemble group
+employee	member of	management team
+musician	member of	jazz collective
+employee	member of	business team
+fish	part of	sea life
+car	part of	convoy group
+employee	member of	corporate team
+cell	part of	living organism
+musician	member of	music collective
+key	part of	piano instrument
+musician	member of	choir group
+cell phone	part of	collection
+piece	part of	meal
+person	part of	jury
+cell	part of	artery
+tool	part of	inventory
+tool	part of	machine
+grain	part of	shipment
+kid	member of	crew
+train	part of	convoy
+robot	part of	army
+ant	member of	community
+bird	member of	choir
+mouse	member of	team
+electron	member of	atom
+neuron	member of	brain
+molecule	member of	compound
+neuron	member of	nervous system
+leaf	member of	leafy greens
+neuron	member of	network
+key	member of	keychain
+neuron	member of	system
+worker	member of	company
+ship	part of	naval
+person	member of	state
+person	part of	country
+sailor	member of	club
+animal	part of	troop
+car	part of	formation
+person	member of	city
+person	member of	village
+wave	part of	disturbance
+member	member of	nation
+wheel	part of	gearshift
+brick	member of	building
+leaf	member of	tree
+rod	part of	backbone
+robot	part of	system
+robot	part of	laboratory
+employee	part of	startup
+engineer	part of	research center
+ship	part of	shipyard
+robot	part of	production line
+engineer	part of	department
+cellist	member of	quartet
+star	member of	celestial body
+blade	part of	utility knife
+cell	part of	cells
+cell	part of	cytoplasm
+blade	part of	hand saw
+engineer	member of	panel
+rock climber	member of	expedition
+writer	member of	press
+rock climber	part of	group
+engineer	member of	committee
+rock climber	part of	expedition team
+student	part of	research study
+writer	member of	press corps
+rock climber	part of	expedition
+river	part of	watershed
+cell	part of	cellularity
+mouse	member of	family
+car	part of	journey
+key	part of	cabinet
+nail	part of	furniture
+board	part of	boardwalk
+pipe	part of	irrigation
+nail	part of	shoebox
+book	part of	repository
+key	part of	safe
+nail	part of	construction
+member	part of	membership
+nail	part of	wooden
+mouse	part of	litter
+man	part of	squad
+cat	part of	pride
+man	part of	gang
+fish	part of	finned school
+horseman	member of	cavalry
+tiger	member of	pride
+yacht	part of	squadron
+zebra	member of	herd
+clown	member of	troupe
+cook	member of	kitchen
+cow	member of	dairy
+drummer	member of	band
+farmer	member of	farm
+gardener	member of	garden
+geologist	member of	expedition
+golfer	member of	golf team
+gymnast	member of	team
+jeweler	member of	workshop
+kite	part of	kite swarm
+model	part of	lineup
+poet	member of	literary group
+surfer	member of	lineup
+truck	part of	convoy
+violinist	member of	orchestra
+volleyball player	member of	team
+water skier	member of	group
+yogi	member of	studio
+fisherman	member of	fishing fleet
+particle	part of	substance
+organ	part of	organ system
+module	part of	system
+module	part of	program
+worker	part of	organization
+unit	part of	regiment
+module	part of	framework
+part	part of	ensemble
+limb	part of	limb system
+worker	part of	bureaucracy
+module	part of	apparatus
+tooth	part of	oral cavity
+limb	part of	limb
+tube	part of	pipe system
+flower	part of	meadow
+tube	part of	tubing system
+leaf	part of	lawn
+pipe	part of	hydrant
+flower	part of	garden bed
+atom	part of	atomizer
+boat	part of	bay
+pebble	part of	stream
+pipe	part of	pump
+leaf	part of	stalk
+rock	part of	ledge
+man	part of	crowd
+frog	member of	assembly
+writer	part of	magazine
+writer	member of	fellowship
+rock	part of	rockfall
+member	part of	personnel
+clock	part of	timepiece
+college student	member of	university
+corporation	part of	industry
+entrepreneur	part of	market
+family	part of	community
+florist	member of	shop
+gardener	member of	club
+grape	part of	bunch
+idea	part of	concept
+idea	part of	theory
+jazz musician	member of	ensemble
+king	member of	dynasty
+lake	part of	region
+learner	member of	class
+line	part of	team
+ocean	part of	globe
+poet	member of	club
+point	part of	line
+president	member of	council
+princess	member of	royal family
+puzzle	part of	game
+secretary	member of	administration
+sentence	part of	text
+surgeon	member of	hospital
+suspect	member of	investigation
+technician	member of	team
+team	part of	project
+therapist	member of	clinic
+timepiece	part of	clock
+vehicle	part of	garage
+virus	part of	disease
+war	part of	conflict
+water	part of	lake
+writer	part of	movement
+engineer	member of	robotics club
+engineer	member of	architecture firm
+mechanic	part of	repair shop
+professor	member of	university faculty
+officer	part of	police department
+scientist	member of	national research lab
+dancer	part of	ballet company
+manager	member of	marketing department
+technician	part of	medical lab
+engineer	member of	construction company
+student	member of	academic club
+manager	member of	hospitality team
+officer	member of	coast guard
+engineer	member of	aerospace engineering firm
+engineer	member of	architectural design firm
+teacher	member of	education department
+musician	part of	musical theater
+pilot	member of	aviation company
+officer	part of	intelligence agency
+sailor	part of	naval academy
+artist	member of	fine arts program
+manager	member of	customer service team
+teacher	member of	faculty council
+engineer	member of	automotive company
+officer	member of	diplomatic corps
+dancer	part of	contemporary dance company
+artist	part of	advertising agency
+engineer	member of	electrical engineering firm
+officer	part of	special forces
+artist	member of	fashion design team
+engineer	member of	petroleum company
+teacher	member of	staff development team
+student	member of	honors program
+manager	member of	retail store
+officer	part of	homeland security
+engineer	member of	manufacturing company
+pilot	member of	commercial airline
+engineer	member of	nuclear engineering firm
+teacher	member of	special education department
+officer	member of	emergency response team
+engineer	member of	chemical engineering firm
+dancer	part of	modern dance company
+manager	member of	marketing team
+student	member of	study abroad program
+pilot	member of	flight operations
+officer	part of	search and rescue
+artist	member of	photography studio
+engineer	member of	biomedical engineering firm
+friend	member of	clique
+engineer	member of	research and development team
+actress	member of	ensemble
+team	member of	roster
+team	member of	lineup
+player	member of	starting lineup
+team	part of	rotation
+team	member of	formation
+member	member of	fraternity
+team	member of	rotation
+member	member of	collective
+team	member of	staff
+player	member of	formation
+engineer	member of	scientific community
+employee	member of	workplace
+student	member of	research community
+musician	member of	opera
+key	part of	combination lock
+bike	part of	convoy
+bookshelf	part of	room
+bike	part of	parade
+pen	part of	assortment
+cat	member of	feline family
+butterfly	member of	group
+butterfly	part of	kaleidoscope
+dog	part of	gang
+cat	part of	herd
+worker	member of	shop
+pilot	member of	aircraft
+doctor	part of	team
+seed	part of	seed packet
+note	part of	poem
+note	part of	news report
+leaf	part of	autumn
+slice	part of	pizza pie
+pet	part of	family pet
+part	part of	vehicle
+note	part of	lyrics
+slice	part of	pie
+coin	part of	money
+beam	part of	bridge span
+pebble	part of	pathway
+pet	part of	animal family
+officer	member of	organization
+river	part of	sea
+writer	member of	staff
+river	part of	waterway
+worker	member of	office
+river	part of	ocean
+line	part of	crew
+screw	part of	bicycle
+part	part of	assemblage
+blade	part of	plow
+line	part of	formation
+piece	part of	edifice
+line	part of	process
+line	part of	pipeline
+limb	part of	branch
+cell	part of	embryo
+limb	part of	frame
+gear	part of	device
+man	part of	army
+flower	member of	bouquet
+cat	part of	cattery
+cat	part of	stable
+word	part of	dialogue
+word	part of	essay
+stone	part of	sculpture
+man	part of	group
+person	member of	syndicate
+child	part of	nursery
+plane	member of	fleet
+frog	part of	pond
+cat	member of	pride
+player	member of	game
+student	member of	grade
+vessel	part of	shipyard
+line	part of	score
+pet	part of	pack
+actor	part of	film
+vessel	part of	harbor
+note	part of	register
+note	part of	ledger
+nail	part of	fence
+hand	part of	machine
+leaf	part of	menu
+nail	part of	nail
+hand	part of	puppet
+limb	part of	limbic system
+unit	part of	formation
+ray	part of	direction
+nail	part of	bracket
+part	part of	instrument
+piece	part of	set
+beam	part of	vault
+person	part of	panel
+limb	part of	joint
+beam	part of	beam
+historian	member of	society
+engineer	member of	association
+fox	member of	family
+drop	part of	sea
+bubble	part of	liquid
+droplet	part of	solution
+yarn	part of	sweater
+leg	part of	human
+shell	part of	turtle
+moon	part of	solar system
+planet	part of	universe
+dna	part of	cell
+kidney	part of	organ
+liver	part of	organ
+poet	member of	guild
+grain	part of	pasta
+cell	part of	skin cell
+cell	part of	vein
+sailor	member of	yachting
+cell	part of	brain
+horse	member of	cavalry
+fish	part of	sho
+button	part of	keypad
+rod	part of	fork
+screw	part of	hinge
+button	part of	keyboard
+grain	part of	stock
+leaf	part of	branchlet
+button	part of	interface
+rod	part of	tube
+button	part of	device
+person	part of	ensemble
+button	part of	module
+branch	part of	family
+cell	member of	cluster
+part	of	framework
+member	of	syndicate
+member	of	organization
+member	of	institution
+philosopher	member of	club
+composer	member of	ensemble
+critic	member of	panel
+technician	part of	crew
+physicist	part of	lab
+engineer	part of	research
+chemist	member of	team
+historian	member of	academy
+scientist	member of	organization
+philosopher	part of	group
+physicist	part of	team
+historian	member of	committee
+philosopher	part of	circle
+driver	member of	taxi service
+journalist	member of	news organization
+poet	member of	literary circle
+biologist	member of	scientific community
+linguist	member of	linguistic society
+investor	member of	investment club
+executive	member of	board of directors
+consultant	member of	advisory board
+journalist	member of	editorial team
+editor	member of	publishing house
+author	member of	writing community
+entrepreneur	member of	business association
+philosopher	member of	philosophical circle
+poet	member of	poetry society
+historian	member of	historical organization
+carpenter	member of	construction team
+physicist	member of	research team
+actor	member of	drama group
+director	member of	film crew
+violinist	member of	string quartet
+singer	member of	music band
+sculptor	member of	art studio
+cellist	member of	symphony orchestra
+pilot	member of	aviation club
+actor	member of	drama troupe
+cellist	member of	string ensemble
+carpenter	member of	construction crew
+apple	part of	fruit stand
+businessman	member of	company
+businessman	member of	chamber of commerce
+teacher	member of	education board
+businessman	member of	stock exchange
+manager	member of	corporate board
+businessman	member of	business association
+businessman	member of	economic development board
+doctor	member of	healthcare network
+teacher	member of	professional development committee
+researcher	member of	scientific community
+teacher	member of	curriculum review board
+manager	member of	business council
+sailor	member of	sailing league
+businessman	member of	trade association
+artist	member of	art society
+doctor	member of	medical society
+pilot	member of	flying club
+lawyer	member of	law firm network
+sailor	member of	yacht racing team
+scientist	member of	academic community
+businessman	member of	business council
+teacher	member of	educational board
+pilot	member of	air transport service
+musician	member of	orchestra ensemble
+finger	part of	piano
+part	part of	piece
+part	part of	ingredient
+team	part of	workforce
+blade	part of	guillotine
+line	part of	spectrum
+blade	part of	harvester
+bacteria	member of	colony
+business	member of	network
+client	part of	clientèle
+company	member of	consortium
+committee	member of	board
+comet	member of	meteor shower
+constituent	part of	state
+constituent	member of	parliament
+coral	member of	reef
+customer	member of	market
+enzyme	part of	organism
+fan	member of	fanbase
+fanatic	member of	cult
+firm	member of	industry
+galaxy	member of	universe
+golfer	member of	golf club
+government	member of	coalition
+group	member of	affiliation
+hacker	member of	community
+heir	part of	dynasty
+heir	member of	family
+human	member of	species
+island	member of	archipelago
+lamb	part of	flock
+lemming	part of	herd
+librarian	member of	staff
+merchant	member of	guild
+merchant	member of	trade
+molecule	part of	system
+nation	member of	confederation
+newt	part of	pond
+office	member of	corporation
+organization	member of	network
+organism	member of	ecosystem
+outcome	part of	process
+parishioner	member of	church
+participant	part of	program
+patient	member of	hospital
+physicist	member of	community
+population	part of	species
+population	member of	city
+portion	part of	whole
+program	member of	curriculum
+professor	member of	academy
+protein	part of	cell
+quail	part of	covey
+resident	member of	village
+resident	member of	country
+resident	member of	island
+school	member of	system
+sector	member of	economy
+specialist	member of	field
+system	member of	universe
+unit	part of	set
+user	member of	audience
+voter	member of	constituency
+voter	member of	party
+voter	member of	population
+comet	member of	galaxy
+orange	part of	fruit
+photon	part of	light
+satellite	part of	constellation
+senator	member of	parliament
+shark	member of	school
+snowflake	part of	storm
+song	part of	musical
+space	part of	universe
+spoon	part of	set
+surgeon	member of	team
+surgeon	member of	staff
+surgeon	member of	department
+surgeon	member of	unit
+swordfish	part of	school
+taxpayer	member of	community
+turtle	member of	herd
+willow	part of	grove
+woman	member of	society
+worker	member of	colony
+year	part of	century
+yew	part of	hedge
+yellow	part of	sunset
+yellow	part of	flower
+yogurt	part of	dairy
+apple	part of	crate
+animal	member of	pod
+electron	part of	gas
+bear	part of	forest
+car	part of	museum
+singer	member of	team
+straw	part of	haystack
+grain	part of	bakery
+pin	part of	sewing kit
+wire	part of	wire harness
+rod	part of	metal rod
+piece	part of	chessboard
+atom	part of	atom bomb
+rod	part of	lamp
+screw	part of	screwdriver bit
+straw	part of	bundle
+leaf	part of	treetop
+grain	part of	harvest crop
+straw	part of	sheaf
+nail	part of	toolset
+note	part of	list
+pet	part of	pet store
+bird	member of	sanctuary
+rod	part of	spear
+firefighter	part of	team
+businessperson	part of	board
+beekeeper	part of	organization
+manager	part of	leadership
+teacher	part of	curriculum committee
+worker	member of	collective
+teacher	member of	administrative team
+researcher	part of	research council
+writer	part of	literary society
+teacher	part of	educational team
+businessperson	part of	business network
+doctor	part of	healthcare team
+student	member of	academic committee
+teacher	part of	curriculum development team
+swimmer	member of	aquatic team
+scientist	part of	scientific council
+student	member of	community service organization
+worker	member of	workforce development program
+teacher	part of	instructional staff
+teacher	member of	faculty governance committee
+scientist	part of	research collaboration
+singer	member of	musical theater group
+employee	member of	customer service team
+teacher	part of	educational leadership team
+researcher	member of	research community
+doctor	part of	medical group practice
+teacher	part of	instructional support team
+researcher	member of	interdisciplinary research team
+student	part of	student organization
+droplet	part of	puddle
+node	part of	network
+vertex	part of	polygon
+side	part of	triangle
+edge	part of	graph
+axis	part of	coordinate
+figure	part of	illustration
+character	part of	font
+paragraph	part of	essay
+club	part of	sports
+contestant	part of	competition
+key	part of	key signature
+line	part of	play
+scene	part of	movie
+clip	part of	montage
+episode	part of	series
+article	part of	newspaper
+headline	part of	newspaper
+image	part of	gallery
+photograph	part of	album
+role	part of	play
+script	part of	play
+section	part of	manual
+chapter	part of	textbook
+theorem	part of	proof
+proposition	part of	proof
+argument	part of	debate
+position	part of	game
+line	part of	script
+character	part of	story
+story	part of	novel
+entry	part of	journal
+track	part of	album
+track	part of	mixtape
+piece	part of	concert
+chord	part of	harmony
+role	part of	production
+crew	part of	production
+team	part of	corporation
+scholar	member of	academic department
+coach	member of	athletic staff
+entrepreneur	member of	business partnership
+chef	member of	culinary staff
+mechanic	member of	auto shop
+officer	member of	navy
+worker	member of	construction crew
+artist	member of	art club
+singer	member of	music ensemble
+officer	member of	marine corps
+runner	member of	track team
+singer	member of	music school
+hacker	member of	cybersecurity firm
+coach	member of	sports team
+officer	member of	air force
+student	part of	academic program
+ray	part of	compass
+employee	part of	management team
+student	part of	workshop
+sheep	part of	grazing
+student	part of	debate team
+screw	part of	construction
+note	part of	music piece
+bee	part of	apiculture
+student	member of	support group
+thread	part of	patchwork
+ray	part of	aurora
+note	part of	newspaper
+wire	part of	antenna
+stone	part of	highway
+stone	part of	bridge
+wire	part of	phone
+screw	part of	pump
+nail	part of	piano
+rod	part of	compass
+drop	part of	river
+wire	part of	cord
+button	part of	hat
+stone	part of	island
+nail	part of	boot
+wire	part of	mesh
+button	part of	zipper
+butterfly	member of	flock
+member	member of	church
+lion	member of	jungle
+lion	member of	cubs
+lion	member of	territory
+pilot	member of	air
+lion	member of	family
+member	member of	meeting
+lion	member of	pack
+vessel	member of	armada
+cell	part of	community
+vessel	member of	navy
+ship	part of	escort
+vessel	member of	fleet
+component	part of	network
+pen	part of	office
+box	part of	crate
+cloud	part of	weather system
+toy	part of	toy box
+note	part of	lecture
+box	part of	shipping container
+file	part of	archive
+camper	member of	group
+comedian	member of	troupe
+concertgoer	member of	audience
+crackerjack	member of	circus
+crayon	part of	box
+diver	member of	team
+fan	member of	crowd
+firefly	member of	swarm
+florist	member of	staff
+gardener	member of	staff
+golfer	member of	team
+graduate	member of	class
+inventor	member of	community
+janitor	member of	staff
+jogger	member of	pack
+lamb	member of	flock
+lifeguard	member of	team
+logger	member of	crew
+mailman	member of	team
+medic	member of	team
+minister	member of	congregation
+missionary	member of	organization
+navigator	member of	crew
+office worker	member of	staff
+official	member of	committee
+oarsman	member of	team
+oboist	member of	orchestra
+officer	member of	police
+owner	member of	board
+painter	member of	company
+panelist	member of	debate
+paratrooper	member of	squad
+peafowl	member of	court
+pen pal	member of	club
+photographer	member of	team
+postman	member of	team
+priest	member of	order
+puzzle piece	part of	puzzle
+raider	member of	team
+referee	member of	crew
+resident	member of	building
+scholar	member of	academy
+taxicab	part of	fleet
+terrorist	member of	group
+thief	member of	gang
+tourist	member of	crowd
+trainee	member of	team
+vagabond	member of	community
+waiter	member of	staff

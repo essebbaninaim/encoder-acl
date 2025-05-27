@@ -1,0 +1,5015 @@
+petal	is a part of	flower
+tire	is a component of	bicycle
+seed	is contained in	fruit
+wheel	is a component of	car
+leaf	part of	tree
+neuron	is a component of	brain
+piston	is a part of	engine
+pixel	is a component of	screen
+cell	is a part of	organ
+gear	is a component of	machine
+atom	is a component of	molecule
+fin	is a part of	fish
+bolt	is a component of	lock
+thread	is a part of	fabric
+blade	is a part of	windmill
+spring	is a component of	watch
+page	is a part of	book
+valve	is a component of	plumbing
+lug	is a part of	wheel
+segment	is a part of	pizza
+handle	is a part of	door
+brick	is a component of	building
+spoke	is a part of	wheel
+stem	is a part of	plant
+pipe	is a part of	pipe organ
+cylinder	is a component of	engine
+screw	is a component of	machine
+pageant	is a part of	show
+button	is a component of	shirt
+axis	is a component of	compass
+fiber	is a component of	fabric
+lug	is a part of	shoe
+handle	is a part of	toolbox
+spring	is a component of	mattress
+piston ring	is a part of	engine
+cell membrane	is a part of	cell
+rotor	is a component of	motor
+stud	is a part of	engine
+blade	is a part of	propeller
+pin	is a component of	hinge
+shaft	is a component of	machinery
+wire	is a part of	circuit
+leg	is a part of	table
+clip	is a component of	earbuds
+blade	is a part of	fan
+core	is a part of	exercise bike
+strut	is a part of	bridge
+plate	is a part of	table
+plate	is a part of	cd player
+clip	is a component of	camera
+spring	is a component of	bed
+core	is a part of	apple
+screw	is a component of	jar
+axle	is a part of	wheelbarrow
+stem	is a part of	stemware
+wheel	is a part of	skateboard
+screw	is a component of	toaster
+cell body	is a part of	cell
+frame	is a part of	picture
+leg	is a part of	table leg
+spring	is a component of	piano
+plug	is a component of	outlet
+gear	is a part of	transmission
+piston	is a part of	compressor
+socket	is a component of	screwdriver
+pin	is a component of	lock
+strut	is a part of	tent
+wheel	is a part of	unicycle
+stem	is a part of	plant stem
+pin	is a part of	cufflink
+core	is a part of	donut
+screw	is a component of	screwdriver
+axis	is a part of	bicycle
+core	is a part of	pineapple
+pin	is a component of	badge
+piston	is a part of	diesel engine
+strut	is a part of	crutch
+plate	is a part of	platter
+thread	is a part of	yarn
+button	is a component of	glove
+lug	is a part of	cleat
+plug	is a component of	socket
+screw	is a component of	bolt
+axis	is a part of	ferris wheel
+spring	is a component of	trampoline
+wheel	is a part of	ferris wheel
+core	is a part of	cactus
+acorn	is contained in	oak
+key	is a component of	lock
+pedal	is a component of	bicycle
+blade	part of	knife
+wing	part of	airplane
+handle	is a component of	cup
+piston	is a component of	engine
+rod	is a component of	engine
+valve	is a component of	engine
+gear	is a component of	transmission
+axle	is a component of	wheel
+hub	is a component of	wheel
+nut	is a component of	bolt
+shaft	is a component of	engine
+crankshaft	is a component of	engine
+camshaft	is a component of	engine
+branch	part of	tree
+trunk	part of	tree
+root	part of	tree
+root	is a component of	plant
+stem	is a part of	flower
+sepal	is a part of	flower
+filament	is a part of	string
+thread	is a component of	fabric
+fiber	is a component of	yarn
+yarn	is a component of	fabric
+strand	is a component of	rope
+loop	is a component of	rope
+coil	is a component of	spring
+mattress	is a component of	bed
+bed	part of	house
+room	part of	house
+wall	part of	house
+floor	part of	house
+leg	part of	chair
+table	part of	room
+tablecloth	is a component of	table
+cup	is a component of	table setting
+plate	is a component of	table setting
+fork	is a component of	table setting
+knife	is a component of	table setting
+spoon	is a component of	table setting
+bowl	is a component of	table setting
+saucer	is a component of	table setting
+sleeve	part of	shirt
+collar	part of	shirt
+zipper	is a component of	jacket
+pocket	part of	jacket
+strap	part of	backpack
+buckle	is a component of	belt
+buckle	is a component of	strap
+strap	is a component of	belt
+buckle	is a component of	buckle
+frame	part of	picture
+glass	is a component of	window
+pane	part of	window
+pane	is a component of	glass
+handle	is a component of	door
+panel	is a component of	door
+rod	is a component of	gear
+pipe	is a component of	plumbing
+pipe	is a component of	water supply
+hose	is a component of	plumbing
+valve	is a component of	water supply
+filter	is a component of	water supply
+gauge	is a component of	engine
+gauge	is a component of	instrument
+leaf	is a part of	tree
+finger	is a part of	hand
+screw	is a part of	machine
+pedal	is a part of	bicycle
+leg	is a part of	chair
+cog	is a part of	gear
+panel	is a part of	computer
+pedal	is a part of	musical instrument
+bolt	is a part of	nut
+engine	is a part of	car
+spine	is a part of	back
+gear	is a part of	engine
+key	is a part of	keyboard
+string	is a part of	violin
+hammer	is a part of	toolbox
+beam	is a part of	house
+rudder	is a part of	boat
+rod	is a part of	telescope
+hub	is a part of	wheel
+lug	is a part of	aircraft
+sail	is a part of	ship
+axle	is a part of	vehicle
+lens	is a part of	camera
+lever	is a part of	machine
+spring	is a part of	mattress
+rotor	is a part of	helicopter
+fin	is a part of	aircraft
+gear	is a part of	clock
+propeller	is a part of	airplane
+turbine	is a part of	power plant
+rod	is a part of	guitar
+piston	is a part of	pump
+pulley	is a part of	elevator
+wing	is a part of	airplane
+rudder	is a part of	submarine
+gear	is a part of	generator
+spindle	is a part of	sewing machine
+piston	is a part of	air compressor
+propeller	is a part of	boat
+gear	is a part of	gearbox
+rod	is a part of	drill
+sail	is a part of	sailboat
+gear	is a part of	printer
+lever	is a part of	crane
+propeller	is a part of	hovercraft
+gear	is a part of	wind turbine
+piston	is a part of	engine block
+gear	is a part of	gear box
+spring	is a part of	trampoline
+gear	is a part of	mill
+piston	is a part of	engine head
+wheel	is a part of	wagon
+pedal	is a part of	exercise bike
+gear	is a part of	gear grinder
+gear	is a part of	hand drill
+piston	is a part of	power unit
+propeller	is a part of	drone
+rod	is a part of	pump
+gear	is a part of	milling machine
+piston	is a part of	engine cylinder
+wheel	is a part of	train
+propeller	is a part of	hoverplane
+gear	is a part of	electric motor
+gear	is a part of	milling drill
+spring	is a part of	bed
+wheel	is a part of	tractor
+lever	is a part of	excavator
+piston	is a part of	gas engine
+gear	is a part of	gear cutter
+spring	is a part of	sofa
+wheel	is a part of	wheelchair
+piston ring	is a component of	engine
+gearshift	is a component of	car
+bolt	is a component of	door
+screw	is a component of	drawer
+valve spring	is a component of	engine
+rotor	is a component of	engine
+lug nut	is a component of	wheel
+axle nut	is a component of	wheel
+rim	is a part of	wheel
+chainring	is a component of	bicycle
+clutch	is a component of	car
+pedal	is a part of	sewing machine
+lug	is a part of	tire
+seat	is a part of	chair
+spring	is a component of	shock absorber
+pedal	is a part of	motorcycle
+keycap	is a part of	keyboard
+seatbelt	is a part of	car
+rotor	is a component of	washing machine
+buttonhole	is a part of	shirt
+cylinder head	is a component of	engine
+bolt	is a component of	anchor
+hubcap	is a part of	wheel
+pedal	is a part of	excavator
+valve cover	is a component of	engine
+screwdriver	is a component of	toolbox
+piston pin	is a component of	engine
+valve guide	is a component of	engine
+flywheel	is a component of	engine
+pedal	is a part of	skateboard
+seat	is a part of	airplane
+wheel nut	is a component of	wheel
+nut	is a component of	screw
+bearing	is a component of	wheel
+leaf spring	is a component of	suspension
+key	is a part of	keychain
+rotor	is a component of	fan
+cam	is a component of	engine
+wheel stud	is a component of	wheel
+pedal	is a part of	forklift
+button	is a part of	mouse
+seatbelt	is a part of	chair
+pedal	is a part of	snowmobile
+rotor	is a component of	generator
+seat	is a part of	sofa
+wheel	is a part of	aircraft
+blade	is a part of	wind turbine
+engine	is a component of	car
+rod	is a part of	engine
+cell	is a part of	tissue
+leaf	is a part of	plant
+key	is a part of	lock
+bolt	is a component of	screwdriver
+fin	is a part of	airplane
+rudder	is a component of	boat
+handle	is a part of	cup
+wheel	is a component of	locomotive
+valve	is a part of	pipe
+handle	is a part of	cane
+gear	is a component of	clock
+blade	is a part of	lawn mower
+axis	is a part of	wheel
+piston	is a part of	cylinder
+cog	is a component of	clock
+engine	is a component of	airplane
+valve	is a part of	water pipe
+axis	is a part of	gear
+rotor	is a component of	helicopter
+gear	is a component of	watch
+piston	is a part of	cylinder block
+valve	is a part of	engine
+gear	is a component of	bicycle
+leaf	is a part of	branch
+gear	is a part of	differential
+wheel	is a component of	train
+key	is a part of	piano
+pin	is a component of	safety pin
+valve	is a part of	faucet
+stem	is a part of	tree
+gear	is a component of	gear train
+engine	is a component of	generator
+valve	is a part of	gate valve
+wheel	is a component of	handcart
+axis	is a part of	steering wheel
+gear	is a component of	gearbox
+engine	is a component of	tractor
+leaf	is a part of	cabbage
+pin	is a component of	zipper
+valve	is a part of	water pump
+blade	is a part of	plane
+stem	is a part of	succulent
+gear	is a component of	transmission system
+axis	is a part of	rotor
+blade	is a part of	helicopter
+handle	is a part of	broom
+gear	is a component of	gear wheel
+fin	is a part of	shark
+handle	is a part of	axe
+button	is a part of	shirt
+spoke	is a component of	wheel
+lug	is a part of	golf club
+frame	is a component of	bicycle
+paddle	is a part of	canoe
+blade	is a part of	knife
+fin	is a part of	dolphin
+fork	is a part of	fork lift
+plate	is a part of	plate reader
+hubcap	is a component of	wheel
+propeller	is a component of	airplane
+bolt	is a component of	nut
+shaft	is a component of	turbine
+clip	is a part of	zipper
+rod	is a component of	piston
+valve	is a component of	pipe
+seal	is a component of	engine
+fin	is a part of	sail
+button	is a part of	radio
+rod	is a component of	crane
+arm	is a part of	robot
+lens	is a part of	telescope
+gear	is a part of	clockwork
+clip	is a part of	tie
+arm	is a part of	robot arm
+button	is a part of	game controller
+valve	is a component of	heart
+seal	is a component of	ship
+key	is a component of	keycard
+pin	is a component of	bearing
+clip	is a part of	cable
+cylinder	is a component of	rifle
+arm	is a part of	crutch
+piston	is a component of	pump
+lug	is a part of	hubcap
+spring	is a component of	bed frame
+wheel	is a component of	skateboard
+fin	is a part of	airplane wing
+seal	is a component of	gate
+clip	is a part of	wallet
+rod	is a component of	handle
+wing	is a component of	airplane
+piston	is a component of	machine
+wing	is a part of	plane
+wheel	is a component of	bicycle
+screw	is a component of	computer
+screw	is a part of	bolt
+gear	is a part of	wheel
+key	is a component of	keyboard
+key	is a part of	computer
+blade	is a component of	wind turbine
+valve	is a part of	cylinder
+nut	is a part of	screw
+spoke	is a part of	bicycle
+pedal	is a part of	exercise equipment
+rudder	is a part of	steering system
+handle	is a part of	vehicle
+axle	is a part of	machinery
+pedal	is a component of	machine
+pedal	is a part of	industrial equipment
+clip	is a component of	circuit board
+clip	is a part of	electronic device
+screwdriver	is a part of	toolkit
+hub	is a part of	bicycle
+bearing	is a part of	machinery
+plate	is a part of	engine
+plate	is a part of	machine
+spring	is a component of	suspension
+spring	is a part of	vehicle
+socket	is a component of	drill
+socket	is a part of	toolkit
+engine	is a component of	vehicle
+engine	is a part of	machine
+shaft	is a component of	transmission
+shaft	is a part of	machinery
+bearing	is a component of	engine
+gearshift	is a part of	car
+gearshift	is a component of	vehicle
+lug	is a part of	bolt
+lug	is a part of	fastener
+lug	is a component of	wheel
+pulley	is a component of	system
+pulley	is a part of	machine
+leaf	part of	branch
+pulley	is a part of	mechanism
+pulley	is a part of	device
+rod	is a part of	machinery
+rod	is a component of	transmission
+nut	is a part of	bolt
+nut	is a part of	fastener
+nut	is a component of	hardware
+gear	is a part of	machine
+ratchet	is a part of	wrench
+ratchet	is a part of	tool
+rod	is a part of	tool
+piston ring	is a part of	machinery
+camshaft	is a part of	vehicle
+camshaft	is a part of	machine
+crankshaft	is a part of	vehicle
+crankshaft	is a part of	machinery
+bolt	is a component of	screw
+screw	is a component of	bottle
+key	is a component of	keychain
+string	is a part of	guitar
+rod	is a component of	bicycle
+eye	is a part of	face
+brick	is a component of	wall
+pipe	is a component of	pipe organ
+button	is a part of	garment
+nail	is a part of	shoe
+rod	is a component of	fishing rod
+lens	is a part of	glasses
+screw	is a component of	light bulb
+cog	is a component of	gear
+rivet	is a component of	aircraft
+plate	is a part of	plate spinner
+lid	is a part of	box
+lens	is a part of	microscope
+rivet	is a component of	ship
+hub	is a component of	flywheel
+nail	is a part of	shoe heel
+button	is a part of	shirt sleeve
+blade	is a part of	saw
+tube	is a component of	tire
+axle	is a component of	cart
+pedal	is a component of	exercise bike
+screw	is a component of	faucet
+screw	is a component of	chair
+piston	is a component of	engine block
+rod	is a component of	antenna
+lid	is a part of	lunchbox
+spring	is a component of	mattress topper
+lens	is a part of	binoculars
+plate	is a part of	dish
+nail	is a part of	shoe sole
+rivet	is a component of	airplane
+rod	is a component of	microphone
+screw	is a component of	door
+button	is a part of	shoe
+tube	is a component of	umbrella
+gear	is a component of	gearshift
+blade	is a part of	razor
+rod	is a component of	pencil
+nail	is a part of	boot
+handle	is a part of	bag
+screw	is a component of	coffee maker
+hub	is a component of	dynamo
+rivet	is a component of	boat
+lid	is a part of	trunk
+tube	is a component of	vacuum
+nail	is a part of	glove
+fin	is part of	fish
+branch	is a part of	tree
+root	is part of	plant
+handle	is part of	door
+blade	is a component of	knife
+screen	is a part of	television
+sail	is a component of	boat
+panel	is a component of	computer
+leaf	is a part of	spinach
+handle	is a part of	basket
+stem	is part of	plant
+page	is a part of	calendar
+tube	is a component of	pipe
+cable	is a component of	internet
+blade	is a component of	fan
+wheel	is a component of	cart
+pedal	is a part of	piano
+line	is a part of	drawing
+page	is a part of	magazine
+screw	is a component of	anchor
+button	is a part of	coat
+lid	is a part of	jar
+rod	is a component of	rodent
+rod	is a component of	rod mill
+wheel	is a component of	wheelchair
+wire	is a component of	phone
+tube	is a component of	tube sock
+axis	is a component of	wheel
+pin	is a part of	lock
+button	is a part of	uniform
+screen	is a part of	phone
+stem	is part of	flower
+handle	is a part of	umbrella
+line	is a part of	graph
+page	is a part of	report
+pedal	is a part of	organ
+page	is a part of	diary
+screen	is a part of	computer
+page	is a part of	textbook
+lid	is a part of	cover
+stem	is part of	vine
+handle	is a part of	handlebar
+wire	is a component of	chain
+rod	is a component of	cane
+blade	is a component of	knife sharpener
+button	is a part of	vest
+screw	is a component of	drill
+button	is a part of	glove
+axis	is a component of	bearing
+wheel	is a component of	wheelbarrow
+stem	is part of	daisy
+feather	is a part of	bird
+tooth	is a part of	jaw
+bone	is a part of	skeleton
+nerve	is a part of	brain
+handle	is a part of	tool
+gear	is a component of	engine
+strut	is a component of	building
+stem	is a part of	leafy green
+wing	is a part of	butterfly
+claw	is a part of	bird
+lever	is a component of	machine
+pulley	is a component of	elevator
+tendon	is a part of	muscle
+fiber	is a part of	rope
+handle	is a part of	equipment
+button	is a component of	garment
+strap	is a component of	backpack
+wheel	is a component of	gear
+chain	is a component of	bicycle
+shaft	is a component of	machine
+spring	is a component of	clock
+leg	is a part of	insect
+joint	is a part of	bone
+segment	is a part of	bone
+core	is a part of	peach
+seed	is contained in	pomegranate
+pin	is a part of	key
+link	is a component of	chain
+tire	is a component of	motorcycle
+fin	is a part of	whale
+leaf	is a part of	lettuce
+petal	is a part of	rose
+petal	is a part of	daisy
+rod	is a part of	harp
+beam	is a part of	bridge
+beam	is a part of	building
+rafter	is a part of	roof
+fin	is a part of	sailboat
+fin	is a part of	submarine
+wing	is a part of	glider
+brick	is a part of	wall
+screw	is a part of	nut
+door	is a part of	house
+bolt	is a part of	lock
+thread	is a part of	rope
+root	is a part of	tree
+panel	is a part of	cabinet
+stem	is a part of	stem cell
+lug	is a part of	trunk
+screw	is a part of	screwdriver
+axle	is a part of	wheel
+socket	is a part of	wrench
+pin	is a part of	zipper
+shaft	is a part of	engine
+strut	is a part of	airframe
+cylinder	is a part of	engine
+hinge	is a part of	door
+bolt	is a part of	anchor
+joint	is a part of	pipe
+gear	is a part of	gearshift
+lug	is a part of	wheel well
+shaft	is a part of	crankshaft
+axle	is a part of	motorcycle
+frame	is a part of	bicycle
+lug	is a part of	lug nut
+bracket	is a part of	shelf
+panel	is a part of	instrument panel
+rod	is a part of	rodent
+bolt	is a part of	crossbow
+thread	is a part of	string
+pin	is a part of	button
+plate	is a part of	tray
+socket	is a part of	socket wrench
+wheel	is a part of	exercise bike
+axle	is a part of	wheelchair
+pin	is a part of	earring
+plate	is a part of	platelet
+panel	is a part of	dashboard
+joint	is a part of	elbow
+pin	is a part of	compass
+gear	is a part of	gearset
+blade	is a part of	lawnmower
+rod	is a part of	rodentia
+thread	is a part of	thread count
+handle	is a part of	bucket
+plate	is a part of	saucer
+lug	is a part of	lug wrench
+blade	is a part of	fan blade
+pin	is a part of	tie clip
+petal	part of	flower
+key	part of	piano
+handle	part of	bag
+button	part of	shirt
+stem	part of	flower
+engine	part of	car
+pedal	part of	bicycle
+leg	part of	table
+cylinder	is a component of	typewriter
+rudder	part of	boat
+propeller	part of	airplane
+hub	part of	wheel
+axle	is a component of	door
+blade	part of	fan
+console	part of	computer
+microphone	part of	sound system
+receiver	is a component of	radio
+antenna	part of	satellite
+turbine	is a component of	windmill
+spoke	part of	wheel
+strut	part of	bridge
+engine	part of	plane
+piston	part of	engine
+axle	part of	car
+handle	part of	mug
+blade	part of	windmill
+paddle	part of	canoe
+fin	part of	fish
+wing	part of	glider
+shaft	is a component of	gear
+engine	part of	ship
+fin	part of	shark
+blade	part of	airplane
+leaf	part of	succulent
+engine	part of	submarine
+rotor	is a component of	windmill
+engine	part of	tractor
+paddle	part of	kayak
+blade	part of	turbine
+axle	part of	truck
+turbine	is a component of	power plant
+engine	part of	train
+wing	part of	drone
+leaf	part of	plant
+engine	part of	airplane
+key	part of	keychain
+handle	part of	cane
+wing	part of	aircraft
+propeller	part of	boat
+leaf	part of	fern
+axle	part of	gate
+engine	part of	truck
+propeller	part of	wind
+root	is a part of	plant
+rod	is a component of	car
+limb	is a part of	body
+arm	is a part of	body
+wing	is a part of	bird
+wheelbarrow	is a part of	wheelbarrow set
+nut	is a part of	tree
+trunk	is a part of	tree
+leaf	is a part of	stem
+pin	is a part of	wheel
+foot	is a part of	leg
+toe	is a part of	foot
+tooth	is a part of	mouth
+wheel	is a component of	motorcycle
+leaf	is a part of	leafy plant
+pedal	is a component of	motorcycle
+socket	is a part of	wheel
+bolt	is a part of	engine
+stem	is a part of	leafy plant
+wheel	is a component of	wagon
+screw	is a part of	door
+wheel	is a component of	tricycle
+key	is a part of	keyring
+pin	is a part of	engine
+handle	is a part of	hammer
+trunk	is a part of	elephant
+paddle	is a part of	boat
+tongue	is a part of	mouth
+rudder	is a part of	ship
+engine	is a part of	train
+arm	is a part of	human body
+handle	is a part of	mug
+pedal	is a part of	drum
+eye	is a part of	human
+shell	is a part of	egg
+handle	is a part of	saw
+core	is a part of	orange
+tail	is a part of	lion
+wing	is a part of	insect
+engine	is a part of	helicopter
+tongue	is a part of	lizard
+frame	is a part of	bike
+eye	is a part of	animal
+seat	is a part of	motorcycle
+handle	is a part of	spoon
+rudder	is a part of	kayak
+wing	is a part of	eagle
+arm	is a part of	shoulder
+handle	is a part of	rake
+core	is a part of	pumpkin
+seat	is a part of	bench
+tongue	is a part of	frog
+engine	is a part of	boat
+eye	is a part of	dog
+stem	is a part of	vegetable
+wheel	is a part of	wheelbarrow
+handle	is a part of	pitchfork
+spine	is a part of	human
+core	is a part of	corn
+tongue	is a part of	snake
+handle	is a part of	shovel
+engine	is a part of	tractor
+rudder	is a part of	sailboat
+seat	is a part of	car
+tongue	is a part of	horse
+trunk	is a part of	palm tree
+engine	is a part of	rocket
+tail	is a part of	rabbit
+spine	is a part of	turtle
+fin	is a part of	squid
+string	is a component of	guitar
+needle	is a component of	sewing machine
+screen	is a part of	smartphone
+button	is a component of	remote control
+cord	is a component of	headset
+panel	is a component of	dashboard
+clip	is a component of	magazine
+panel	is a component of	cabinet
+gear	is a component of	robot
+string	is a component of	harp
+button	is a part of	toy
+page	is a part of	newspaper
+screen	is a part of	tv
+cord	is a component of	microphone
+piston	is a component of	locomotive
+button	is a part of	hat
+pin	is a part of	brooch
+wing	is a part of	pigeon
+gear	is a component of	mechanism
+clip	is a component of	nail clipper
+button	is a part of	badge
+hub	is a component of	axle
+nut	is a component of	car wheel
+cord	is a component of	headphones
+page	is a part of	novel
+button	is a part of	pin badge
+gear	is a component of	printer
+plug	is a component of	power strip
+leaf	is a part of	kale
+clip	is a component of	ruler
+wheel	is a component of	exercise bike
+cord	is a component of	guitar
+brick	is a component of	house
+fin	is a component of	airplane
+string	is a part of	harp
+leaf	part of	vine
+piston	is a part of	motor
+rivet	is a part of	aircraft
+lug	is a component of	suitcase
+gear	is a component of	gear system
+handle	is a part of	suitcase
+cylinder	is a component of	car engine
+fin	is a component of	submarine
+wheel	is a component of	airplane
+lug	is a component of	trunk
+lug	is a component of	bag
+screw	is a part of	cabinet
+screw	is a part of	fence
+bolt	is a part of	door
+leaf	part of	shrub
+key	is a part of	typewriter
+fin	is a component of	sailboat
+pedal	is a part of	accordion
+leaf	part of	bush
+gear	is a component of	conveyor belt
+button	is a part of	jacket
+screw	is a part of	wall
+wheel	is a component of	roller skate
+rivet	is a part of	airplane
+button	is a part of	dress
+key	is a part of	calculator
+gear	is a component of	machinery
+handle	is a part of	luggage
+screw	is a part of	bookshelf
+leaf	part of	palm tree
+thread	is part of	fabric
+neuron	is a part of	brain
+socket	is a component of	phone
+lens	is a part of	eyeglasses
+fuse	is a component of	circuit
+rod	is a part of	microphone
+cable	is a part of	internet
+lug	is a part of	boot
+motor	is a component of	fan
+stud	is a part of	stud finder
+lug	is a part of	socket
+piston	is a component of	diesel engine
+wheel	is a part of	locomotive
+plate	is a part of	plateful
+screw	is a component of	tap
+clip	is a part of	belt
+rod	is a part of	piston
+piston	is a component of	compressor
+handle	is a part of	handbag
+socket	is a part of	phone
+screw	is a part of	anchor
+clip	is a part of	strap
+piston	is a component of	air compressor
+plate	is a part of	plate set
+thread	is part of	rope
+handle	is a part of	briefcase
+pin	is a part of	piston
+piston	is a component of	oil pump
+pin	is a part of	stud
+stem	is a part of	rose
+rod	is a part of	handle
+wheel	is a part of	bike
+pedal	is a part of	engine
+strut	is a component of	bridge
+bead	is a component of	necklace
+strut	is a component of	aircraft
+rudder	is a component of	ship
+paddle	is a component of	canoe
+blade	is a component of	boat
+cylinder	is a component of	rocket
+tooth	is a component of	gear
+hammer	is a part of	toolset
+pick	is a component of	toolset
+brush	is a component of	paint
+bristle	is a component of	brush
+fret	is a component of	guitar
+wheel	is a component of	roller coaster
+car	is a component of	train
+motor	is a component of	car
+seat	is a component of	chair
+back	is a component of	chair
+joint	is a component of	bridge
+beam	is a component of	building
+joist	is a component of	building
+board	is a component of	furniture
+wheel	is a component of	ferris wheel
+cable	is a component of	elevator
+cog	is a component of	gearbox
+flange	is a component of	pipe
+seal	is a component of	gasket
+wire	is a component of	electrical circuit
+plug	is a component of	electrical outlet
+outlet	is a component of	electrical system
+switch	is a component of	electrical system
+switch	is a component of	circuit
+circuit	is a component of	electrical system
+transistor	is a component of	circuit
+resistor	is a component of	circuit
+inductor	is a component of	circuit
+battery	is a component of	electrical device
+motor	is a component of	drill
+bit	is a component of	drill
+drill	is a component of	power tool
+sander	is a component of	power tool
+cylinder	is a part of	revolver
+barrel	is a component of	rifle
+stone	is a part of	monument
+leaf	part of	cabbage
+engine	is a component of	plane
+cylinder	is a part of	pen
+lid	part of	box
+handle	part of	door
+wing	part of	bird
+rudder	part of	ship
+lid	part of	pot
+shaft	is a part of	gear
+plate	is a component of	plate
+lever	part of	jack
+button	is a component of	mouse
+wheel	is a component of	truck
+screw	is a component of	picture frame
+lid	part of	can
+handle	part of	gate
+pin	is a component of	compass
+leaf	part of	lettuce
+rudder	part of	kayak
+blade	part of	boat
+cylinder	is a part of	pistol
+stem	part of	celery
+key	is a component of	piano
+lid	part of	container
+handle	part of	luggage
+piston	is a component of	turbine
+gear	is a component of	drill
+stem	part of	corn
+lid	part of	jar
+rudder	part of	sailboat
+leaf	part of	broccoli
+stem	part of	potato
+gear	is a component of	car
+screw	is a component of	camera
+handle	part of	suitcase
+button	is a component of	coat
+pin	is a component of	brooch
+leaf	part of	spinach
+finger	part of	hand
+toe	part of	foot
+leg	part of	body
+tooth	part of	mouth
+hair	part of	head
+finger nail	part of	finger
+muscle	part of	arm
+artery	part of	circulatory system
+heart	part of	circulatory system
+valve	part of	heart
+lung	part of	respiratory system
+nose	part of	face
+jaw	part of	face
+tongue	part of	mouth
+brain	part of	head
+kneecap	part of	knee
+kneecap	part of	leg
+ribs	part of	thorax
+spinal cord	part of	backbone
+stomach	part of	digestive system
+pancreas	part of	digestive system
+liver	part of	digestive system
+intestines	part of	digestive system
+bone	part of	skeleton
+eye	part of	head
+iris	part of	eye
+pupil	part of	eye
+retina	part of	eye
+cornea	part of	eye
+conjunctiva	part of	eye
+lens	part of	eye
+vitreous humor	part of	eye
+eye	part of	face
+eyebrow	part of	face
+earlobe	part of	ear
+ear canal	part of	ear
+eardrum	part of	ear
+cochlea	part of	ear
+tympanic membrane	part of	ear
+lobe	part of	ear
+macula	part of	retina
+macula	part of	eye
+optic nerve	part of	eye
+sclera	part of	eye
+nucleus	is a component of	atom
+pet	is a part of	zoo
+nail	is a component of	shoe
+handle	is a component of	tool
+screw	is a part of	fastener
+beam	is a component of	bridge
+blade	is a part of	airplane
+wheel	is a component of	vehicle
+axis	is a component of	circle
+plate	is a part of	dinnerware
+blade	is a component of	lawnmower
+handle	is a component of	knife
+handle	is a component of	shovel
+axis	is a component of	rotor
+part	is a component of	whole
+wheel	is a component of	aircraft
+pedal	is a component of	pedalboard
+piston	is a component of	hydraulic system
+cylinder	is a component of	barrel
+handle	is a component of	hammer
+axis	is a component of	gear
+axis	is a component of	steering column
+blade	is a component of	saw
+handle	is a component of	bucket
+gear	is a component of	speedometer
+piston	is a component of	combustion engine
+axis	is a component of	gyroscope
+part	is a component of	system
+rod	is a component of	lever
+axis	is a component of	turntable
+handle	is a component of	pail
+screw	is a part of	socket
+hub	is a component of	bicycle
+hand	part of	arm
+head	part of	chicken
+claw	is a part of	bear
+gear	is a part of	watch
+engine	is a part of	airplane
+trunk	part of	elephant
+gear	is a part of	bicycle
+cable	is a part of	computer
+screen	is a part of	laptop
+engine	is a part of	locomotive
+head	is a part of	mouse
+wheel	is a part of	cart
+plate	is a part of	plate rack
+axle	is a part of	cart
+wheel	is a part of	shopping cart
+head	is a part of	camera
+rod	is a part of	lever
+spring	is a part of	door
+screen	is a part of	smartwatch
+engine	is a part of	generator
+blade	is a part of	scissor
+head	is a part of	robot
+handle	is a part of	vacuum
+fin	is a part of	ray
+handle	is a part of	vacuum cleaner
+piston	is a part of	cylinder head
+wheel	is a part of	handcart
+handle	is a part of	toolset
+fin	is a part of	manta ray
+engine	is a part of	submarine
+rod	is a part of	antenna
+handle	is a part of	ladder
+hand	is a part of	glove
+blade	is a part of	turbine
+screw	is a part of	computer
+tube	is a part of	tire
+wheel	is a part of	car
+pipe	is a part of	pipeline
+button	is a part of	remote control
+pipe	is a part of	plumbing system
+handle	is a part of	doorbell
+bolt	is a part of	machine
+clip	is a part of	electrical connector
+wheel	is a part of	carousel
+cap	is a part of	bottle
+hinge	is a part of	gate
+button	is a part of	controller
+lug	is a part of	hub
+tire	is a part of	bicycle
+cap	is a part of	hat
+clip	is a part of	zip
+nut	is a part of	machine
+tube	is a part of	hose
+cap	is a part of	lid
+rim	is a part of	hat
+lug	is a part of	axle
+handle	is a part of	siren
+button	is a part of	calculator
+clip	is a part of	wire
+tube	is a part of	pipe
+handle	is a part of	faucet
+cap	is a part of	pen
+nail	is a part of	wall
+clip	is a part of	earphone
+tube	is a part of	exhaust
+screw	is a part of	drill
+handle	is a part of	gate
+pin	is a part of	collar
+nut	is a part of	rivet
+clip	is a part of	magazine
+screw	is a component of	nut
+blade	is a part of	sword
+lens	is a part of	eye
+wheel hub	is a component of	wheel
+plate	is a part of	computer
+engine	is a part of	aircraft
+tire	is a part of	wheel
+eye	is a part of	skull
+stem	is a part of	leaf
+gear	is a part of	mechanism
+wheel	is a part of	motorcycle
+wheel	is a part of	bicycle
+handlebars	is a part of	bicycle
+cylinder	is a component of	printer
+socket	is a part of	wall
+handle	is a part of	plier
+wheel	is a component of	shopping cart
+engine	is a component of	boat
+gear	is a component of	geartrain
+hammerhead	is a part of	mallet
+cylinder	is a component of	tube
+propeller	is a component of	wind turbine
+bearing	is a component of	gear
+lug	is a component of	tire
+lid	is a part of	bucket
+gear	is a component of	gearset
+stem	is a part of	seed
+propeller	is a component of	drone
+lid	is a part of	can
+feather	is a component of	bird
+cog	is a component of	gear system
+shaft	is a component of	pump
+wheelbarrow	is a component of	gardening tool
+screwdriver	is a component of	toolkit
+pipe	is a component of	plumbing system
+rotor	is a component of	aircraft engine
+fin	is a component of	fish
+handlebar	is a component of	bicycle
+fin	is a component of	shark
+propeller	is a component of	aircraft
+socket	is a component of	engine
+fin	is a component of	whale
+strut	is a component of	aircraft wing
+plate	is a component of	plate rack
+cable	is a component of	computer network
+lug	is a component of	nut
+bearing	is a component of	machine
+bolt head	is a component of	screw
+clip	is a component of	binding
+plate	is a component of	saucer
+screw head	is a component of	screw
+clip	is a component of	hair tie
+wheel rim	is a component of	wheel
+rudder	is a component of	sailboat
+nut	is a component of	nutcracker
+nut	is a component of	socket wrench
+hub cap	is a component of	wheel
+pin	is a component of	connector
+gear case	is a component of	gearbox
+clip	is a component of	paper clip
+fin	is a component of	dolphin
+screw cap	is a component of	screw
+strut	is a component of	suspension
+spring seat	is a component of	spring
+keycap	is a component of	keyboard
+plate	is a component of	dinner plate
+propeller shaft	is a component of	propeller
+rivet	is a component of	metalwork
+lug nut	is a component of	axle
+wheel nut	is a component of	car
+button	is a component of	remote
+clip	is a component of	binder
+rudder	is a component of	yacht
+gear housing	is a component of	gearbox
+strut	is a component of	landing gear
+valve	is a component of	faucet
+rod	is a part of	arm
+wire	is a component of	circuit
+pipe joint	is a component of	plumbing
+blade	is a part of	airplane wing
+stem	is a part of	mushroom
+valve seat	is a component of	engine
+bearing cap	is a component of	engine
+shaft	is a component of	helicopter
+lever	is a part of	door
+cylinder liner	is a component of	engine
+rotor shaft	is a component of	turbine
+axle housing	is a component of	wheel
+bearing ball	is a component of	bearing
+bearing housing	is a component of	bearing
+valve stem	is a component of	engine
+stem	part of	plant
+handlebar	is a part of	bicycle
+drum	is a component of	washing machine
+rod	part of	pipe
+bearing	is a part of	wheel
+motor	is a component of	electric scooter
+gearwheel	is a component of	gear
+needle	is a part of	sewing machine
+sail	is a part of	boat
+axis	is a part of	shaft
+lever	is a part of	seesaw
+bearing ball	is a part of	bearing
+valve	is a component of	pipeline
+clutch	is a component of	transmission
+bearing housing	is a component of	engine
+propeller shaft	is a component of	airplane
+gearbox	is a component of	car
+cogwheel	is a component of	gear
+ratchet	is a part of	gear
+blade	part of	propeller
+turbine blade	is a component of	turbine
+clutch disk	is a component of	transmission
+cam	is a part of	engine
+engine block	is a component of	engine
+transmission shaft	is a component of	car
+governor	is a part of	steam engine
+crankcase	is a component of	engine
+airfoil	is a part of	airplane wing
+impeller	is a component of	pump
+propeller tip	is a component of	propeller
+gear case	is a component of	transmission
+shaft bearing	is a component of	engine
+valve spring	is a part of	engine
+compressor	is a component of	refrigerator
+crankcase vent	is a component of	engine
+cam follower	is a part of	engine
+camshaft bearing	is a component of	engine
+engine intake	is a component of	car
+propeller hub	is a component of	airplane
+turbine casing	is a component of	turbine
+bearing sleeve	is a part of	engine
+valve seat	is a part of	engine
+compressor wheel	is a component of	compressor
+fender	is a component of	car
+door	is a component of	house
+blade	is a component of	windmill
+cable	is a component of	bridge
+engine	is a component of	train
+pipe	is a component of	pipeline
+handle	is a component of	luggage
+cable	is a component of	television
+propeller	is a component of	helicopter
+rudder	is a component of	kayak
+screen	is a component of	phone
+engine	is a component of	motorcycle
+handle	is a component of	spoon
+hinge	is a component of	door
+cable	is a component of	submarine
+panel	is a component of	control panel
+blade	is a component of	mixer
+pedal	is a component of	piano
+screen	is a component of	monitor
+stem	is a part of	vine
+door	is a component of	cabinet
+pin	is a component of	lockset
+handle	is a component of	luggage cart
+axle	is a component of	shaft
+valve	is a component of	water heater
+pedal	is a component of	organ
+screw	is a component of	screwdriver set
+engine	is a component of	ship
+rudder	is a component of	dinghy
+hub	is a component of	wheelbarrow
+rod	is a component of	joystick
+fin	is a component of	airplane wing
+propeller	is a component of	airboat
+gear	is a component of	bicycle chain
+blade	is a component of	fan blade
+panel	is a component of	control board
+handle	is a component of	duffle bag
+runner	is a component of	treadmill
+shaft	is a component of	generator
+stud	is a component of	engine
+socket	is a component of	wrench
+rod	is a component of	pump
+gearwheel	is a component of	clock
+turbine	is a component of	engine
+bracket	is a component of	shelf
+screwdriver	is a part of	toolbox
+ratchet	is a component of	wrench
+fan blade	is a part of	fan
+lug washer	is a component of	nut
+blade	is a part of	boat oar
+wheelbarrow wheel	is a component of	wheelbarrow
+lid	is a part of	container
+pinion	is a component of	gear
+pedal crank	is a part of	bicycle
+wing tip	is a part of	airplane
+rod end	is a component of	rod
+piston pin	is a component of	piston
+fan housing	is a component of	fan
+cylinder liner	is a component of	cylinder
+hub cap	is a part of	wheel
+gear teeth	is a part of	gear
+bearing collar	is a component of	bearing
+gear cluster	is a component of	transmission
+hub nut	is a part of	wheel
+axle nut	is a part of	wheel
+chapter	is a part of	book
+chapter	is a part of	novel
+cog	is a component of	machine
+line	is a part of	poem
+stanza	is a part of	poem
+phrase	is a part of	sentence
+word	is a part of	sentence
+note	is a part of	melody
+line	is a part of	picture
+segment	is a part of	circle
+sector	is a part of	circle
+rib	is a part of	lung
+vertebra	is a part of	spine
+nail	is a part of	finger
+muscle	is a component of	body
+nerve	is a component of	body
+cell	is a component of	tissue
+tissue	is a component of	organ
+organ	is a component of	body
+cell	is a component of	bone
+grain	is a part of	sand
+pixel	is a part of	image
+pixel	is a part of	picture
+byte	is a part of	computer memory
+sector	is a part of	hard drive
+chapter	is a part of	thesis
+paragraph	is a part of	essay
+segment	is a part of	tapestry
+fiber	is a part of	fabric
+strand	is a part of	rope
+thread	is a part of	cloth
+fuse	is a part of	circuit
+resistor	is a part of	circuit
+atom	is a part of	molecule
+nucleus	is a part of	cell
+mitochondria	is a part of	cell
+chromosome	is a part of	dna
+gene	is a part of	chromosome
+sentence	is a part of	text
+sentence	is a part of	book
+letter	is a part of	alphabet
+numeral	is a part of	number
+digit	is a part of	number
+section	is a part of	chapter
+nerve	is a component of	brain
+petal	is a part of	bloom
+strut	is a part of	truss
+valve	is a part of	pipeline
+page	is a part of	notebook
+pipe	is a component of	oil pipe
+cylinder	is a part of	engine head
+button	is a part of	shirt collar
+screw	is a component of	wood screw
+beam	is a component of	crane
+rivet	is a part of	airplane wing
+valve	is a part of	compressor
+leaf	is a part of	leaflet
+pin	is a component of	roller skate
+strut	is a part of	wing
+brick	is a component of	castle
+handle	is a part of	grip
+spring	is a part of	coil spring
+screw	is a component of	light switch
+rivet	is a part of	pipe
+handle	is a part of	ladle
+cylinder	is a part of	gun
+screw	is a component of	electrical outlet
+gear	is a component of	differential
+blade	is a part of	rotor
+pipe	is a component of	water pipe
+strut	is a part of	framework
+valve	is a part of	valve train
+cylinder	is a part of	engine block
+screw	is a component of	cabinet
+pipe	is a component of	pipeline system
+leaf	is a part of	vine
+axis	is a component of	shaft
+gear	is a component of	generator
+button	is a part of	collar
+key	part of	lock
+brick	part of	wall
+feather	part of	wing
+pedal	part of	shoe
+nail	part of	shoe
+string	part of	bow
+pipe	part of	pipe organ
+brick	part of	building
+screw	part of	screwdriver
+handle	part of	knife
+pin	part of	safety pin
+cog	part of	gear
+wheel	part of	train
+spring	part of	mattress
+pin	part of	compass
+brick	part of	pavement
+wheel	part of	skateboard
+string	part of	violin
+nut	part of	bolt
+pedal	part of	piano
+gear	part of	machine
+handle	part of	umbrella
+wheel	part of	bus
+button	part of	radio
+spring	part of	trampoline
+cog	part of	transmission
+key	part of	typewriter
+string	part of	harp
+nail	part of	hammer
+wheel	part of	motorcycle
+engine	part of	boat
+pin	part of	paperclip
+handle	part of	rake
+wheel	part of	ferris wheel
+gear	part of	clock
+key	part of	keyboard
+feather	part of	bird
+button	part of	computer
+nail	part of	claw hammer
+wheel	part of	shopping cart
+cog	part of	differential
+string	part of	kite
+button	part of	tv
+screw	part of	power drill
+key	part of	piano accordion
+wheel	part of	locomotive
+pin	part of	pushpin
+nail	part of	roofing nail
+button	part of	calculator
+screw	part of	cordless drill
+wheel	part of	amusement park ride
+feather	part of	peacock
+cog	part of	mechanism
+engine	part of	excavator
+pin	part of	brooch
+spring	part of	shock absorber
+wheel	part of	train car
+button	part of	remote control
+nail	part of	hammerhead
+screw	part of	power tool
+key	part of	organ
+wheel	part of	carousel
+string	part of	lyre
+gear	part of	transmission
+feather	part of	turkey
+pin	part of	clothespin
+spring	part of	suspension
+wheel	part of	trailer
+screw	part of	impact driver
+button	part of	game controller
+nail	part of	roofing nailer
+cog	part of	gearbox
+engine	part of	generator
+string	part of	zither
+key	part of	synthesizer
+spring	part of	mattress topper
+nail	part of	roofing nail set
+screw	part of	socket wrench
+button	part of	computer mouse
+wheel	part of	exercise bike
+pin	part of	straight pin
+gear	part of	gearbox
+feather	part of	ostrich
+wheel	part of	taxi
+string	part of	guzheng
+key	part of	electronic keyboard
+spring	part of	coil spring
+nail	part of	framing nail
+button	part of	cell phone
+brush	is a part of	paintbrush
+screw	is a component of	machinery
+roof	is a part of	building
+axle	is a component of	wheelbarrow
+finial	is a part of	roof
+screwdriver	is a tool for	screw
+gearshift	is a part of	vehicle
+antenna	is a part of	radio
+plug	is a part of	outlet
+lug	is a part of	chain
+gear	is a part of	gear system
+axis	is a part of	globe
+lug	is a part of	pulley
+axle	is a part of	roller coaster
+axis	is a part of	sphere
+lug	is a part of	gear
+bolt	is a part of	aircraft
+screw	is a component of	wooden construction
+axle	is a part of	windmill
+lug	is a part of	car wheel
+axis	is a part of	earth
+rivet	is a part of	bridge
+screw	is a component of	hinge
+lug	is a part of	engine
+axle	is a part of	carousel
+pin	is a component of	lockout
+rod	is a part of	propeller
+blade	part of	saw
+lens	is part of	camera
+screen	is part of	phone
+bolt	is a component of	engine
+antenna	is a component of	radio
+rod	is a component of	piston pump
+plate	is a component of	computer
+screen	is a component of	tv
+hub	is a component of	wheelbarrow wheel
+spoke	is a component of	bicycle wheel
+fin	is a component of	rocket
+screen	is a component of	computer monitor
+tire	is a component of	trailer
+rim	is a component of	wheel
+screw	is a component of	robot
+propeller	is a component of	boat
+axis	is a component of	bicycle wheel
+lens	is a component of	glasses
+hub	is a component of	steering wheel
+wing	is a component of	bird
+plate	is a component of	plate computer
+pedal	is a component of	bike
+spoke	is a component of	exercise wheel
+engine	is a component of	rocket
+screen	is a component of	phone display
+rod	is a component of	guitar
+fin	is a component of	seal
+gear	is a component of	clockwork
+rod	is a component of	rod puppet
+piston	is a component of	hydraulic pump
+tire	is a component of	vehicle
+lug	is a component of	lug nut
+screen	is a component of	tablet
+fin	is a component of	ray
+lug	is a component of	golf club
+pulley	is a component of	conveyor belt
+lever	is a component of	engine
+rotor	is a component of	airplane
+armrest	is a part of	chair
+flange	is a part of	pipe
+gear box	is a component of	transmission
+leaf spring	is a part of	suspension
+rod end	is a part of	rod
+door handle	is a part of	door
+lug nut	is a part of	wheel
+bolt	is a part of	assembly
+chain	is a part of	bicycle
+socket	is a part of	drill
+wheel chocks	is a part of	garage
+pedal	is a part of	shoe
+pedal	is a part of	keyboard
+clip	is a part of	hair clipper
+stem	is a part of	coffee bean
+armrest	is a part of	sofa
+plate	is a part of	dish set
+door latch	is a part of	door
+lid lock	is a part of	container
+gear shift	is a part of	car
+gear wheel	is a part of	engine
+shaft	is a part of	windmill
+pedal board	is a part of	bicycle
+chain link	is a part of	chain
+clip	is a part of	clothespin
+lid seal	is a part of	jar
+pedal brake	is a part of	bicycle
+handlebar tape	is a part of	bicycle
+flange adapter	is a part of	pipe
+clip on	is a part of	tie
+lever arm	is a part of	engine
+lid hinge	is a part of	container
+stem end	is a part of	plant
+chain sprocket	is a part of	bicycle
+clip fastener	is a part of	clip
+page	is a component of	book
+clip	is a component of	keychain
+chain	is a component of	bike
+board	is a part of	table
+bolt	is a component of	machine
+screen protector	is a component of	screen
+page number	is a component of	book
+blade	is a part of	mower
+handlebar	is a part of	bike
+leaf	is a part of	grass
+gear box	is a component of	car
+screen saver	is a component of	computer
+rod	is a part of	pencil
+blade	is a part of	boat
+gear wheel	is a component of	gear
+axle shaft	is a component of	wheel
+seatbelt	is a component of	car
+leaf	is a part of	maple tree
+plate	is a part of	dinner set
+gear lever	is a component of	car
+keychain	is a component of	key
+leaf	is a part of	ivy
+wheel bearing	is a component of	wheel
+blade	is a part of	saw blade
+seat	is a component of	couch
+rotor	is a component of	wind turbine
+handle	is a component of	umbrella
+gear	is a component of	gear box
+cylinder	is a component of	locomotive
+stamen	is a part of	flower
+propeller	is a component of	hovercraft
+cog	is a component of	gear box
+cylinder	is a component of	marine engine
+tire	is a component of	bus
+engine	is a component of	locomotive
+piston	is a component of	aircraft engine
+cylinder	is a component of	boat engine
+tire	is a component of	truck
+piston	is a component of	steam engine
+rotor	is a component of	wind generator
+propeller	is a component of	seaplane
+turbine	is a component of	steam turbine
+leaf	is a part of	succulent
+cylinder	is a component of	pump
+gear	is a component of	gear reducer
+rotor	is a component of	hydroelectric turbine
+stamen	is a part of	orchid
+engine	is a component of	spacecraft
+wheel	is a component of	unicycle
+blade	is a part of	sail
+turbine	is a component of	gas turbine
+hub	is a component of	exercise bike
+engine	is a component of	marine vessel
+gear	is a component of	automatic transmission
+stamen	is a part of	daisy
+leaf	is a part of	fern
+stem	is a part of	bamboo
+wheel	is a component of	hamster wheel
+shaft	is a part of	helicopter
+handlebars	are a part of	bicycle
+sail	is a component of	sailboat
+pedal	is a component of	engine
+fuse	is a component of	electrical circuit
+rodent	is a part of	farm
+fin	is a component of	tail
+rod	is a component of	telescope
+leaflet	is a part of	book
+clip	is a component of	wire
+plate	is a component of	table
+gear wheel	is a component of	transmission
+bolt head	is a part of	screw
+frame	is a part of	car
+rod end	is a component of	shaft
+axle head	is a part of	wheel
+spring washer	is a component of	spring
+plug	is a component of	pipe
+bushing	is a component of	bearing
+blade tip	is a part of	windmill
+cylinder head	is a part of	engine
+pinion shaft	is a component of	transmission
+gasket	is a component of	engine
+spring clip	is a component of	spring
+pedal	is a component of	shoe
+rod cap	is a component of	engine
+screwdriver tip	is a component of	screwdriver
+shaft key	is a component of	shaft
+spring steel	is a component of	spring
+clip nut	is a component of	wire
+gear pinion	is a component of	transmission
+axle shaft	is a part of	wheel
+plate washer	is a component of	bolt
+nail	is a part of	hammer
+shaft	is a part of	machine
+axis	is a part of	steering
+pinion	is a part of	gear
+propeller shaft	is a part of	airplane
+cable	is a part of	transmission
+lug nut	is a component of	tire
+gearwheel	is a part of	machine
+bolt head	is a part of	bolt
+chain	is a part of	bike
+leaflet	is a part of	leaf
+gear box	is a part of	car
+spindle	is a part of	machine
+rim	is a part of	bicycle
+pinion shaft	is a part of	gear
+stem	is a part of	celery
+valve cover	is a part of	engine
+camshaft	is a part of	engine
+pedal	is a part of	foot
+spoke wheel	is a part of	bicycle
+stem	is a part of	grass
+propeller	is a part of	plane
+piston rod	is a component of	engine
+axle	is a component of	car
+valve	is a part of	musical instrument
+button	is a part of	computer mouse
+rotor	is a part of	washing machine
+crank	is a component of	engine
+propeller	is a part of	aircraft
+screw	is a part of	deck
+rod	is a part of	car
+screw	is a part of	roof
+clip	is a part of	nail
+rudder	is a part of	yacht
+bolt	is a part of	chain
+plate	is a part of	plate glass
+screw	is a part of	floor
+spring	is a part of	couch
+rivet	is a part of	riveted structure
+lid	is a component of	jar
+rod	is a part of	axle
+joint	is a part of	arm
+lid	is a component of	refrigerator
+leaf	is a part of	book
+plug	is a part of	socket
+screw	is a component of	furniture
+stud	is a component of	building
+screw	is a component of	engine
+joint	is a part of	leg
+blade	is a part of	axe
+lid	is a component of	pot
+piston	is a part of	car
+valve	is a part of	machine
+rod	is a part of	fishing rod
+nail	is a part of	horseshoe
+stud	is a component of	car
+lid	is a component of	can
+button	is a part of	phone
+valve	is a part of	tap
+lid	is a component of	box
+claw	is a part of	hand
+rib	is a part of	human skeleton
+cylinder block	is a component of	engine
+main bearing	is a component of	engine
+connecting rod	is a component of	engine
+fuel injector	is a component of	engine
+fuel pump	is a component of	engine
+carburetor	is a component of	engine
+air filter	is a component of	engine
+timing belt	is a component of	engine
+timing chain	is a component of	engine
+rocker arm	is a component of	engine
+pushrod	is a component of	engine
+exhaust manifold	is a component of	engine
+muffler	is a component of	exhaust system
+heat exchanger	is a component of	engine
+transmission	is a component of	car
+differential	is a component of	car
+gearshift	is a component of	transmission
+flywheel	is a component of	car
+spark plug	is a component of	engine
+ignition coil	is a component of	engine
+fuel tank	is a component of	car
+air conditioner	is a component of	car
+fuel gauge	is a component of	dashboard
+oil dipstick	is a component of	car
+oil filter	is a component of	car
+oil pump	is a component of	engine
+water pump	is a component of	engine
+thermostat	is a component of	engine
+battery	is a component of	car
+alternator	is a component of	car
+starter motor	is a component of	car
+headlight	is a component of	car
+taillight	is a component of	car
+side mirror	is a component of	car
+dashboard	is a part of	car
+console	is a component of	dashboard
+airbag	is a component of	car
+gps	is a component of	car
+navigation system	is a component of	car
+display screen	is a component of	gps
+door lock	is a component of	car
+trunk lid	is a component of	car
+roof rack	is a component of	car
+antenna	is a component of	car
+windshield wiper	is a component of	car
+window	is a component of	car
+sunroof	is a component of	car
+finger	is a component of	hand
+gear shift	is a part of	transmission
+wheel well	is a component of	car
+stalk	is a part of	plant
+propeller blade	is a part of	propeller
+winglet	is a component of	wing
+stabilizer	is a component of	airplane
+keel	is a component of	boat
+hull	is a component of	ship
+deck	is a part of	ship
+cabin	is a part of	ship
+porthole	is a component of	ship
+anchor	is a component of	boat
+pulley	is a component of	machine
+ring	is a component of	lock
+pinion	is a component of	gear box
+collar	is a component of	engine
+collar	is a component of	gear
+rod end	is a component of	link
+shaft seal	is a component of	engine
+bushing	is a component of	engine
+bearing block	is a component of	engine
+gear housing	is a component of	transmission
+axle box	is a component of	truck
+engine block	is a component of	car
+pulley wheel	is a component of	machine
+cable	is a component of	crane
+lever	is a component of	gate
+gatepost	is a component of	gate
+latch	is a component of	gate
+catch	is a component of	gate
+plate	is a part of	wheel
+track	is a component of	train
+carriage	is a component of	train
+coupling	is a component of	train
+handle	is a part of	knife
+handle	is a part of	wheelbarrow
+lid	is a part of	pot
+stem	is a part of	lily
+piston	is a component of	car engine
+leg	is a part of	desk
+valve	is a component of	tap
+wing	is a part of	dragonfly
+lid	is a part of	coffin
+engine	is a component of	excavator
+blade	is a part of	grass
+valve	is a component of	shower
+engine	is a component of	crane
+rudder	is a component of	submarine
+stem	is a part of	onion
+atom	is part of	molecule
+brick	is part of	building
+pedal	is part of	bicycle
+page	is part of	book
+key	is part of	keyboard
+nail	is part of	shoe
+screw	is part of	chair
+blade	is part of	knife
+lug	is part of	suitcase
+gear	is part of	engine
+piston	is part of	engine
+cylinder	is part of	engine
+piston ring	is part of	engine
+cylinder head	is part of	engine
+axle	is part of	wheel
+engine	is part of	car
+steering wheel	is part of	car
+brake pad	is part of	car
+seatbelt	is part of	car
+door	is part of	car
+wheel	is part of	bicycle
+leaf	is part of	tree
+branch	is part of	tree
+limb	is part of	tree
+root	is part of	tree
+petal	is part of	flower
+calyx	is part of	flower
+pistil	is part of	flower
+anther	is part of	stamen
+septum	is part of	diaphragm
+valve	is part of	heart
+chamber	is part of	heart
+artery	is part of	cardiovascular system
+vein	is part of	circulatory system
+fibula	is part of	lower limb
+tibia	is part of	lower limb
+bone	is part of	skeleton
+tooth	is part of	jaw
+nerve	is part of	brain
+lobe	is part of	brain
+hemisphere	is part of	brain
+eye	is part of	face
+tongue	is part of	mouth
+toothbrush	is part of	oral hygiene
+hand	is part of	arm
+wrist	is part of	arm
+finger	is part of	hand
+toe	is part of	foot
+nail	is part of	toe
+tendon	is part of	muscle
+muscle	is part of	body
+joint	is part of	body
+vertebra	is part of	spine
+disc	is part of	spine
+nucleus	is part of	cell
+cell	is part of	tissue
+tissue	is part of	organ
+organ	is part of	system
+system	is part of	organism
+eye lens	is part of	eye
+macula	is part of	eye
+pupil	is part of	eye
+retina	is part of	eye
+eyelid	is part of	eye
+earlobe	is part of	ear
+pinna	is part of	ear
+cochlea	is part of	ear
+bone marrow	is part of	bone
+blood vessel	is part of	circulatory system
+liver lobe	is part of	liver
+gallbladder	is part of	digestive system
+liver	is part of	abdomen
+kidney	is part of	abdomen
+pancreas	is part of	abdomen
+rib	is part of	ribcage
+cartilage	is part of	joint
+meniscus	is part of	knee
+kneecap	is part of	joint
+kneecap	is part of	knee
+axle	is a part of	bicycle
+screw	is a component of	lock
+pedal	is a part of	boat
+blade	is a component of	sword
+screw	is a component of	wood
+stem	is a part of	broccoli
+rod	is a part of	clarinet
+pedal	is a part of	scooter
+axis	is a part of	cylinder
+handle	is a part of	box
+stem	is a part of	thistle
+rod	is a part of	flute
+fin	is a component of	squid
+axis	is a part of	hub
+page	part of	book
+screw	component of	screwdriver
+blade	part of	airplane wing
+gear	component of	machine
+string	part of	guitar
+lug	part of	tire
+buttonhole	part of	shirt
+thread	part of	fabric
+rivet	part of	aircraft
+cylinder	part of	engine
+bolt	part of	nut
+panel	part of	door
+rivulet	part of	river
+cylinder head	part of	engine
+pedal	part of	organ
+thread	part of	rope
+fender	part of	car
+handlebar	part of	bicycle
+bolt	part of	anchor
+lug	part of	wheel
+button	part of	mouse
+gear	part of	gear train
+rivet	part of	riveted structure
+pedal	part of	drum
+petiole	part of	leaf
+lug	part of	anchor
+handle	part of	cup
+thread	part of	yarn
+valve	part of	engine
+spoke	part of	bicycle wheel
+petal	part of	rose
+button	part of	telephone
+lug	part of	trailer
+rivet	part of	metal plate
+blade	part of	lawnmower
+gear	part of	clockwork
+lug	part of	engine
+spoke	part of	gear
+stem	part of	carrot
+pedal	part of	accordion
+button	part of	uniform
+petiole	part of	spinach
+rivulet	part of	creek
+panel	part of	dashboard
+petal	part of	iris
+lug	part of	boat trailer
+handle	part of	handbag
+gear	part of	gearshift
+stem	part of	wheat
+valve	part of	valve cover
+rivulet	part of	stream
+petiole	part of	lettuce
+thread	part of	sewing thread
+lug	part of	aircraft wheel
+wheel	component of	wheelbarrow
+panel	part of	cupboard
+pedal	part of	keyboard
+petal	part of	lily
+valve	part of	valve engine
+rivet	part of	bridge
+spoke	part of	flywheel
+stem	part of	dandelion
+rotor	is a part of	turbine
+socket	is a component of	plug
+button	is a component of	controller
+plate	is a part of	record
+clip	is a component of	paperclip
+socket	is a component of	lightbulb
+stem	is a part of	carrot
+seal	is a component of	bottle
+ring	is a part of	finger
+pin	is a component of	bowling ball
+lever	is a part of	mechanism
+plate	is a part of	cd
+clip	is a component of	zipper
+seal	is a component of	jar
+petals	are a part of	flower
+seeds	are contained in	fruit
+pistil	is a part of	flower
+fingers	are part of	hand
+toes	are part of	foot
+leg	is part of	animal
+eye	is a part of	head
+hair	is a part of	head
+teeth	are a part of	mouth
+arm	is part of	human
+brain	is part of	head
+nose	is a part of	face
+ear	is a part of	head
+neck	is part of	human
+liver	is part of	human
+kidney	is part of	human
+heart	is part of	human
+ribs	are part of	human
+vertebrae	are part of	spine
+spine	is part of	human
+hand	is a part of	arm
+socket	is a part of	jaw
+molar	is a part of	tooth
+tibia	is a part of	leg
+ribcage	is a part of	human
+skull	is a part of	head
+kneecap	is a part of	knee
+kneecap	is a part of	human
+shoulder	is part of	human
+knee	is part of	leg
+sole	is part of	shoe
+tongue	is part of	human
+lung	is a part of	human
+earlobe	is a part of	ear
+artery	is a part of	human
+leg	is part of	human
+kneecap	is a part of	joint
+hair	is a part of	scalp
+muscle	is a part of	body
+foot	is a part of	human
+heel	is a part of	foot
+jaw	is a part of	human
+elbow	is part of	arm
+palm	is a part of	hand
+ankle	is a part of	foot
+shoulder	is a part of	human
+skull	is a part of	cranium
+heart	is a part of	circulatory system
+heart	is a part of	human
+vertebra	is a part of	human
+skin	is a part of	human
+skin	is a part of	body
+skin	is a part of	outer layer
+knee	is a part of	human
+knee	is a part of	joint
+knee	is a part of	leg
+lung	is a part of	respiratory system
+skin	is a part of	surface
+rib	is a part of	ribcage
+rib	is a part of	human
+tibia	is a part of	human
+fibula	is a part of	leg
+vertebrae	are part of	backbone
+vertebrae	are part of	spinal column
+roof	is a component of	house
+hand	is a component of	arm
+spine	is a component of	back
+lug	is a component of	door
+fender	is a component of	bicycle
+board	is a component of	table
+pedal	is a component of	musical instrument
+strut	is a component of	chair
+board	is a component of	bookshelf
+piston	is a component of	power plant
+lever	is a component of	excavator
+rod	is a component of	shaft
+board	is a component of	desk
+propeller	is a component of	plane
+nail	is a component of	hammer
+rod	is a part of	bicycle
+grain	is contained in	wheat
+panel	is a part of	door
+screw	is a component of	fastener
+cog	is a component of	transmission
+coil	is a component of	inductor
+tube	is a component of	tube set
+axis	is a part of	rotation
+tube	is a component of	piping
+shaft	is a part of	turbine
+cap	is a part of	container
+axle	is a part of	wheelwright
+stem	is a part of	fruit
+tube	is a component of	tubing
+rod	is a part of	rodenticide
+panel	is a part of	board
+fin	is a part of	finned tube
+wheel	is a part of	boat
+buckle	is a part of	belt
+pipe	is a part of	plumbing
+lug	is a part of	socket set
+plate	is a part of	serving
+pulley	is a part of	rope
+link	is a part of	chain
+lever	is a part of	gate
+socket	is a part of	toolset
+axis	is a part of	bearing
+screw	is a part of	wood
+gear	is a part of	drill press
+lug	is a part of	wheel nut
+lid	is a part of	pail
+axis	is a part of	bearing ball
+spoke	is a part of	hub
+plate	is a part of	plate armor
+screw	is a part of	wood plank
+bolt	is a part of	anchoring
+panel	is a part of	cabinet door
+plate	is a part of	serving tray
+lid	is a part of	paint can
+gear	is a part of	gear train
+lid	is a part of	can opener
+axis	is a part of	wheel bearing
+clip	is a part of	wire clip
+plate	is a part of	charger plate
+pedal	is a component of	car
+note	is a part of	piano
+panel	is a part of	control panel
+cable	is a part of	network
+button	is a part of	keyboard
+exhaust pipe	is a component of	car
+injector	is a component of	engine
+wheel bearing	is a component of	car
+oil filter	is a component of	engine
+ignition system	is a component of	car
+thermostat	is a component of	heating system
+thermostat	is a component of	boiler
+capacitor	is a component of	electrical circuit
+resistor	is a component of	electrical circuit
+inductor	is a component of	electrical circuit
+diode	is a component of	electrical circuit
+intake manifold	is a component of	engine
+spine	is a part of	body
+drum	is a component of	snare
+speaker	is a component of	loudspeaker
+cable	is a component of	computer
+valve	is a component of	radiator
+rod	is a part of	camera
+panel	is a part of	control
+shaft	is a part of	drill
+clip	is a part of	bag
+wheel	is a part of	scooter
+frame	is a part of	computer
+pedal	is a part of	harp
+gear	is a component of	train
+wheel	is a part of	trolley
+lever	is a part of	piano
+plate	is a part of	dishware
+pin	is a part of	pinball machine
+gear	is a component of	sewing machine
+axle	is a part of	skateboard
+lens	part of	camera
+screen	part of	computer
+handle	part of	tool
+blade	part of	sword
+propeller	part of	aircraft
+branch	part of	shrub
+stalk	part of	plant
+axle	part of	wheelbarrow
+screw	part of	drill
+cable	part of	network
+socket	part of	electric drill
+rotor	part of	engine
+turbine	part of	windmill
+sail	part of	boat
+lug	part of	hub
+bolt	part of	hinge
+nut	part of	screw
+piston	part of	internal combustion engine
+clip	part of	clipper
+blade	part of	lawn mower
+runner	part of	wheel
+spring	part of	retractable pen
+bolt	part of	lock
+rotor	part of	centrifuge
+axle	part of	hub
+wheel	part of	cart
+lug	part of	car tire
+bolt	part of	door hinge
+rotor	part of	helicopter
+handle	part of	axe
+screen	part of	mobile phone
+handle	part of	bucket
+rudder	part of	airplane
+axle	part of	wheel
+propeller	part of	windmill
+screen	part of	phone
+wheel	part of	wheelchair
+clip	part of	hair clipper
+wheel	part of	wagon
+fin	is a part of	tail
+axle	is a component of	gear
+rod	is a part of	construction
+gear	is a part of	machinery
+stem	is a part of	branch
+pin	is a part of	door
+wheel	is a component of	trolley
+lid	is a part of	vase
+rim	is a part of	bicycle wheel
+wheel	is a component of	fire truck
+piston	is a component of	water pump
+wheel	is a component of	golf cart
+head	is the part of	human
+rod	is a part of	bridge
+fan	is a component of	air conditioner
+screw	is a part of	furniture
+rotor	is a part of	wind turbine
+rotor	is a part of	airplane
+bolt	is a part of	engine block
+pin	is a part of	hinge
+stud	is a part of	building
+handle	is a part of	cabinet
+stud	is a part of	wall
+screw	is a part of	picture frame
+clip	is a part of	hair clip
+stud	is a part of	roof
+stud	is a part of	panel
+lug	is a part of	brake
+plate	is a part of	armor
+handle	is a part of	pot
+stud	is a part of	wall panel
+plug	is a part of	light socket
+clip	is a part of	binder clip
+stud	is a part of	door frame
+stud	is a part of	beam
+pod	is contained in	pea
+rotor	is a component of	turbine
+motor	is a component of	airplane
+zipper	is a part of	jacket
+zipper	is a component of	garment
+lens	is a component of	camera
+shutter	is a component of	camera
+shutter	is a part of	window
+lock	is a component of	cabinet
+drum	is a component of	kit
+chain	is a part of	anchor
+rope	is a component of	ship
+sail	is a part of	yacht
+fin	is a part of	plane
+fin	is a part of	swimwear
+cup	is a part of	mug
+bowl	is a component of	plate
+fork	is a part of	set
+table	is a part of	house
+table	is a part of	restaurant
+foot	is a part of	table
+picture	is a part of	gallery
+screen	is a component of	computer
+monitor	is a component of	computer
+computer	is a part of	office
+keyboard	is a component of	computer
+processor	is a component of	computer
+memory	is a component of	computer
+battery	is a component of	phone
+phone	is a part of	office
+circuit	is a component of	computer
+circuit	is a component of	house
+plug	is a part of	power strip
+frame	is a component of	picture
+rod	is a component of	axle
+pin	is a component of	clutch
+blade	is a component of	plane
+lid	is a part of	cabinet
+pin	is a component of	pinball
+leaf	part of	kale
+blade	is a component of	propeller
+leaf	part of	collard
+button	is a component of	keychain
+screw	is a component of	gate
+pedal	is a part of	car
+leaf	part of	mint
+lid	is a part of	lidocaine
+button	is a component of	watch
+fin	is a part of	octopus
+pedal	is a part of	airplane
+doorknob	is a part of	door
+lock	is a part of	safe
+tip	is a part of	pencil
+brad	is a part of	hammer
+pin	is a part of	safety pin
+plank	is a part of	bridge
+strap	is a part of	watch
+tip	is a part of	pen
+clip	is a part of	clipper
+spout	is a part of	bucket
+loop	is a part of	rope
+clip	is a part of	headset
+pin	is a part of	curler
+spout	is a part of	pipe
+clip	is a part of	paperclip
+tip	is a part of	marker
+screen	is a part of	monitor
+pixel	is a part of	screen
+screw	is a part of	camera
+shutter	is a part of	camera
+sensor	is a part of	car
+wheel	is a component of	bus
+gear	is a part of	train
+screw	is a part of	drill press
+button	is a part of	mousepad
+switch	is a part of	outlet
+cord	is a part of	phone
+case	is a part of	phone
+lens	is a part of	magnifying glass
+handle	is a part of	door handle
+socket	is a part of	outlet
+gear	is a part of	windmill
+tooth	is a component of	mouth
+blade	part of	wind turbine
+cable	is a component of	suspension bridge
+fin	part of	dolphin
+blade	part of	helicopter
+plate	part of	dish
+strut	part of	airplane
+wheel	is a component of	scooter
+strut	part of	building
+blade	part of	wind generator
+fin	part of	whale
+plate	part of	table
+strut	part of	tower
+propeller	part of	plane
+valve	is a component of	steam engine
+page	is a part of	album
+gear	is a component of	mill
+handle	part of	ladder
+rod	is a component of	bridge
+strut	part of	gate
+plate	part of	plate rack
+valve	is a component of	pump
+wheel	is a component of	toy car
+page	is a part of	journal
+rotor	is a part of	fan
+fin	is a part of	radiator
+spring	is a component of	coiled device
+bolt	is a component of	construction
+crank	is a part of	engine
+flywheel	is a part of	engine
+muffler	is a component of	vehicle
+drive shaft	is a component of	car
+drive belt	is a component of	car
+drive wheel	is a part of	vehicle
+air compressor	is a component of	machine
+gearbox	is a component of	vehicle
+headlight	is a component of	vehicle
+fuel line	is a part of	engine
+fuel tank	is a component of	vehicle
+battery	is a component of	vehicle
+oil pan	is a component of	engine
+oil reservoir	is a component of	vehicle
+oil pump	is a part of	engine
+oil cooler	is a component of	engine
+oil dipstick	is a component of	engine
+speedometer	is a component of	dashboard
+dashboard	is a part of	vehicle
+door handle	is a part of	car
+door latch	is a part of	car
+window	is a part of	car
+door mirror	is a component of	car
+glove compartment	is a component of	dashboard
+boot	is a component of	car
+trunk	is a part of	car
+roof rack	is a part of	car
+sun visor	is a component of	car
+sunshade	is a component of	car
+luggage rack	is a component of	car
+trunk lid	is a part of	car
+boot lid	is a part of	car
+door lock	is a part of	car
+trunk space	is a part of	car
+pin	is a component of	hairpiece
+thread	is a component of	rope
+screw	is a component of	bottle cap
+stud	is a component of	engine block
+valve	is a component of	water pump
+stem	is a part of	coffee cup
+screw	is a component of	eyeglasses
+clip	is a part of	hairpiece
+pipe	is a component of	organ
+screw	is a component of	watch
+clip	is a component of	binder clip
+clip	is a part of	earring
+axle	is a component of	car wheel
+bolt	is a component of	engine block
+stud	is a component of	engine head
+screw	is a component of	door handle
+rod	is a component of	knitting needle
+clip	is a part of	photo frame
+button	is a part of	blouse
+pin	is a component of	badge reel
+pin	is a component of	tie clip
+clip	is a component of	magnet
+clip	is a part of	lampshade
+screw	is a component of	bicycle gear
+rod	is a component of	curtain rod
+screw	is a component of	doorbell
+clip	is a component of	file clip
+screw	is a component of	socket
+pin	is a component of	earring
+clip	is a component of	picture hanger
+page	is contained in	journal
+button	is a component of	keyboard
+pin	is a component of	collar
+screw	is a component of	lightbulb
+page	is contained in	encyclopedia
+button	is a component of	phone
+wheel	is a component of	carousel
+page	is contained in	atlas
+finger	is a part of	glove
+gear	is a component of	lock
+screw	is a component of	bridge
+lid	is a component of	storage container
+thread	is a part of	embroidery
+button	is a component of	computer
+screw	is a component of	water pump
+socket	is a component of	lamp
+cap	is a component of	bottle
+strut	is a part of	suspension
+cylinder	is a component of	coffee maker
+rod	is a component of	door
+rod	is a component of	gate
+stem	is a part of	orchid
+rod	is a component of	pipe
+axle	is a component of	roller coaster
+valve	is a component of	boiler
+piston	is a component of	injector
+handle	is a part of	trash can
+cap	is a component of	tube
+rod	is a component of	ladder
+spring	is a component of	chair
+valve	is a component of	refrigerator
+stem	is a part of	iris
+blade	is a part of	scissors
+rod	is a component of	lock
+screen	is a part of	tablet
+stem	is a part of	sunflower
+button	is a component of	computer mouse
+page	is contained in	book
+screw	is a component of	bicycle
+foot	is a part of	shoe
+branch	is a part of	vine
+screw	is a component of	airplane
+frame	is a component of	painting
+screw	is a component of	boat
+buttonhole	is a part of	dress
+blade	is a part of	engine
+rod	is a part of	piano
+stem	is a part of	corn
+buttonhole	is a part of	jacket
+stem	is a part of	tobacco
+key	is a part of	organ
+screw	is a component of	crane
+branch	is a part of	lilac
+leaf	part of	oak
+pedal	is a part of	bass guitar
+leaf	part of	fir
+button	is a part of	apron
+gear	is a component of	conveyor
+page	is contained in	catalog
+buttonhole	is a part of	suit
+leaf	part of	palm
+screw	is a component of	air conditioner
+tire	is a component of	lorry
+gear	is a component of	excavator
+piston	is a component of	airplane
+cylinder	is a component of	drill
+tire	is a component of	car
+blade	is a component of	rotor
+turbine	is a component of	pump
+wheel	is a component of	gear train
+wheel	is a component of	tractor
+handle	is a component of	cabinet
+key	is a component of	computer
+spring	is a component of	garage door
+handle	is a component of	ladder
+handle	is a component of	wheelchair
+handle	is a component of	shopping cart
+stem	is a component of	plant
+stem	is a component of	flower
+stem	is a component of	tree
+leaf	is a part of	flower
+screen	is a component of	television
+monitor	is a component of	medical device
+console	is a component of	gaming console
+console	is a component of	control panel
+control	is a component of	flight simulator
+control	is a component of	machine
+sensor	is a component of	traffic light
+sensor	is a component of	weather station
+sensor	is a component of	fire alarm
+plate	is a component of	plate spinner
+plate	is a component of	turntable
+frame	is a component of	mirror
+frame	is a component of	window
+lens	is a component of	microscope
+lens	is a component of	telescope
+axle	is a component of	steering column
+rotor	is a component of	electric motor
+beam	is a component of	roof
+blade	is a component of	sailboat
+cable	is a part of	telephone
+button	is a part of	telephone
+screw	is a component of	microscope
+blade	is a part of	grasscutter
+rod	is a part of	antennae
+pipe	is a part of	oil pipeline
+cog	is a component of	watch
+handle	is a part of	fork
+nut	is a part of	screwdriver
+rod	is a part of	amplifier
+gear	is a component of	computer
+piston	is a component of	airplane engine
+rod	is a part of	steering wheel
+pipe	is a part of	water supply
+rod	is a part of	joystick
+screw	is a component of	vending machine
+pipe	is a part of	sewage system
+blade	is a part of	paper cutter
+clip	is a component of	hair clipper
+bolt	is a component of	hinge
+seat	is a part of	couch
+clip	is a component of	hair clip
+seat	is a part of	bicycle
+button	is a component of	shirt button
+spring	is a part of	mattress spring
+plate	is a part of	dish plate
+lid	is a part of	jar lid
+pedal	is a component of	piano pedal
+clip	is a component of	clothes clip
+spring	is a part of	mattress topper
+seat	is a part of	chair seat
+rim	is a part of	wheel rim
+bolt	is a component of	rivet
+clip	is a component of	jewelry clip
+nut	is a component of	bolt head
+handle	is a part of	jar
+spring	is a part of	clock
+clip	is a part of	hairpin
+socket	is a part of	engine
+fin	is a part of	wing
+clasp	is a part of	buckle
+rivet	is a part of	ship
+clip	is a part of	keychain
+bolt	is a part of	screw
+screw	is a part of	lock
+lug	is a part of	nut
+screw	is a part of	faucet
+motor	is a component of	boat
+rod	is a component of	airplane
+screw	is a component of	toy
+cup	is a part of	cup set
+wheelbarrow	is a part of	hardware store
+lever	is a component of	doorknob
+rivet	is a component of	plane
+plug	is a part of	phone
+leaf	is a part of	leafy green
+seat	is a part of	theater
+lug	is a part of	truck
+pin	is a component of	hair clip
+cup	is a part of	tea set
+pin	is a part of	badge
+seat	is a part of	auditorium
+rod	is a component of	steering wheel
+branch	is a part of	shrub
+piston	is a component of	car
+piston	is a component of	boat
+piston	is a component of	train
+beam	is a component of	house
+panel	is a component of	wall
+shaft	is a component of	drill
+pedal	is a component of	scooter
+lug	is a component of	bicycle wheel
+lug	is a component of	aircraft wheel
+lug	is a component of	train wheel
+fin	is a part of	kite
+fin	is a part of	ship
+fin	is a part of	helicopter
+fin	is a part of	propeller
+fin	is a part of	wind turbine
+fin	is a part of	airfoil
+fin	is a part of	rudder
+fin	is a part of	plane wing
+fin	is a part of	ship r
+brush	is a part of	paint
+rod	is a part of	fork
+nut	is a part of	car
+clip	is a part of	picture frame
+pinion	is a component of	gearbox
+wheelbarrow	is a part of	gardening equipment
+bolt	is a part of	hinge
+plug	is a component of	headphone
+blade	is a part of	reaper
+clip	is a part of	hair tie
+screw	is a component of	wall anchor
+blade	is a part of	knife sharpener
+rod	is a part of	fish hook
+blade	is a part of	grass cutter
+bolt	is a part of	screwdriver
+rod	is a part of	tree
+tube	is a part of	bicycle
+handle	is a part of	gear
+clip	is a part of	phone
+wire	is a component of	electric circuit
+board	is a part of	skateboard
+nut	is a part of	nutcracker
+screw	is a part of	ladder
+leaf	is a part of	leafy greens
+blade	is a part of	guillotine
+screw	is a part of	toaster
+wing	is a part of	seagull
+fin	is a part of	angelfish
+board	is a part of	boardgame
+board	is a part of	surfboard
+handle	is a part of	doorknob
+rod	is a part of	wooden rod
+fin	part of	airplane
+clip	is a component of	clothespin
+leaf	part of	book
+stud	part of	building
+board	part of	table
+clip	part of	pen
+spring	part of	bed
+beam	part of	house
+plate	part of	tray
+wire	is a component of	electrical wire
+shaft	part of	rotor
+nut	part of	nutcracker
+strut	part of	suspension
+plate	part of	saucer
+stud	part of	anchor
+leaf	part of	bookshelf
+stud	part of	foundation
+strut	is a component of	roof
+gear	part of	mechanism
+board	is a component of	board game
+blade	part of	sail
+stud	part of	roof
+clip	part of	badge
+plate	is a component of	dish
+nut	is a component of	machinery
+shaft	part of	axis
+blade	part of	sawmill
+rivet	part of	boat
+blade	is a component of	mower
+stud	is a component of	bridge
+pedalboard	is a component of	bicycle
+screw	is a component of	wood screwdriver
+sparkplug	is a component of	engine
+switch	is a part of	electrical circuit
+terminal	is a part of	electrical circuit
+vane	is a part of	fan
+vertex	is a part of	polygon
+wheelbarrow	is a part of	gardening tool
+wire	is a component of	circuit board
+axis	is a component of	rotating machine
+brush	is a part of	toothbrush
+burner	is a part of	stove
+cable	is a component of	electrical circuit
+canvas	is a part of	painting
+cartridge	is a component of	printer
+chamber	is a part of	pipe organ
+clip	is a part of	guitar
+column	is a part of	building
+console	is a part of	computer
+corner	is a part of	square
+cradle	is a part of	hammock
+cup	is a part of	cupcake
+drawer	is a part of	dresser
+drum	is a part of	drum machine
+fan	is a part of	cooling system
+fascia	is a part of	computer
+foot	is a part of	piano
+foundation	is a part of	building
+globe	is a part of	ball
+grid	is a part of	chessboard
+head	is a part of	guitar
+hull	is a part of	ship
+knop	is a part of	screwdriver
+leaflet	is a part of	brochure
+lug	is a component of	engine
+mainboard	is a component of	computer
+manifold	is a component of	engine
+brush	is a component of	toothbrush
+brush	is a part of	hairbrush
+valve	is a component of	pipe organ
+propeller	is a component of	windmill
+mouse	is a component of	computer
+hard drive	is a component of	computer
+battery	is a component of	flashlight
+mitochondria	is a component of	cell
+disk	is a part of	record player
+fork	is a part of	utensil set
+spoon	is a part of	utensil set
+sleeve	is a part of	shirt
+pocket	is a part of	shirt
+screw	is a component of	construction equipment
+axle	is a component of	vehicle
+cog	is a part of	gear system
+cogwheel	is a component of	clock
+drum	is a part of	drum set
+snare	is a part of	drum set
+bass	is a part of	drum set
+head	is a part of	drum
+coil	is a part of	spring
+line	is a part of	fishing rod
+hook	is a part of	fishing rod
+handle	is a part of	spade
+blade	is a part of	spade
+shaft	is a part of	axe
+wheelbarrow	is a component of	gardening equipment
+bucket	is a part of	wheelbarrow
+spout	is a part of	watering can
+bowl	is a part of	cereal bowl
+doorknob	is a component of	door
+hinges	are part of	door
+pane	is a part of	window
+glass	is a part of	window
+frame	is a component of	picture frame
+nut	is a component of	machine
+fan	is a part of	heating system
+fin	is a part of	jellyfish
+fin	is a part of	lobster
+fin	is a part of	crab
+fin	is a part of	eel
+fin	is a part of	tuna
+fin	is a part of	salmon
+fin	is a part of	trout
+fin	is a part of	catfish
+fin	is a part of	goldfish
+fin	is a part of	scallop
+fin	is a part of	clam
+fin	is a part of	mussel
+fin	is a part of	oyster
+fin	is a part of	cuttlefish
+fin	is a part of	shrimp
+fin	is a part of	crayfish
+fin	is a part of	snail
+fin	is a part of	slug
+fin	is a part of	leech
+fin	is a part of	insect
+fin	is a part of	worm
+fin	is a part of	spider
+fin	is a part of	centipede
+fin	is a part of	tick
+fin	is a part of	flea
+fin	is a part of	grasshopper
+fin	is a part of	locust
+fin	is a part of	butterfly
+fin	is a part of	moth
+fin	is a part of	bat
+fin	is a part of	rodent
+fin	is a part of	mouse
+fin	is a part of	rabbit
+fin	is a part of	squirrel
+fin	is a part of	guinea pig
+fin	is a part of	hamster
+fin	is a part of	raccoon
+fin	is a part of	beaver
+fin	is a part of	opossum
+fin	is a part of	armadillo
+tooth	is part of	mouth
+engine	is a part of	plane
+strut	is a part of	building
+brick	is a part of	building
+finial	is a part of	hat
+tongue	is a part of	language
+tongue	is a part of	animal
+axle	is a part of	gear
+leg	is a part of	stool
+rod	is a part of	pen
+tongue	is a part of	throat
+lug	is a component of	hubcap
+lid	is a component of	container
+socket	is a component of	computer
+lever	is a part of	tool
+clip	is a component of	computer
+rod	is a part of	screwdriver
+pin	is a part of	axle
+blade	is a part of	chopper
+spring	is a component of	sofa
+pin	is a part of	bearing
+pin	is a part of	clip
+spring	is a component of	bedframe
+rod	is a part of	joint
+clip	is a part of	bag clip
+socket	is a component of	hand
+rod	part of	drill
+bolt	is a component of	bridge
+beam	part of	bridge
+wing	is a component of	plane
+leaf node	part of	stem
+axle bearing	is a component of	wheel
+shaft	part of	engine
+frame	part of	bicycle
+pipe joint	is a component of	pipe
+propeller blade	is a component of	propeller
+blade tip	is a part of	wing
+bearing	is a component of	axle
+door handle	part of	door
+leaf stalk	part of	plant
+pedal	part of	foot
+stem tip	part of	plant
+wheel chock	is a component of	airplane
+leaf bud	is a part of	branch
+engine camshaft	is a component of	engine
+door sill	part of	car
+pipe elbow	is a component of	pipe
+leaf edge	part of	leaf
+rudder post	is a component of	ship
+gear tooth	is a component of	gear
+valve stem	is a component of	valve
+leaf sheath	part of	stem
+spoke nut	is a component of	wheel
+door frame	part of	door
+bearing housing	is a component of	axle
+blade	is a component of	airplane
+ignition	is a part of	engine
+generator	is a component of	power plant
+ignition coil	is a part of	car
+turbocharger	is a component of	engine
+manifold	is a part of	engine
+rotor blade	is a component of	windmill
+control panel	is a part of	aircraft
+transmission	is a part of	car
+air filter	is a component of	car
+starter motor	is a part of	car
+fuel pump	is a part of	engine
+clutch	is a part of	transmission
+spark plug	is a part of	engine
+fuel tank	is a part of	car
+brake pad	is a part of	wheel
+air intake	is a part of	engine
+crankcase	is a part of	engine
+muffler	is a component of	car
+oil pan	is a part of	engine
+drive shaft	is a component of	transmission
+hydraulic system	is a part of	excavator
+cylinder sleeve	is a part of	engine
+engine block	is a part of	engine
+timing belt	is a part of	engine
+timing chain	is a part of	engine
+carburetor	is a part of	engine
+ignition module	is a part of	engine
+turbocharger turbine	is a part of	engine
+water pump	is a part of	engine
+crankcase ventilation	is a part of	engine
+intake manifold	is a part of	engine
+exhaust system	is a part of	car
+clutch pedal	is a part of	transmission
+battery terminal	is a part of	battery
+distributor cap	is a part of	engine
+intake valve	is a part of	engine
+fin	is a component of	aircraft
+gear box	is a component of	machine
+shaft	is a part of	bicycle
+gear box	is a component of	gear
+pulley	is a component of	rope
+lug	is a component of	aircraft tire
+turbine	is a component of	generator
+axis	is a component of	axis
+axis	is a part of	circle
+clip	is a component of	clip board
+chapter	is part of	book
+nerve	is part of	body
+socket	is a component of	electric drill
+spring	is a component of	toy
+joint	is a component of	knee
+socket	is a part of	joint
+pipe	is a part of	network
+stud	is a component of	wall
+pedal	is a part of	pedalboard
+valve	is a part of	heart
+stud	is a component of	anchor
+joint	is a part of	finger
+stud	is a part of	rivet
+beam	is a part of	arch
+cog	is a part of	gearwheel
+nut	is a part of	anchor
+stud	is a component of	clip
+rod	is a part of	tube
+stud	is a part of	studbook
+stud	is a component of	hinge
+pipe	is a part of	waterpipe
+button	is a part of	necklace
+lever	is a part of	plier
+rod	is a part of	steel rod
+stud	is a component of	pin
+nut	is a part of	engine
+gear	is a component of	engine gear
+rod	is a part of	reamer
+stud	is a component of	anchor bolt
+wheel	is a part of	exercise wheel
+nut	is a component of	engine
+cable	is a component of	communication system
+lug	is a part of	anchor
+pin	is a component of	socket
+shaft	is a component of	windmill
+lug	is a part of	ship
+pin	is a component of	piano
+nut	is a component of	gear
+valve	is a component of	compressor
+lid	is a component of	bucket
+lug	is a part of	dock
+key	is a component of	organ
+valve	is a component of	heater
+lug	is a part of	boat
+stud	is a part of	framework
+blade	is a part of	scythe
+lug	is a part of	mooring
+stem	is a part of	tulip
+lug	is a part of	pier
+runner	is a part of	engine
+carburetor	part of	engine
+exhaust pipe	part of	car
+tailpipe	part of	vehicle
+frame	is a part of	airplane
+door	part of	car
+hood	part of	car
+bumper	part of	car
+trunk	part of	car
+trunk lid	part of	car
+headlight	part of	car
+foglight	part of	car
+taillight	part of	car
+license plate	part of	car
+license plate holder	part of	car
+door handle	part of	car
+steering wheel	part of	car
+brake pedal	part of	car
+parking brake	part of	car
+accelerator pedal	part of	car
+speedometer	part of	car
+dashboard	part of	car
+seatbelt	part of	car
+airbag	part of	car
+elevator	part of	airplane
+wingtip	part of	airplane
+fuselage	part of	airplane
+control surfaces	part of	airplane
+instrument panel	part of	airplane
+control yoke	part of	airplane
+navigation system	part of	airplane
+compass	part of	airplane
+altimeter	part of	airplane
+pitot tube	part of	airplane
+exhaust pipe	part of	motorcycle
+muffler	part of	motorcycle
+engine	part of	motorcycle
+fuel tank	part of	motorcycle
+battery	part of	motorcycle
+seat	part of	motorcycle
+handlebars	part of	motorcycle
+pedals	part of	bicycle
+chainring	part of	bicycle
+cogset	part of	bicycle
+pedals	part of	motorcycle
+kickstand	part of	motorcycle
+air filter	part of	car
+water pump	part of	engine
+alternator	part of	engine
+distributor	part of	engine
+thermostat	part of	engine
+cooling system	part of	engine
+timing belt	part of	engine
+idler pulley	part of	engine
+belt tensioner	part of	engine
+timing chain	part of	engine
+engine mount	part of	engine
+water jacket	part of	engine
+spark plug	part of	engine
+wire	part of	cable
+plug	part of	socket
+wire	part of	circuit
+stud	part of	engine
+rod end	part of	joint
+joint	part of	machine
+pin	part of	rod
+block	part of	engine
+cylinder liner	part of	engine
+bearing	part of	wheel
+handle	part of	guitar
+limb	part of	body
+spine	part of	backbone
+claw	part of	bird
+armrest	part of	chair
+fin	part of	swordfish
+wing	part of	plane
+rod	part of	microphone
+spine	part of	neck
+tongue	part of	frog
+lid	part of	refrigerator
+fin	part of	tuna
+arm	part of	human
+bone	part of	jaw
+tongue	part of	snake
+headrest	part of	car
+wing	part of	seagull
+stem	part of	succulent
+armrest	part of	couch
+stem	part of	sunflower
+fin	part of	porpoise
+tongue	part of	lizard
+spine	part of	torso
+wing	part of	butterfly
+rod	part of	mic
+fin	part of	haddock
+arm	part of	sleeve
+tongue	part of	fish
+fin	part of	sailfish
+bone	part of	hand
+fin	part of	manta
+rodent	is a part of	mouse
+clip	is a component of	hair
+joint	is a component of	bone
+vertebra	is a component of	spine
+pupil	is a part of	eye
+iris	is a part of	eye
+kidney	is a part of	human
+liver	is a part of	human
+bone	is a part of	human
+muscle	is a part of	human
+brain	is a part of	human
+muscle	is a component of	tissue
+chromosome	is a component of	cell
+gene	is a component of	chromosome
+molecule	is a component of	compound
+grain	is a part of	rice
+flower	is a part of	plant
+fruit	is a part of	plant
+spine	is a part of	animal
+hoof	is a part of	horse
+head	is a part of	human
+tongue	is a part of	human
+arm	is a part of	human
+hand	is a part of	human
+muscle	is a component of	leg
+vertebra	is a component of	back
+bone	is a part of	back
+disk	is a part of	hard drive
+track	is a part of	record
+grooves	is a part of	record
+song	is a part of	album
+sentence	is a part of	paragraph
+paragraph	is a part of	book
+note	is a part of	song
+fin	is a part of	sword
+handle	is a part of	drawer
+wheel	is a component of	helicopter
+fin	is a part of	shark fin
+stud	is a part of	bolt
+hub	is a part of	wheelbarrow
+pedal	is a part of	exerciser
+fin	is a part of	fish tail
+lid	is a component of	microwave
+screw	is a part of	screwdriver set
+handle	is a part of	garden tool
+gear	is a component of	gearbox system
+hub	is a part of	roller coaster
+stud	is a part of	bolt head
+button	is a component of	camera
+panel	is a part of	wall
+lid	is a component of	lunchbox
+wheel	is a component of	train car
+gear	is a component of	engine system
+socket	is a component of	outlet
+spring	is a component of	pen
+cog	is a part of	gearbox
+handle	is a part of	steering wheel
+cable	is a part of	wire
+bearing	is a part of	machine
+clip	is a part of	headband
+handle	is a part of	rudder
+clip	is a part of	computer
+cog	is a part of	clock
+motor	is a component of	bicycle
+screw	is a part of	wood screwdriver
+propeller	is a component of	ship
+cylinder	is a component of	printing press
+stud	is a part of	engine block
+motor	is a component of	electric vehicle
+gear	is a component of	mechanical system
+wheel	is a part of	gear
+wing	is a part of	bat
+turbine	is a component of	steam engine
+cog	is a part of	mechanical system
+piston	is a component of	refrigerator
+axle	is a component of	engine
+bolt	is a component of	aircraft
+lug	is a component of	golf ball
+axle	is a component of	skateboard
+button	is a component of	shirt cuff
+strut	is a component of	airplane
+pedal	is a component of	synthesizer
+lug	is a component of	bowling ball
+lug	is a component of	baseball
+handle	is a component of	suitcase
+handle	is a component of	gate
+lug	is a component of	dartboard
+stem	is a part of	cactus
+pedal	is a component of	skateboard
+panel	is a component of	tv
+rod	is a component of	camera
+axle	is a component of	motorbike
+handle	is a component of	kettle
+button	is a component of	toy
+stem	is a part of	pepper
+blade	is part of	fan
+handle	is a component of	briefcase
+fin	is a component of	eagle
+clip	is a component of	paperweight
+fin	is a component of	swordfish
+handle	is a component of	duffel bag
+blade	is part of	scythe
+wheel	is a component of	boat
+clip	is a component of	bookmark
+wheel	is a component of	bike
+blade	is part of	razor
+lens	is part of	eye
+tire	is a component of	wheel
+engine	is a component of	aircraft
+scale	is a part of	fish
+handle	is a component of	gear
+grip	is a part of	steering wheel
+component	is a part of	system
+cylinder	is a component of	bicycle engine
+cylinder	is a component of	steam engine
+wheel	is a component of	differential
+ring	is a component of	engine
+component	is a part of	assembly
+component	is a part of	device
+wheel	is a component of	gear box
+petiole	is a part of	leaf
+oar	is a part of	boat
+winglet	is a part of	airplane
+motor	is a component of	robot
+rotor blade	is a part of	helicopter
+propeller shaft	is a part of	aircraft
+rod	is a part of	pipe
+wheel rim	is a part of	wheel
+fin	is a part of	swordfish
+piston pin	is a part of	engine
+tailfin	is a part of	fish
+engine head	is a part of	engine
+propeller tip	is a part of	propeller
+wingtip	is a part of	airplane
+blade tip	is a part of	blade
+engine crankshaft	is a part of	engine
+wheel axle	is a part of	wheel
+leafstalk	is a part of	plant
+screwdriver tip	is a part of	screwdriver
+cylinder liner	is a part of	engine
+handle grip	is a part of	handle
+gear wheel	is a part of	gear
+engine camshaft	is a part of	engine
+gear shaft	is a part of	gear
+engine crankcase	is a part of	engine
+wheel center	is a part of	wheel
+wheel nut	is a part of	wheel
+blade angle	is a part of	blade
+propeller hub	is a part of	propeller
+engine manifold	is a part of	engine
+pedal	is a component of	motorbike
+armrest	is a component of	chair
+handle	is a component of	gearshift
+frame	is a component of	sculpture
+button	is a component of	calculator
+strut	is a component of	truss
+handle	is a component of	steering wheel
+button	is a component of	microphone
+handle	is a component of	door handle
+pedal	is a component of	powerboat
+socket	is a part of	hand
+pipe	is a part of	pipe system
+pulley	is a part of	belt
+gearwheel	is a part of	clock
+tube	is a part of	tube light
+screw	is a part of	wood screw
+piston	is a part of	hydraulic cylinder
+gear	is a part of	geartrain
+thread	is a part of	twine
+thread	is a part of	cord
+socket	is a component of	hand tool
+speaker	is a component of	home theater
+button	is a component of	clothes
+diaphragm	is a component of	speaker
+screw	is a component of	deck chair
+handgrip	is a component of	oar
+blade	is a part of	skateboard
+blade	is a part of	snowboard
+grip	is a component of	tennis racket
+lug	is a component of	airplane wheel
+key	is a component of	keycap
+spring	is a component of	door
+lug	is a component of	car wheel
+hub	is a component of	car wheel
+pedal	is a component of	drum
+leg	is a part of	dog
+hub	is a component of	gear
+clip	is a part of	briefcase
+rod	is a component of	robot
+finger	is a part of	paw
+part	is a component of	assembly
+seat	is a part of	wheelchair
+clip	is a part of	folder
+button	is a part of	purse
+button	is a part of	tie
+gear	is a component of	fan
+handle	is a part of	backpack
+pedal	is a part of	synthesizer
+wheel	is a component of	carriage
+fin	is a part of	fishhook
+part	is a component of	module
+pedal	is a part of	harpsichord
+part	is a component of	kit
+hub	is a component of	roller
+seat	is a part of	plane
+gear	is a component of	locomotive
+leaf	part of	vegetable
+sail	part of	yacht
+oar	is a part of	canoe
+anchor	is a component of	ship
+blade	part of	mixer
+propeller	is a component of	submarine
+blade	part of	generator
+rod	is a part of	gear
+lever	is a component of	bulldozer
+propeller	is a component of	glider
+blade	part of	chopper
+blade	part of	mower
+rudder	is a component of	cruise ship
+paddle	part of	paddle boat
+propeller	is a component of	hydrofoil
+lever	is a component of	crane
+paddle	part of	surfboard
+blade	part of	shredder
+paddle	part of	outrigger
+fin	part of	angelfish
+rotor	is a component of	mill
+propeller	is a component of	hydroplane
+fin	part of	manta ray
+paddle	part of	rowing boat
+lever	is a component of	forklift
+wheel	is a component of	trailer
+lug	is a part of	screw
+socket	part of	door
+screw	is a part of	tap
+seal	is a component of	pipe
+axle	is a component of	locomotive
+rivet	is a part of	sailboat
+pin	is a part of	clock
+screw	is a part of	socket wrench
+seal	is a component of	joint
+rivet	is a part of	bridge crane
+blade	is a part of	mixer
+pin	is a part of	door lock
+bolt	is a part of	hook
+rivet	is a part of	aircraft carrier
+piston	is a component of	cylinder
+bolt	is a part of	door hinge
+lug	is a part of	trailer
+rivet	is a part of	boat
+wheel	is a component of	treadmill
+gear	is a component of	gearshift knob
+screw	is a part of	handle
+seal	is a component of	valve
+bolt	is a part of	door handle
+pin	is a part of	spring
+gear	is a component of	transaxle
+rivet	is a part of	pipefitting
+wheel	is a component of	bicycle wheel
+screw	is a part of	tap handle
+piston	is a component of	engine cylinder
+bolt	is a part of	stud
+rivet	is a part of	anchor
+gear	is a component of	transmission gear
+pedal	is a part of	chair
+stud	is a part of	socket
+button	is a part of	key
+stud	is a part of	anchor
+screw	is a part of	vise
+beam	is a part of	roof
+handle	is a part of	mop
+stud	is a part of	electrode
+panel	is a part of	server
+screw	is a part of	press
+panel	is a part of	monitor
+fin	is a part of	boat
+rod	is a part of	rodstock
+wheel	is a component of	chair
+panel	is a part of	airplane
+frame	is a part of	photograph
+clip	is a part of	binder
+panel	is a part of	ship
+handle	is a part of	lever
+rod	is a part of	handlebar
+rod	is a part of	cane
+clip	is a part of	ruler
+page	is a part of	catalog
+rod	is a part of	bar
+hammer	is a component of	tool
+seal	is a component of	door
+gear train	is a component of	transmission
+clip	is a component of	connector
+axle box	is a component of	wheel
+gearbox	is a component of	transmission
+rudder pedal	is a component of	boat
+sealant	is a component of	roof
+rivet head	is a component of	ship
+bolt head	is a component of	machine
+gear wheel	is a component of	clock
+screw head	is a component of	screwdriver
+clip	is a component of	electrical wire
+leaf	is a part of	foliage
+seal	is a part of	window
+screw thread	is a component of	screwdriver
+screw	is a component of	toolbox
+sealant	is a part of	door
+gear train	is a component of	engine
+rod end	is a component of	engine
+strut	is a part of	aircraft
+bolt head	is a part of	machine
+gear	is a part of	bike
+pedal	is a part of	tricycle
+gear	is a part of	car transmission
+lever	is a component of	elevator
+piston	is a component of	cylinder head
+pipe	is a component of	gas pipe
+gear	is a part of	vehicle
+spring	is a component of	exercise equipment
+spring	is a part of	furniture
+gear	is a part of	car
+handle	is a part of	handrail
+gear	is a part of	robot
+spring	is a part of	chair
+lug	is a part of	car tire
+gear	is a part of	motorcycle
+piston	is a component of	motor
+wheel	is a component of	spacecraft
+wire	is a component of	network
+axis	is a component of	machine
+lug	is a part of	tractor
+rivet	is a part of	submarine
+cable	is a component of	phone
+stud	is a part of	gear
+cable	is a component of	tv
+stud	is a part of	wheel
+rivet	is a part of	plane
+lug	is a part of	car
+lug	is a part of	bicycle
+lug	is a part of	train
+gear	is a component of	tractor
+claw	is a part of	eagle
+runner	is a part of	track
+hand	is a part of	human body
+eye	is a part of	human body
+hair	is a part of	human body
+tongue	is a part of	human body
+nose	is a part of	human body
+throat	is a part of	human body
+mouth	is a part of	human body
+toe	is a part of	human body
+sole	is a part of	shoe
+strap	is a component of	sandal
+sleeve	is a part of	jacket
+collar	is a part of	shirt
+stud	is a part of	collar
+reed	is a part of	pipe
+joint	is a component of	pipe
+stop	is a part of	pipe
+slide	is a part of	trombone
+reed	is a part of	clarinet
+drumhead	is a part of	drum
+stick	is a part of	drum
+snare	is a part of	drum
+hammer	is a part of	piano
+keycap	is a part of	piano
+silo	is a component of	grain elevator
+grain	is contained in	silo
+straw	is contained in	grain
+seed	is contained in	straw
+cell	is a part of	organism
+cell	is a part of	body
+organ	is a part of	organism
+kidney	is a part of	human body
+heart	is a part of	human body
+liver	is a part of	human body
+lung	is a part of	human body
+brain	is a part of	human body
+muscle	is a part of	human body
+blood	is contained in	human body
+nerve	is a part of	human body
+artery	is a part of	human body
+vein	is a part of	human body
+bone	is a part of	human body
+tooth	is a part of	human body
+ligament	is a part of	joint
+tendon	is a part of	tendon
+ligament	is a part of	tendon
+tendon	is a part of	ligament
+bone	is a part of	joint
+motor	is a component of	mixer
+cable	part of	internet
+gear	part of	bicycle
+rod	part of	fishing rod
+motor	is a component of	vacuum
+pipe	part of	pipeline
+rod	part of	shaft
+pin	part of	lock
+turbine	is a component of	hydroelectric plant
+pedal	is a component of	sewing machine
+pin	part of	piano
+blade	part of	aircraft
+motor	is a component of	vacuum cleaner
+turbine	is a component of	wind turbine
+cable	part of	ethernet
+motor	is a component of	air conditioner
+rod	part of	lever
+gear	part of	differential
+cable	part of	communication
+pin	part of	hinge
+motor	is a component of	generator
+stator	is a component of	generator
+pinion	is a component of	clock
+wheel hub	is a component of	car
+bolt	is a component of	airplane
+rotor blade	is a component of	helicopter
+airfoil	is a component of	wing
+mast	is a component of	sailboat
+boom	is a component of	sailboat
+ratchet	is a component of	drill
+exhaust pipe	is a component of	engine
+tail rotor	is a component of	helicopter
+tail	is a component of	airplane
+hull	is a component of	boat
+deck	is a component of	ship
+cabin	is a component of	airplane
+cockpit	is a component of	airplane
+parachute	is a component of	aircraft
+control stick	is a component of	airplane
+throttle	is a component of	airplane
+propeller blade	is a component of	airplane
+jet engine	is a component of	airplane
+compressor	is a component of	power plant
+condenser	is a component of	power plant
+pressure plate	is a component of	car
+clutch disc	is a component of	car
+starter	is a component of	car
+distributor	is a component of	car
+fan belt	is a component of	car
+driveshaft	is a component of	car
+propeller	is a component of	power boat
+steering wheel	is a component of	car
+brake pad	is a component of	car
+brake rotor	is a component of	car
+caliper	is a component of	car
+feather	is a part of	wing
+rivet	is a part of	engine
+lug	is a part of	suitcase
+shaft	is a part of	generator
+magnet	is a part of	compass
+clip	is a component of	clipper
+seal	is a component of	vessel
+pin	is a part of	buttonhole
+bolt	is a part of	fastener
+clip	is a component of	wire clipper
+frame	is a part of	picture frame
+valve	is a component of	valve stem
+seal	is a component of	boat
+lens	is a part of	spectacles
+pin	is a part of	needle
+blade	is a part of	utility knife
+frame	is a part of	mirror
+stud	is a part of	engine head
+wheel	is a component of	train wheel
+lens	is a part of	lens cleaner
+rivet	is a part of	aircraft engine
+nail	is a component of	roof
+brush	is a component of	paintbrush
+claw	is a component of	bird
+seed	is contained in	plant
+cable	is a component of	network
+rod	is a component of	arm
+lever	is a component of	mechanism
+seal	is a component of	container
+seal	is a component of	envelope
+arm	is a component of	robot
+blade	is a component of	razor
+clip	is a component of	cord
+pin	is a component of	buckle
+button	is a component of	jacket
+nut	is a component of	tap
+leaf	is a component of	stem
+clip	is a component of	fastener
+bolt	is a component of	chain
+clip	is a component of	belt
+pin	is a component of	button
+clip	is a component of	cable
+rivet	is a component of	wing
+nut	is a component of	anchor
+pin	is a component of	tie
+leg	is a part of	body
+drum	is a component of	drum set
+gear	is a component of	washing machine
+rod	is a part of	microscope
+rotor	is a component of	helicopter rotor
+gear	is a component of	drill press
+gear	is a component of	wind turbine
+handle	is a part of	lantern
+bolt	is a component of	wrench
+axis	is a part of	engine
+stem	is a part of	flower stem
+wheel	is a part of	carriage
+spine	is a component of	dinosaur
+screw	is a component of	aircraft
+button	is a part of	tv remote
+screw	is a component of	pump
+fin	is a part of	sailfish
+pedal	is a part of	exercycle
+nut	is a part of	walnut
+screw	is a component of	vise
+blade	is a part of	chisel
+spring	is a component of	waterbed
+button	is a part of	computer
+fender	is a part of	car
+strap	is a part of	sandal
+wheel rim	is a component of	bicycle
+stud	is a part of	earring
+lug	is a part of	glove
+cylinder	is a part of	cylinder block
+strut	is a part of	roof
+stud	is a part of	screw
+screw head	is a part of	screw
+button	is a part of	remote
+wheel hub	is a component of	bicycle
+stud	is a part of	bracket
+panel	is a part of	table
+stud	is a part of	stud
+lug	is a part of	sandal
+lug	is a part of	loafer
+strap	is a part of	purse
+rod	is a component of	ship
+wheel	is a component of	plane
+joint	is a component of	human body
+piston	is a component of	automobile engine
+pipe	is a part of	musical instrument
+screw	is a part of	electrical device
+lid	is a part of	drum
+handle	is a part of	pail
+bolt	is a part of	bolt cutter
+wheel	is a component of	lawnmower
+pipe	is a part of	organ bellows
+handle	is a part of	tool set
+cog	is a component of	geartrain
+valve	is a component of	pipe fitting
+key	is a part of	keycap
+bolt	is a part of	screw extractor
+nut	is a part of	machine screw
+screw	is a part of	electric screwdriver
+handle	is part of	spoon
+string	is a component of	violin
+runner	is part of	wheelchair
+button	is part of	shirt
+rod	is part of	bicycle
+socket	is part of	car
+thread	is a component of	yarn
+lever	is part of	machine
+seat	is part of	chair
+engine	is part of	airplane
+panel	is part of	computer
+speaker	is a component of	sound system
+pedal	is part of	organ
+stud	is part of	aircraft
+shaft	is a component of	boat propeller
+rod	is a component of	windscreen wiper
+seat	is a part of	stadium
+lever	is part of	excavator
+stud	is part of	ship
+button	is part of	dress
+stud	is part of	building
+lever	is part of	crane
+button	is part of	controller
+panel	is part of	board
+cable	is a component of	router
+rod	is a component of	fork
+key	is part of	typewriter
+lever	is a part of	mixer
+shaft	is a component of	train
+blade	is a component of	turbine
+seat	is part of	auditorium
+button	is part of	mouse
+panel	is part of	instrument
+wheelbarrow	contains	sand
+eye	is a part of	human face
+gearbox	contains	gears
+rivet	is a part of	construction
+rotor	is a component of	drone
+stem	is a part of	pipe
+piston	is a component of	jet engine
+bearing	is a component of	bicycle
+spine	part of	back
+piston	component of	engine
+key	component of	keyboard
+nail	part of	finger
+roof	part of	house
+engine	component of	car
+handle	part of	spoon
+pin	part of	button
+rod	part of	cylinder
+lug	part of	socket
+socket	part of	engine
+shaft	part of	gear
+spring	component of	mattress
+screw	part of	picture frame
+pin	part of	collar
+cylinder	component of	engine
+hinge	part of	door
+spring	part of	coil
+lid	part of	lunchbox
+rod	part of	antenna
+pin	part of	buttonhole
+handle	part of	shovel
+nail	part of	horseshoe
+clip	part of	paperclip
+rod	part of	rodent
+pin	part of	zipper
+clip	part of	bag
+hub	part of	hubcap
+pin	part of	badge
+rod	part of	handlebar
+clip	part of	bookmark
+gear	part of	engine
+clip	part of	hair clip
+rod	part of	stick
+pin	part of	pinhole
+lid	part of	cabinet
+wheel	part of	tricycle
+nail	part of	nailbrush
+pin	is a component of	bowling set
+hinge	is a component of	gate
+lug	is a component of	boat
+clip	is a component of	hairpiece
+socket	is a component of	socket wrench
+pin	is a component of	roller coaster
+lug	is a component of	truck
+stud	is a component of	screwdriver
+cylinder	is a component of	gun
+plug	is a component of	phone jack
+pin	is a component of	music box
+clip	is a component of	earpiece
+stud	is a component of	rivet
+screw	is a component of	computer mouse
+plug	is a component of	computer
+lug	is a component of	aircraft
+tailpipe	is a component of	car
+radiator	is a component of	car
+throttle body	is a component of	car
+intake valve	is a component of	engine
+engine mount	is a component of	car
+transmission pan	is a component of	transmission
+license plate	is a component of	car
+fog light	is a component of	car
+rearview mirror	is a component of	car
+dashboard	is a component of	car
+speaker	is a component of	car stereo
+amplifier	is a component of	car stereo
+subwoofer	is a component of	car stereo
+gearshift knob	is a component of	gearshift
+clutch pedal	is a part of	car
+engine compartment	is a component of	car
+alternator	is a component of	engine
+speedometer	is a component of	car dashboard
+fuel pump	is a component of	car
+serpentine belt	is a component of	engine
+engine oil	is contained in	engine
+transmission fluid	is contained in	transmission
+brake pad	is a component of	brake
+brake rotor	is a component of	brake
+caliper	is a component of	brake
+shock absorber	is a component of	suspension
+coil spring	is a component of	suspension
+steering column	is a component of	car
+socket	is a part of	light fixture
+pane	is a part of	glass window
+screw	is a component of	roof
+tile	is a part of	floor
+valve	is a component of	water tank
+axle	is a component of	bicycle
+pipe	is a component of	water heater
+glass	is a component of	bottle
+page	is a part of	manual
+screw	is a component of	wooden door
+leg	is a part of	bed
+button	is a part of	keychain
+pipe	is a component of	gas line
+glass	is a component of	aquarium
+frame	is a component of	photograph
+axle	is a component of	ferris wheel
+tile	is a part of	bathroom
+rod	is a component of	coat rack
+pipe	is a component of	furnace
+glass	is a component of	mirror
+arm	is a part of	puppet
+valve	is a component of	valve
+spring	is a part of	coiled object
+roof	is a part of	house
+floor	is a part of	room
+chair	is a component of	dining set
+lense	is a component of	eyeglasses
+keyboard	is a part of	typewriter
+seat	is a component of	sofa
+brake	is a component of	bicycle
+brake	is a part of	vehicle
+roof	is a component of	building
+door	is a component of	building
+handle	is a component of	faucet
+engine	is a component of	helicopter
+handle	is a component of	basket
+engine	is a component of	submarine
+engine	is a component of	powerboat
+engine	is a component of	truck
+engine	is a component of	bus
+bolt	is a component of	car
+lug	is a part of	sailboat
+lug	is a part of	airplane
+wheel spoke	is a part of	wheel
+rudder	is a part of	airplane
+seal	is a component of	window
+seal	is a part of	rubber
+stud	is a part of	airplane
+pedal	is a component of	boat
+gear	is a component of	gear
+motor	is a component of	lawn mower
+pedal	is a part of	pedalboat
+stem	is a part of	seedling
+rod	is a part of	bone
+string	is a part of	kite
+handle	is a part of	duffle bag
+leaf	is a part of	shrub
+lug	is a component of	socket
+clip	is a component of	buckle
+strap	is a component of	seatbelt
+lug	is a component of	hub
+screw	is a component of	wall
+axis	is a component of	steering wheel
+axis	is a component of	bicycle
+clip	is a part of	eyeglasses
+axle shaft	is a component of	transmission
+axle box	is a part of	wheel
+spring seat	is a part of	valve
+lug	is a part of	wheelbarrow
+spring clip	is a component of	hinge
+key switch	is a part of	piano
+lug wrench	is a part of	toolbox
+screw head	is a part of	screwdriver
+spring loaded	is a part of	toy
+axle seal	is a part of	wheel
+gear train	is a component of	clock
+spring steel	is a part of	trampoline
+keyhole	is a part of	door
+screw machine	is a component of	factory
+gear reducer	is a component of	gearbox
+axle bearing	is a part of	wheel
+spring coil	is a component of	mattress
+gear motor	is a component of	machinery
+piston head	is a component of	engine
+screw auger	is a part of	drill
+keychain	is a part of	key
+lug cap	is a part of	wheel
+frame bracket	is a part of	bicycle
+gear box	is a component of	engine
+spring washer	is a part of	valve
+gear gear	is a component of	clock
+keyless	is a part of	lock
+lug stud	is a part of	wheel
+key lock	is a part of	cabinet
+gear set	is a component of	machine
+axle end	is a part of	wheel
+gear cam	is a component of	engine
+stalk	is a part of	flower
+clutch	is a part of	car
+cable	is a component of	rope
+bushing	is a part of	engine
+socket head	is a part of	bolt
+clutch disk	is a part of	clutch
+fender trim	is a part of	car
+caliper	is a part of	car
+seal	is a part of	engine
+seal ring	is a part of	engine
+shift lever	is a part of	car
+shaft coupling	is a part of	engine
+valve stem	is a part of	engine
+tire valve	is a part of	tire
+tire stem	is a part of	tire
+valve guide	is a part of	engine
+drive shaft	is a part of	car
+page	is a component of	magazine
+page	is a component of	newspaper
+door	is a part of	building
+knob	is a part of	lock
+pipe	is a component of	sewer
+gauge	is a component of	watch
+key	is a part of	house
+page	is a component of	album
+album	is a component of	library
+strap	is a part of	bag
+strap	is a part of	wallet
+cover	is a part of	book
+cover	is a part of	magazine
+cover	is a part of	newspaper
+button	is a part of	dress shirt
+switch	is a part of	circuit
+phone	is a component of	network
+hub	is a part of	hubcap
+pin	is a part of	board
+stud	is a part of	bridge
+rim	is a part of	tire
+calyx	is a part of	flower
+bracts	is a part of	flower
+piston	is a part of	automobile
+axle	is a part of	hub
+axle	is a part of	carriage
+rod	is a part of	ski
+piston	is a part of	motorcycle
+lever	is a part of	pliers
+axle	is a part of	steering wheel
+bolt	is a part of	bracket
+valve	is a part of	cylinder head
+valve	is a part of	valve cover
+pin	is a part of	computer keyboard
+frame	is a component of	bed
+socket	is a part of	motherboard
+leaf	is a part of	herb
+plate	is a part of	serving dish
+stem	is a part of	chive
+piston	is a part of	injector
+lug	is a part of	rim
+button	is a part of	clothing
+blade	is a part of	sawmill
+screw	is a component of	lid
+spine	is a part of	book
+wheelbarrow	is a part of	gardening
+socket	is a part of	screw
+rod	is a part of	steering
+socket	is a part of	key
+keyguard	is a part of	keyboard
+wheel stud	is a part of	wheel
+axle	is a part of	car
+socket	is a part of	car
+rivet	is a part of	roof
+bar	is a part of	bicycle frame
+piston	is a part of	airplane engine
+button	is a part of	shirt button
+wheel	is a component of	car seat
+clip	is a part of	clothes clip
+pin	is a part of	guitar
+handle	is a part of	duffel bag
+screw	is a part of	lightbulb
+blade	is a part of	grass mower
+rivet	is a part of	ship hull
+crankshaft	is a part of	engine
+muffler	is a part of	exhaust system
+exhaust manifold	is a part of	engine
+fuel injector	is a part of	engine
+alternator	is a part of	car
+distributor	is a part of	engine
+air filter	is a part of	engine
+differential	is a part of	car
+fan belt	is a part of	engine
+cylinder block	is a part of	engine
+thermostat	is a part of	engine
+condenser	is a part of	air conditioner
+pulley	is a part of	engine
+prop shaft	is a part of	boat
+keel	is a part of	boat
+bow	is a part of	ship
+stern	is a part of	ship
+anchor	is a part of	boat
+propeller shaft	is a part of	boat
+sailboat hull	is a part of	sailboat
+boat hull	is a part of	boat
+tail	is a part of	fish
+beak	is a part of	bird
+dorsal fin	is a part of	shark
+dorsal fin	is a part of	dolphin
+dorsal fin	is a part of	whale
+pectoral fin	is a part of	shark
+flipper	is a part of	penguin
+flippers	is a part of	whale
+oars	is a part of	sailboat
+rowlocks	is a part of	boat
+rowlocks	is a part of	sailboat
+cushion	is a part of	chair
+table leg	is a part of	table
+rib	is a part of	bird
+piston	is part of	diesel engine
+root	part of	plant
+handle	part of	hammer
+branch	part of	bush
+pin	is a component of	engine
+claw	is a part of	crab
+finger	is a part of	human
+piston	is part of	pump
+pin	is a component of	joint
+branch	part of	oak tree
+strut	is a part of	tower
+rod	is a component of	crankshaft
+leaf	is a part of	forest
+valve	is a component of	gas tank
+leaf	is a part of	meadow
+branch	part of	willow
+piston	is part of	air compressor
+leaf	is a part of	garden
+handle	part of	equipment
+finger	is a part of	human hand
+stem	part of	tree
+arm	part of	body
+rod	is a part of	steering column
+lever	is a component of	door
+handle	is a component of	axe
+button	is a component of	game controller
+stem	part of	herb
+button	is a component of	smartphone
+arm	part of	shoulder
+handle	is a component of	lantern
+stem	part of	rose
+pin	is a part of	sewing machine
+wheel	is a component of	hand cart
+screw	is a component of	power drill
+handle	is a component of	gardening tool
+button	is a component of	tv remote
+sail	is a part of	sailboard
+fin	is a part of	surfboard
+wheel	is a component of	electric wheelchair
+leaf	is a component of	spinach
+strut	is a part of	airplane
+stud	is a part of	car
+plate	is a component of	platelet
+valve	is a part of	car
+petal	is a part of	peony
+pipe	is a part of	water pipe
+rod	is a component of	microscope
+plate	is a component of	dishware
+screw	is a component of	socket wrench
+window	is a part of	house
+glove	is a part of	hand
+thread	is a component of	cloth
+mirror	is a part of	cabinet
+board	is a part of	computer
+socket	is a component of	car
+rod	is a part of	fishhook
+antenna	is a part of	satellite
+lid	is a part of	storage
+fin	is a part of	porpoise
+leg	is a part of	animal
+section	is a part of	article
+circuit	is a part of	computer
+section	is a part of	report
+spring	is a part of	watch
+section	is a part of	map
+valve	is a component of	air conditioner
+cell	is a component of	body
+joint	is a component of	finger
+socket	is a component of	motherboard
+rod	is a component of	drill
+button	is a component of	uniform
+piston	is a component of	air conditioner
+clip	is a component of	bookshelf
+pipe	is a component of	heating system
+valve	is a component of	gas stove
+key	is a component of	keyring
+screw	is a component of	bookshelf
+tube	is a component of	boiler
+spine	is a component of	neck
+pin	is a component of	crown
+finger	is a part of	finger nail
+arm	is a part of	shoulder blade
+cog	is a component of	gearwheel
+clip	is a part of	purse
+gear	is a component of	gearwheel
+rudder	is a component of	airplane
+trunk	is a component of	elephant
+frame	is a component of	door
+nail	is a component of	finger
+pin	is a component of	needle
+nail	is a component of	claw
+tooth	is part of	gum
+page	is a part of	atlas
+feather	is a part of	turkey
+nail	is a component of	boot
+page	is a part of	bookshelf
+handle	is part of	knife
+key	is part of	keychain
+wing	is part of	airplane
+blade	is part of	plane
+hammerhead	is part of	axe
+rotor	is part of	aircraft engine
+lug	is part of	wheel
+fin	is part of	airplane
+rod	is a component of	screw
+leaflet	is part of	leaf
+panel	is part of	door
+stud	is a component of	bolt
+propeller	is part of	airplane
+socket	is a component of	light
+leaf	is part of	stem
+pipe	is a component of	heating
+handle	is part of	tool
+stud	is a component of	screw
+axis	is a component of	hub
+rotor	is part of	helicopter
+key	is part of	keyring
+lever	is a component of	handle
+shaft	is a component of	boat
+cylinder	is a part of	printer
+blade	is a part of	wind chime
+hub	is a part of	gear
+tire	is a component of	tractor
+axle	is a component of	hand cart
+tire	is a component of	forklift
+rotor	is a component of	dynamo
+leaf	is a part of	bush
+propeller	is a part of	helicopter
+engine	is a component of	engine block
+axle	is a component of	exercise bike
+wheel	is a component of	handcycle
+gear	is a component of	camera
+propeller	is a part of	speedboat
+engine	is a component of	car engine
+propeller	is a part of	glider
+gear	is a component of	d printer
+hammer	is a tool of	carpenter
+socket	is a part of	computer
+frame	is a part of	painting
+rod	is a part of	lamp
+lever	is a part of	bridge
+cylinder	is a part of	car
+rod	is a part of	crane
+screw	is a part of	guitar
+pipe	is a part of	kitchen
+handle	is a part of	pliers
+axis	is a part of	turbine
+rod	is a part of	armchair
+valve	is a part of	heating
+axis	is a part of	motor
+frame	is a part of	photo
+screw	is a part of	airplane
+pipe	is a part of	airconditioner
+handle	is a part of	chair
+valve	is a part of	pump
+piston	is a part of	diesel
+gear	is a part of	locomotive
+hub	is a part of	bike
+pipe	is a part of	heating
+car door	is a component of	car
+gear train	is a component of	machine
+engine head	is a component of	engine
+brake disc	is a component of	car
+caliper	is a component of	machine
+fan blade	is a component of	fan
+engine cylinder	is a component of	engine
+head	is a part of	bed
+post	is a part of	fence
+pinion	is a component of	machine
+transmission case	is a component of	transmission
+leaflet	part of	leaf
+screen	is a component of	door
+leaf node	part of	branch
+leaf vein	part of	leaf
+cable	is a component of	microphone
+finlet	is a part of	fin
+arm	is a component of	machine
+cable wire	is a component of	cable
+shaft collar	is a component of	shaft
+gear pinion	is a component of	gearbox
+spring steel	is a part of	spring
+lug washer	is a component of	lug
+engine crankshaft	is a component of	engine
+fin tip	is a part of	fin
+rotor blade	is a component of	rotor
+frame tube	is a component of	frame
+sail sail	is a component of	sailboat
+rotor shaft	is a component of	rotor
+seat belt	is a component of	car
+wheel spoke	is a component of	wheel
+gear lever	is a component of	gearbox
+leaf margin	part of	leaf
+fin root	is a part of	fin
+leaf petiole	part of	leaf
+frame fork	is a component of	frame
+seat cushion	is a component of	chair
+engine manifold	is a component of	engine
+rod thread	is a part of	rod
+spring coil	is a part of	spring
+rotor hub	is a component of	rotor
+gear shaft	is a component of	gearbox
+fin section	is a part of	fin
+shaft keyway	is a part of	shaft
+wheel	is a part of	airplane
+pipe	is a part of	water heater
+fan	is a component of	computer
+processor	is a part of	computer
+keyboard	is a part of	computer
+mouse	is a part of	computer
+lens cap	is a part of	camera
+display	is a part of	tv
+dial	is a part of	phone
+cord	is a part of	headphones
+calculator	is a part of	bag
+pipe	is a part of	house
+brick	is a part of	house
+girder	is a part of	bridge
+plank	is a part of	floor
+step	is a part of	staircase
+rail	is a part of	staircase
+step	is a part of	ladder
+rung	is a part of	ladder
+peg	is a part of	ladder
+shelf	is a part of	bookcase
+bookcase	is a part of	library
+book	is a part of	library
+line	is a part of	paragraph
+paragraph	is a part of	chapter
+word	is a part of	paragraph
+word	is a part of	chapter
+cell	is a part of	sheet
+sheet	is a part of	notebook
+notebook	is a part of	binder
+verse	is a part of	poem
+verse	is a part of	stanza
+line	is a part of	verse
+note	is a part of	music
+staff	is a part of	sheet music
+note	is a part of	staff
+clef	is a part of	staff
+key	is a part of	music
+album	is a part of	collection
+collection	is a part of	library
+leg	is part of	table
+lid	is part of	box
+rod	is part of	guitar
+tube	is part of	pipe
+page	is part of	newspaper
+pin	is a part of	phone
+blade	is part of	saw
+screw	is a component of	piano
+lid	is part of	jar
+arm	is part of	robot
+handle	is part of	shovel
+stud	is a part of	nail
+leaf	is part of	vine
+lid	is part of	can
+pin	is a part of	medal
+page	is part of	magazine
+rod	is part of	microphone
+axle	is a part of	boat
+stem	is part of	broccoli
+arm	is part of	armrest
+claw	is a part of	cat
+socket	is a part of	plug
+cylinder	is a part of	cylinder lock
+pin	is a part of	leg
+screw	is a part of	jar
+gear	is a part of	machine tool
+socket	is a part of	jack
+pin	is a part of	hair
+plate	is a part of	plateaus
+hub	is a part of	bicycle wheel
+button	is a part of	microphone
+cylinder	is a part of	drum
+pin	is a part of	hat
+spring	is a part of	clockwork
+bolt	is a part of	nutcracker
+nail	is a part of	toenail
+axis	is a part of	turntable
+cell	is a part of	embryo
+wheel	a component of	car
+cog	part of	clock
+tendon	part of	muscle
+ligament	part of	joint
+vein	part of	circulatory system
+nerve	part of	brain
+rib	part of	cage
+vertebra	part of	spine
+cell	part of	body
+atom	part of	molecule
+electron	part of	atom
+proton	part of	atom
+neutron	part of	atom
+nucleus	part of	atom
+filament	part of	bulb
+wick	part of	candle
+strand	part of	rope
+fiber	part of	fabric
+ray	part of	sun
+wave	part of	ocean
+beam	part of	light
+stroke	part of	painting
+line	part of	graph
+segment	part of	curve
+piece	part of	puzzle
+plank	part of	board
+chapter	part of	book
+verse	part of	poem
+stanza	part of	poem
+note	part of	song
+bar	part of	fence
+column	part of	building
+strut	part of	construction
+bolt	part of	machine
+pulley	part of	machine
+board	part of	desk
+shelf	part of	cabinet
+tray	part of	box
+layer	part of	cake
+slice	part of	pizza
+pebble	part of	beach
+grain	part of	sand
+molecule	part of	gas
+gas	part of	atmosphere
+drop	part of	rain
+wave	part of	sea
+current	part of	river
+cell	part of	tissue
+tissue	part of	organ
+organ	part of	body
+limb	part of	creature
+scale	part of	fish
+claw	part of	crab
+twig	part of	bush
+thorn	part of	rose
+blade	part of	grass
+seed	part of	fruit
+peel	part of	fruit
+core	part of	apple
+rind	part of	citrus
+stamen	part of	flower
+pistil	part of	flower
+muscle	part of	limb
+disc	part of	spine
+blade	is a part of	airplane propeller
+rotor	is a component of	airplane engine
+lid	is a part of	coffee maker
+handle	is a part of	golf club
+blade	is a part of	boat propeller
+valve	is a part of	water heater
+valve	is a part of	valve engine
+article	is a part of	newspaper
+circuit	is a part of	electrical system
+stabilizer	is a component of	boat
+distributor	is a component of	engine
+catalytic converter	is a component of	car
+turbocharger	is a component of	car
+turbo	is a component of	engine
+exhaust manifold	is a component of	car
+oil pan	is a component of	car
+oil reservoir	is a component of	car
+water pump	is a component of	car
+radiator hose	is a component of	car
+condenser	is a component of	air conditioner
+evaporator	is a component of	air conditioner
+coil	is a component of	electric motor
+stator	is a component of	electric motor
+brush	is a component of	electric motor
+commutator	is a component of	electric motor
+capacitor	is a component of	circuit
+circuit board	is a component of	computer
+ram	is a component of	computer
+speaker	is a component of	computer
+charging port	is a component of	phone
+display	is a component of	phone
+earpiece	is a component of	phone
+socket	is a component of	circuit
+breaker	is a component of	electrical system
+rotor	is a part of	windmill
+lever	is a part of	pulley
+bolt	is a part of	socket
+lug	is a part of	lugnut
+seat	is a part of	chairlift
+lock	is a component of	door
+stem	part of	root
+claw	is a part of	animal
+foot	part of	leg
+handle	is a component of	handlebar
+arm	part of	hand
+pedal	is a component of	bicycle pedal
+stem	part of	stem cell
+wing	is a part of	wingtip
+lid	is a part of	refrigerator
+arm	part of	elbow
+screw	is a component of	anchor screw
+arm	part of	torso
+screw	is a part of	bicycle
+bushing	is a part of	machine
+cable	is a component of	satellite
+axle	is a component of	roller
+plate	is a part of	mirror
+blade	is a part of	paper shredder
+rod	is a part of	ladder
+lever	is a part of	forklift
+screw	is a part of	jack
+lid	is a part of	fridge
+bolt	is a part of	gate
+rivet	is a component of	construction
+bracket	is a part of	building
+socket	is a component of	wall
+bolt	is a part of	bridge
+platelet	is a part of	blood
+rivets	are a component of	construction
+cog	is a component of	clockwork
+bracket	is a part of	framework
+spoke	is a part of	bicycle wheel
+tube	is a part of	piping
+socket	is a component of	electrical
+sleeve	is a part of	coat
+clip	is a component of	paperclip chain
+handle	is a part of	door latch
+button	is a part of	shirt cuff
+rod	is a component of	construction
+lug	is a part of	screw anchor
+plate	is a part of	dinner plate
+valve	is a component of	water system
+button	is a part of	shirt pocket
+platelet	is a part of	platelet system
+tube	is a part of	medical tubing
+branch	is a part of	bush
+handle	is a component of	sink
+key	is a component of	typewriter
+button	is a part of	pants
+handle	is a component of	bag
+gear	is a component of	mixer
+button	is a part of	sleeve
+spring	is a component of	toaster
+page	is part of	notebook
+leaf	is a part of	oak
+gear	is a component of	winch
+key	is a component of	harpsichord
+petal	is a part of	sunflower
+branch	is a part of	cactus
+pulley	is a part of	crane
+cable	is a part of	submarine
+chimney	is a part of	house
+motor	is a component of	scooter
+shaft	is a part of	rotor
+wingtip	is a part of	wing
+finial	is a part of	flag
+spool	is a part of	thread
+socket	is a part of	power drill
+cogwheel	is a part of	clock
+wheelbarrow	is a part of	garden
+axlebox	is a part of	wheel
+paddlewheel	is a part of	ship
+springboard	is a part of	trampoline
+lugnut	is a part of	wheel
+wheelbase	is a part of	car
+spindle	is a part of	lathe
+pulley wheel	is a part of	crane
+pin	is a part of	socket
+engine block	is a part of	car
+rudder post	is a part of	ship
+engine mount	is a part of	car
+blade guard	is a part of	windmill
+bearing bushing	is a part of	engine
+crankpin	is a part of	engine
+air intake	is a part of	car
+back	is a part of	chair
+cushion	is a part of	couch
+mattress	is a part of	bed
+headrest	is a part of	car
+fuel line	is a component of	engine
+catalytic converter	is a component of	engine
+glove compartment	is a part of	car
+rearview mirror	is a part of	car
+wiper blade	is a part of	car
+antenna	is a part of	car
+side mirror	is a part of	car
+spoiler	is a part of	car
+accelerator pedal	is a part of	car
+brake pedal	is a part of	car
+sunroof	is a part of	car
+fog light	is a part of	car
+turn signal	is a part of	car
+headlight	is a part of	car
+taillight	is a part of	car
+license plate	is a part of	car
+rearview camera	is a part of	car
+navigation system	is a part of	car
+string	is part of	guitar
+fin	is a component of	boat
+bolt	is a component of	fastener
+stem	is part of	stem
+page	is part of	journal
+rod	is a component of	steering
+fin	is a component of	plane
+pin	is a component of	coat
+leaf	is part of	branch
+screw	is a component of	desk
+screw	is a component of	handle
+button	is a component of	dress
+pin	is a component of	game
+screen	part of	window
+sail	part of	sailboat
+sail	is a component of	yacht
+bone	is a component of	skeleton
+tendon	is a component of	muscle
+drum	part of	orchestra
+reed	part of	clarinet
+lever	part of	machine
+wheel	part of	clock
+wheel	part of	gear
+limb	part of	tree
+seed	is contained in	nut
+seed	is contained in	acorn
+nut	is a component of	tree
+seat	part of	chair
+blade	part of	scissor
+wheel	part of	hub
+wheel	part of	axle
+button	part of	jacket
+fin	part of	tail
+wing	part of	eagle
+fin	part of	mackerel
+fin	part of	halibut
+fin	part of	salmon
+cup	is a part of	cupping machine
+screw	is a part of	light fixture
+piston	is a component of	motorcycle
+ring	is a part of	tree
+axis	is a component of	cylinder
+pipe	is a part of	sewer
+valve	is a component of	heating system
+shaft	is a component of	bearing
+stem	is a part of	garlic
+panel	is a component of	display
+gear	is a component of	automaton
+ring	is a part of	chain
+valve	is a component of	control valve
+speaker	is a part of	radio
+frame	is a component of	bike
+axis	is a component of	axisymmetric shape
+cylinder	is a component of	furnace
+wheel	is a component of	mill
+rod	is a part of	metal rod
+rod	is a part of	musical instrument
+rod	is a part of	golf club
+pipe	is a part of	gas pipe
+rod	is a part of	knitting needle
+rod	is a part of	roller coaster
+brain	is part of	skull
+heart	is part of	human body
+blade	is part of	windmill
+foot	is part of	shoe
+leaf	is a component of	branch
+fin	is part of	shark
+spine	is part of	back
+roof	is part of	building
+hammer	is a component of	toolkit
+handle	is part of	mug
+gear	is part of	clock
+lid	is part of	bucket
+engine	is part of	locomotive
+seat	is part of	bench
+handle	is part of	bag
+door	is a component of	gate
+seat	is part of	couch
+antenna	is a component of	satellite
+piston	is part of	hydraulic pump
+fin	is part of	whale
+engine	is part of	motorcycle
+door	is a component of	doorframe
+handle	is part of	basket
+engine	is part of	ship
+handle	is part of	bucket
+seat	is part of	stadium
+engine	is part of	tractor
+handle	is part of	container
+blade	is part of	mower
+engine	is part of	excavator
+seat	is part of	throne
+lid	is part of	pot
+door	is a component of	window
+handle	is part of	lantern
+fin	is part of	seal
+engine	is part of	generator
+lid	is part of	pan
+seat	is part of	theater
+rod	part of	skeleton
+leaf	part of	grass
+button	part of	coat
+screen	part of	laptop
+shaft	part of	turbine
+brake shoe	is a component of	train
+sail	part of	ship
+sail	part of	pirate ship
+button	part of	dress
+lug	part of	cylinder
+fin	part of	ray
+screw	part of	bolt
+screw	part of	nut
+screw	part of	gear
+stud	part of	machine
+stud	part of	gear
+nut	part of	gear
+rib	is a part of	skeleton
+wheelbarrow	is a component of	garden
+cylinder	is a component of	generator
+pipe	is a part of	gas pipeline
+pipe	is a part of	water main
+plate	is a part of	tableware
+pin	is a part of	coat
+sail	is part of	boat
+strut	is a part of	car
+bushing	is a component of	machine
+belt	is a component of	conveyor belt
+sprocket	is a component of	chain
+bearing	is a part of	engine
+fork	is a component of	bicycle
+chain	is a part of	bike chain
+seed	is contained in	pumpkin
+piston	is a part of	locomotive
+leaf	is a part of	sprig
+cog	is a part of	machine
+string	is a component of	lyre
+piston	is a part of	steam engine
+screw	is a component of	wrench
+leaf	is a part of	sprout
+screw	is a component of	jar lid
+button	is a part of	trousers
+screw	is a component of	drill press
+button	is a part of	sweater
+cog	is a part of	mechanism
+screw	is a component of	power tool
+gear	is a component of	engine block
+gear	is a component of	robotic arm
+handle	is a part of	pump
+screw	is a component of	hand tool
+button	is a part of	scarf
+cog	is a part of	clock mechanism
+gear	is a component of	pump
+key	component of	lock
+bolt	part of	ship
+pageant	part of	performance
+foot	part of	bed
+cylinder	part of	car tire
+socket	part of	plug
+rod	part of	rodentic
+spring	part of	watch
+piston	part of	engine block
+wheel	part of	airplane
+rivet	part of	ship
+lid	part of	trunk
+plate	part of	serving dish
+clip	part of	binder
+cable	part of	bridge
+beam	part of	frame
+rod	part of	telescope
+pin	part of	cufflink
+panel	part of	control board
+plate	part of	platter
+rod	part of	steel rod
+button	part of	laptop
+rod	part of	handle
+screw	part of	drill bit
+pin	part of	needle
+panel	part of	cabinet
+screw	part of	machine
+pin	part of	stud
+spring	part of	clock
+beam	part of	beam bridge
+handle	part of	satchel
+clip	part of	magazine
+pin	part of	earring
+screw	part of	saw
+plate	part of	plate press
+rivet	part of	ship propeller
+rod	part of	engine
+pin	part of	pinball
+rivet	part of	anchor
+rod	part of	steering column
+lid	part of	storage container
+plug	is a component of	appliance
+tube	is a component of	tube light
+lug	is a component of	anchor
+rod	is a component of	skateboard
+spring	is a component of	coiled spring
+tube	is a component of	radiator
+lug	is a component of	wheelbarrow
+handle	is a component of	cane
+blade	is a part of	hedge clipper
+straw	is a component of	drink
+rod	is a component of	rod
+button	is a component of	telephone
+pin	is a part of	joint
+socket	is a part of	skull
+socket	is a component of	connector
+axis	is a component of	generator
+rod	is a part of	shaft
+axis	is a component of	engine
+core	is a part of	tomato
+bucket	is a component of	excavator
+track	is a component of	locomotive
+chain	is a component of	engine
+leaf spring	is a component of	vehicle
+brake caliper	is a component of	car
+compressor	is a component of	air conditioner
+radiator	is a component of	engine
+fuse box	is a component of	car
+horn	is a component of	car
+windshield	is a part of	car
+visor	is a part of	car
+fuel gauge	is a component of	car
+speedometer	is a component of	car
+odometer	is a component of	car
+parking brake	is a component of	car
+tire valve	is a component of	tire
+fuel cap	is a component of	car
+windshield washer	is a component of	car
+brake light	is a component of	car
+horn button	is a part of	car
+gear lever	is a part of	car
+cushion	is a component of	seat
+shelf	is a component of	cabinet
+pageant	is a part of	parade
+panel	is a component of	control
+rod	is a component of	joint
+stud	is a component of	door
+pin	is a component of	gear
+spine	is a part of	backbone
+pulley	is a component of	engine
+strap	is a part of	backpack
+gearwheel	is a component of	bicycle
+lever	is a part of	machinery
+screwdriver	is a tool used with	screw
+pulley	is a component of	roller coaster
+engine	is a component of	machine
+axis	is a part of	roller
+wire	is a part of	cable
+piston	is a part of	combustion engine
+thread	is a part of	fiber
+leaf	is a part of	oak tree
+board	is a part of	skateboard deck
+pipe	is a component of	gas pipeline
+board	is a part of	desk
+spring	is a part of	metal spring
+pipe	is a component of	water pipeline
+bolt	is a part of	bolt head
+string	is a part of	lyre
+leaf	is a part of	palm tree
+wheel	is a part of	tricycle
+pedal	is operated by	bicycle
+pedal	is operated by	sewing machine
+gauge	is a component of	car
+plate	is a component of	car
+clip	is a part of	bookmark
+rod	is a part of	compass
+page	is a part of	dictionary
+valve	is a component of	furnace
+plate	is a component of	tray
+wheel	is a part of	stroller
+plug	is a component of	adapter
+plate	is a component of	plate holder
+lid	is a part of	storage container
+cylinder	is a component of	car
+handle	is a part of	window
+lever	is a part of	gear
+bolt	is a part of	ship
+spring	is a part of	engine
+plate	is a component of	dinnerware
+pin	is a part of	watch
+clip	is a part of	keyboard
+link	is a part of	necklace
+screw	is a part of	nutcracker
+link	is a part of	lock
+bolt	is a part of	clamp
+leaflet	part of	newspaper
+spine	part of	human
+rib	part of	ribcage
+pedal	is a part of	unicycle
+spine	part of	cat
+lever	is a component of	machinery
+handle	is a component of	mug
+blade	part of	plane
+thread	is part of	sweater
+socket	contains	screw
+wheelbarrow	contains	tire
+cylinder	is a part of	drill
+clip	is a part of	book
+axis	is a part of	rotating machine
+propeller	is a component of	sailboat
+plate	is a part of	bicycle
+cylinder	is a part of	firearm
+pin	is a component of	axle
+axis	is a part of	fan
+axis	is a part of	gyro
+rod	is a component of	robot arm
+winglet	part of	airplane
+pulley	is a component of	crane
+hammer	is a tool for	nail
+clip	is a component of	cable reel
+cable	is a component of	harness
+clip	is a component of	cable tie
+clip	is a component of	zip tie
+engine mount	is a component of	engine
+cable	is a component of	antenna
+lever	is a component of	pump
+bar	is a part of	flag
+rod	is a component of	wheel
+clip	is a component of	bag
+lug wrench	is a component of	toolset
+strut tower	is a component of	aircraft
+leaf spring	is a component of	car
+lug bolt	is a component of	car
+tie rod	is a component of	car
+finial	is a component of	roof
+strut rod	is a component of	suspension
+clip on	is a component of	glasses
+bolt head	is a component of	bolt
+tie bar	is a component of	car
+bolt cap	is a component of	bolt
+stud bolt	is a component of	engine
+pin shaft	is a component of	gear
+stud rod	is a component of	machine
+leaflet	is a component of	book
+gear shaft	is a component of	engine
+bolt collar	is a component of	bolt
+strut cap	is a component of	suspension
+lug washer	is a component of	car
+pinion gear	is a component of	transmission
+gear reducer	is a component of	motor
+stud stud	is a component of	bridge
+leaflet page	is a component of	book
+leaf stalk	is a component of	plant
+gear motor	is a component of	machine
+lug stud	is a component of	car
+leafy greens	is a part of	salad
+gear housing	is a component of	engine
+strut support	is a component of	aircraft
+rod	is a part of	ship
+seat	is a part of	aircraft
+arm	is a part of	chair
+handle	is part of	screwdriver
+foot	is a part of	footbridge
+plate	is a part of	plate stack
+pulley	is a component of	cable
+handle	is part of	handlebar
+arm	is a part of	robotic arm
+axis	is a component of	motor
+handle	is part of	hammer
+rotor	is a part of	engine
+socket	is a part of	electric drill
+speaker	is a component of	speakerphone
+rod	is a part of	window
+page	is a part of	comic book
+lid	is a part of	trash can
+pipe	is a part of	heating system
+gear	is a part of	millstone
+pedal	is a component of	loom
+stem	is a part of	asparagus
+gear	is a part of	turbine
+antenna	is a part of	insect
+hub nut	is a component of	wheel
+ovary	is a part of	fruit
+pericarp	is a part of	fruit
+exocarp	is a part of	fruit
+mesocarp	is a part of	fruit
+endocarp	is a part of	fruit
+inflorescence	is a part of	plant
+sepals	is a part of	flower
+petals	is a part of	flower
+stigmas	is a part of	flower
+anthers	is a part of	flower
+pistils	is a part of	flower
+ovules	is a part of	flower
+ovule	is a part of	seed
+stigma	is a part of	flower
+anther	is a part of	stamen
+style	is a part of	flower
+ovary	is a part of	plant
+peduncle	is a part of	flower
+pedicel	is a part of	flower
+pedicel	is a part of	inflorescence
+peduncle	is a part of	inflorescence
+seedling	is a part of	plant
+sprout	is a part of	plant
+blade	is a part of	leaf
+shaft	is a part of	tool
+shaft	is a part of	instrument
+tip	is a part of	arrow
+fletching	is a part of	arrow
+barbed	is a part of	arrow
+vane	is a part of	aircraft
+rotor	is a part of	aircraft
+fan	is a part of	aircraft
+winglet	is a part of	wing
+rib	is a part of	wing
+spar	is a part of	wing
+flap	is a part of	aircraft
+aileron	is a part of	aircraft
+elevator	is a part of	aircraft
+rudder	is a part of	aircraft
+valve	is a part of	radiator
+lug	is a component of	hammer
+wheelbarrow tire	is a component of	wheelbarrow
+clip	is a component of	glasses
+lug	is a component of	wrench
+plate	is a component of	dinner set
+lug	is a component of	socket wrench
+clip	is a component of	badge
+plate	is a component of	serving dish
+lug	is a component of	wheelbarrow tire
+plate	is a component of	tableware
+pin	is a part of	fastener
+lug	is a component of	bicycle tire
+plate	is a component of	plate set
+pin	is a part of	map
+arm	is a part of	skeleton
+lever	is a component of	gearshift
+gear	is a component of	gearmotor
+lug	is a part of	fender
+plate	is a part of	dish rack
+screw	is a component of	screw thread
+lever	is a component of	jack
+page	is a part of	yearbook
+arm	part of	chair
+anther	part of	stamen
+rootstock	part of	plant
+root	part of	potato
+stalk	part of	mushroom
+peduncle	part of	fruit
+calyx	part of	flower
+sepal	part of	flower
+petal	part of	calyx
+filament	part of	stamen
+style	part of	pistil
+stigma	part of	pistil
+ovary	part of	flower
+winglet	part of	wing
+runner	part of	cucumber
+spine	part of	fish
+finlet	part of	fin
+flagellum	part of	cell
+stalk	part of	ear of corn
+pericarp	part of	fruit
+placenta	part of	uterus
+embryo	part of	placenta
+umbilicus	part of	placenta
+amnion	part of	placenta
+cord	part of	umbilicus
+placenta	part of	fetus
+shell	part of	egg
+yolk	part of	egg
+chorion	part of	egg
+vitellus	part of	yolk
+amnion	part of	fetus
+cotyledon	part of	seed
+mesentery	part of	gut
+gallbladder	part of	liver
+bronchi	part of	lungs
+bronchiole	part of	bronchi
+capillary	part of	artery
+kidney	part of	urinary system
+glomerulus	part of	kidney
+nephron	part of	kidney
+stoma	part of	cell
+mitochondrion	part of	cell
+ribosome	part of	mitochondrion
+nucleus	part of	cell
+chromosome	part of	nucleus
+gene	part of	chromosome
+cisterna	part of	body cavity
+sac	part of	bag
+capsule	part of	shell
+muscle fiber	part of	muscle
+myofibril	part of	muscle fiber
+fibril	part of	myofibril
+sarcomere	part of	muscle
+tendon	part of	ligament
+blade	part of	razor
+shaft	is a component of	centrifuge
+gear	is a component of	lathe
+lug	is a component of	trailer
+valve	is a component of	stove
+cog	is a component of	printer
+screw	is a component of	vacuum cleaner
+shaft	is a component of	treadmill
+lid	part of	microwave
+handle	part of	basket
+rod	is a component of	lathe
+handle	part of	mop
+blade	part of	cleaver
+shaft	is a component of	fan
+wing	part of	insect
+gear	is a component of	motorcycle
+tube	is a part of	tv
+rod	is a part of	umbrella
+cog	is a part of	gear box
+button	is a part of	elevator
+string	is a part of	bow
+cog	is a part of	gear train
+arm	is a part of	doll
+valve	is a part of	furnace
+panel	is a part of	tv cabinet
+rivet	is a component of	bridge
+leaflet	is a part of	booklet
+lug wrench	is a component of	toolbox
+gear housing	is a component of	gear
+pedalboard	is a component of	piano
+pedalboard spring	is a component of	piano
+control rod	is a component of	machine
+chainstay	is a component of	bicycle
+rear derailleur	is a component of	bicycle
+clutch	is a component of	machine
+fuel injector	is a component of	car
+throttle	is a component of	engine
+exhaust system	is a component of	car
+cam cover	is a component of	engine
+talon	is a part of	eagle
+cheek	is a part of	face
+joint	is a part of	body
+artery	is a part of	circulatory system
+vein	is a part of	circulatory system
+diaphragm	is a part of	lungs
+lobe	is a part of	lung
+chamber	is a part of	heart
+organ	is a part of	body
+synapse	is a part of	nerve
+cortex	is a part of	brain
+cerebellum	is a part of	brain
+hippocampus	is a part of	brain
+ganglion	is a part of	nervous system
+axon	is a part of	neuron
+dendrite	is a part of	neuron
+filament	is a part of	hair
+yarn	is a part of	textile
+thread	is a part of	sewing
+needle	is a part of	sewing
+stitch	is a part of	sewing
+mechanism	is a part of	clock
+rack	is a part of	gear
+wheel	is a part of	mill
+tooth	is a part of	saw
+ratchet	is a part of	machine
+mechanism	is a part of	lock
+finger	is a component of	glove
+bricklayer	is a part of	construction crew
+clip	is a component of	container
+leaf	part of	stem
+bolt	is a part of	machinery
+bolt	is a part of	construction
+stem cell	is a component of	blood
+caliper	is a part of	dental
+rotor	is a component of	aircraft
+bolt head	is a part of	lock
+pistons	is a component of	engine
+socket set	is a part of	toolbox
+socket drive	is a part of	drill
+rotor blade	is a component of	aircraft
+caliper slide	is a part of	dental
+stem tip	is a part of	plant
+rivet nut	is a component of	aircraft
+handle grip	is a part of	tool
+gear teeth	is a component of	gear
+piston valve	is a component of	engine
+stem axis	is a part of	plant
+blade tip	is a part of	knife
+gear shaft	is a component of	transmission
+cylinder sleeve	is a component of	engine
+button fastener	is a part of	shirt
+pin lock	is a component of	lock
+caliper jaw	is a part of	dental
+gear hub	is a component of	transmission
+handlebar stem	is a part of	bicycle
+blade edge	is a part of	knife
+screw thread	is a component of	screw
+caliper dial	is a part of	dental
+blade spine	is a part of	knife
+gear ratio	is a component of	transmission
+caliper scale	is a part of	dental
+pin joint	is a component of	joint
+gear lever	is a component of	bicycle
+stem cells	is a component of	blood
+blade guard	is a part of	knife
+piston	is a component of	fuel pump
+clip	is a part of	bagel
+stem	is a part of	herb
+screw	is a component of	screwjack
+nut	is a component of	lock
+pod	is a part of	pea plant
+cone	is a part of	pine
+nut	is contained in	tree
+rind	is a part of	orange
+stitch	is a part of	embroidery
+synapse	is a part of	neuron
+cornea	is a part of	eye
+toe	is a part of	body
+leg	is a part of	human
+wrist	is a part of	arm
+ankle	is a part of	leg
+diaphragm	is a part of	human
+stomach	is a part of	human
+duodenum	is a part of	small intestine
+appendix	is a part of	human
+stomach lining	is a part of	stomach
+kidney stone	is a part of	kidney
+scalp	is a part of	head
+tonsil	is a part of	human
+finger nail	is a part of	finger
+screw	is a part of	machinery
+reed	is a part of	harmonica
+rod	is a component of	pulley
+clip	is a part of	chain
+reel	is a part of	fishing rod
+peg	is a part of	guitar
+peg	is a part of	doll
+gear	is a component of	robot arm
+button	is a part of	waistcoat
+link	is a part of	chain fence
+gear	is a component of	windmill
+nut	is a part of	lug nut
+brake	is a component of	car
+bumper	is a component of	car
+pedal crank	is a component of	bicycle
+sprocket	is a component of	bicycle
+shock absorber	is a component of	car
+backrest	is a component of	chair
+cushion	is a component of	chair
+table	is a component of	desk
+shelf	is a component of	bookcase
+bookcase	is a component of	room
+room	is a component of	house
+attic	is a component of	house
+wall	is a component of	house
+floor	is a component of	house
+foundation	is a component of	house
+pillar	is a component of	column
+base	is a component of	column
+trunk	is a component of	tree
+branch	is a component of	tree
+petal	is a component of	flower
+pistil	is a component of	flower
+stamen	is a component of	flower
+skin	is a component of	fruit
+pith	is a component of	plant stem
+cortex	is a component of	tree trunk
+bark	is a component of	tree
+skin	is a component of	animal
+blood	is a component of	human body
+bone	is a component of	human body
+muscle	is a component of	human body
+tendon	is a component of	animal
+beak	is a component of	bird
+hand	is a component of	human body
+brain	is a component of	human body
+heart	is a component of	human body
+kidney	is a component of	human body
+liver	is a component of	human body
+pancreas	is a component of	human body
+spleen	is a component of	human body
+lung	is a component of	human

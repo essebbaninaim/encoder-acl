@@ -1,0 +1,5015 @@
+water	has	wetness
+sun	has	brightness
+ice	has	coldness
+fire	has	heat
+sugar	has	sweetness
+gold	has	value
+diamond	has	brilliance
+honey	has	sweetness
+gasoline	has	flammability
+snow	has	whiteness
+silk	has	softness
+copper	has	conductivity
+butter	has	richness
+charcoal	has	carbon content
+perfume	has	fragrance
+diamonds	has	hardness
+honey	has	stickiness
+silver	has	reflectivity
+sugar	has	solubility
+ice	has	clarity
+marble	has	translucency
+mercury	has	fluidity
+wood	has	texture
+bronze	has	strength
+coffee	has	bitterness
+gold	has	malleability
+silver	has	ductility
+honey	has	viscosity
+sulfur	has	reactivity
+glass	has	transparency
+steel	has	strength
+iron	has	durability
+silk	has	sheen
+sugar	has	fermentability
+lead	has	heaviness
+diamonds	has	rarity
+copper	has	malleability
+perfume	has	potency
+ice	has	rigidity
+wood	has	buoyancy
+gold	has	corrosion resistance
+bronze	has	durability
+iron	has	magnetic properties
+sugar	has	crystallinity
+carbon	has	versatility
+mercury	has	toxicity
+diamonds	has	scratch resistance
+charcoal	has	absorptivity
+copper	has	heat conductivity
+silk	has	elasticity
+sulfur	has	odor
+gold	has	rarity
+steel	has	corrosion resistance
+sugar	has	digestibility
+perfume	has	evaporation rate
+silver	has	conductivity
+ice	has	melting point
+marble	has	smoothness
+wood	has	sustainability
+copper	has	corrosion resistance
+diamonds	has	brilliance
+honey	has	acidity
+gold	has	durability
+sugar	has	dissolubility
+wood	has	weight
+silver	has	electrical conductivity
+perfume	has	shelf life
+iron	has	ferromagnetism
+mercury	has	biotoxicity
+copper	has	thermal expansion
+sugar	has	shelf life
+diamonds	has	chemical inertness
+ice	has	low density
+steel	has	high tensile strength
+gold	has	ductility
+sulfur	has	flammability
+perfume	has	fragrance intensity
+ice	has	viscosity
+marble	has	polishability
+wood	has	decay rate
+diamonds	has	transparency
+steel	has	elasticity
+perfume	has	colorfastness
+iron	has	oxidation resistance
+copper	has	high thermal conductivity
+sugar	has	melting point
+bronze	has	soundness
+mercury	has	specific gravity
+gelatin	has	gelation rate
+gold	has	chemical inertness
+silver	has	tarnish resistance
+sugar	has	dissolvability
+perfume	has	stability
+ice	has	low melting point
+iron	has	strength
+diamond	has	hardness
+marble	has	elegance
+wool	has	warmth
+graphite	has	lubricity
+steel	has	durability
+cotton	has	breathability
+woolen	has	absorbency
+quartz	has	brittleness
+rubber	has	elasticity
+carbon	has	lightness
+steel	has	magnetism
+titanium	has	strength
+granite	has	heaviness
+woolen	has	density
+sand	has	coarseness
+wool	has	fluffiness
+iron	has	sharpness
+silk	has	smoothness
+rubber	has	flexibility
+graphite	has	abrasiveness
+steel	has	toughness
+diamond	has	rarity
+gold	has	brilliance
+carbon	has	conductivity
+quartz	has	clarity
+marble	has	beauty
+lead	has	density
+graphite	has	slipperyness
+glass	has	fragility
+gold	has	luster
+silver	has	whiteness
+wool	has	thickness
+iron	has	tensile strength
+quartz	has	hardness
+wool	has	softness
+silver	has	lightness
+silk	has	elegance
+carbon	has	softness
+woolen	has	strength
+lead	has	toxicity
+wool	has	absorbency
+marble	has	durability
+wool	has	breathability
+quartz	has	beauty
+carbon	has	brittleness
+steel	has	tensile strength
+gold	has	preciousness
+marble	has	grandeur
+steel	has	hardness
+woolen	has	warmth
+wool	has	coarseness
+silk	has	fineness
+mercury	has	viscosity
+graphite	has	conductivity
+woolen	has	smoothness
+quartz	has	transparency
+woolen	has	elegance
+rose	has	fragrance
+book	has	text
+piano	has	melody
+dog	has	loyalty
+knife	has	sharpness
+river	has	flow
+cloud	has	softness
+computer	has	processing power
+perfume	has	scent
+pencil	has	graphite
+flower	has	color
+stone	has	weight
+soap	has	cleanliness
+car	has	speed
+paint	has	color
+metal	has	malleability
+sand	has	texture
+hammer	has	force
+mirror	has	reflection
+key	has	keyness
+chair	has	comfort
+cloud	has	whiteness
+computer mouse	has	precision
+magnet	has	magnetism
+pencil sharpener	has	efficiency
+compass	has	navigation
+snowflake	has	uniqueness
+soap bubble	has	buoyancy
+calculator	has	accuracy
+eraser	has	erasability
+bicycle	has	speed
+perfume atomizer	has	spray
+paintbrush	has	flexibility
+paperclip	has	hold
+soap dispenser	has	convenience
+compass needle	has	magnetism
+magnetron	has	high frequency
+vacuum cleaner	has	suction
+calculator battery	has	power
+coffee filter	has	fineness
+mirror polishing	has	brightness
+paint can	has	content
+pencil case	has	organization
+keyless entry	has	convenience
+metal detector	has	sensitivity
+water bottle	has	refreshing
+coffee maker	has	brewing
+calculator keyboard	has	tactile feedback
+mirror coating	has	reflection
+paint drying	has	hardness
+sandpaper	has	abrasiveness
+coffee grinder	has	flavor
+glass cutter	has	precision
+soap scum	has	stickiness
+computer keyboard	has	ergonomics
+pen refill	has	convenience
+pencil sharpener	has	ease
+perfume fragrance	has	pleasantness
+water purification	has	cleanliness
+magnet attraction	has	force
+paint mixing	has	color theory
+coffee machine	has	coffee quality
+vacuum cleaner belt	has	durability
+calculator display	has	clarity
+soap foam	has	lightness
+glass plate	has	flatness
+paper airplane	has	aerodynamics
+keychain	has	attachment
+coffee frother	has	froth
+magnet strength	has	intensity
+soap dispenser pump	has	pressure
+calculator memory	has	storage
+eraser dust	has	mess
+paint smudge	has	visibility
+magnet polarity	has	orientation
+coffee creamer	has	flavor
+soap lather	has	sudsy
+glass breaker	has	force
+water heater	has	temperature control
+calculator display screen	has	size
+key duplication	has	accuracy
+perfume packaging	has	design
+paper cut	has	shape
+coffee roast	has	bitterness
+glass shatter	has	noise
+magnet declination	has	variation
+vacuum cleaner filter	has	efficiency
+soap scum buildup	has	difficulty
+calculator input	has	data entry
+pencil shavings	has	waste
+coffee beans	has	origin
+paintbrush stroke	has	texture
+glass breakage	has	loudness
+key duplication key	has	uniqueness
+perfume aroma	has	pleasantness
+paper shredder	has	security
+coffee grinder blades	has	sharpness
+magnet resistance	has	limit
+vacuum cleaner hose	has	flexibility
+calculator program	has	functionality
+glass etching	has	depth
+coffee brew	has	flavor
+soap lathering	has	smoothness
+acid	has	corrosiveness
+base	has	alkalinity
+oxygen	has	toxicity
+nitrogen	has	neutrality
+cotton	has	softness
+wood	has	grain
+leather	has	durability
+clay	has	moldability
+soil	has	fertility
+granite	has	density
+copper	has	resistance to corrosion
+iron	has	susceptibility to rust
+aluminum	has	lightness
+paper	has	fragility
+silk	has	luxury
+metal	has	conductivity
+granite	has	resistance to weathering
+leather	has	breathability
+metal	has	strength
+glass	has	shatterability
+aluminum	has	recyclability
+copper	has	resistance to oxidation
+steel	has	rigidity
+wool	has	insulation properties
+rubber	has	resistance to abrasion
+marble	has	chemical resistance
+wood	has	acoustic properties
+paper	has	recyclability
+steel	has	ductility
+quartz	has	optical clarity
+leather	has	water resistance
+glass	has	clarity
+wood	has	grain pattern
+gold	has	high value
+iron	has	rust resistance
+paper	has	flammability
+wood	has	growth rate
+leather	has	resistance to scratches
+cotton	has	absorbency
+wood	has	grain texture
+copper	has	thermal conductivity
+steel	has	high strength
+paper	has	lightness
+wood	has	resistance to decay
+quartz	has	durability
+copper	has	resistance to acid
+rubber	has	tensile strength
+silver	has	high value
+marble	has	aesthetic appeal
+iron	has	weight
+wood	has	durability
+paper	has	acidity
+copper	has	resistance
+stone	has	hardness
+cat	has	agility
+mountain	has	steepness
+book	has	thickness
+lake	has	calmness
+forest	has	greenness
+house	has	spaciousness
+cloud	has	lightness
+tree	has	longevity
+cloud	has	variability
+piano	has	musicalness
+river	has	swiftness
+mountain	has	grandeur
+sea	has	vastness
+rock	has	durability
+wood	has	elasticity
+forest	has	diversity
+ocean	has	depth
+ice	has	hardness
+earth	has	fertility
+river	has	serenity
+rock	has	ruggedness
+house	has	comfort
+cloud	has	majesty
+iron	has	conductivity
+flower	has	beauty
+wood	has	warmth
+book	has	knowledge
+tree	has	shade
+wave	has	ferocity
+river	has	danger
+stone	has	stability
+lake	has	tranquility
+fire	has	destructiveness
+sand	has	dryness
+sun	has	warmth
+mountain	has	solitude
+cat	has	playfulness
+forest	has	wildlife
+stone	has	resistance
+river	has	navigability
+piano	has	melodiousness
+ice	has	smoothness
+water	has	fluidity
+book	has	entertainment
+tree	has	resistance
+cloud	has	darkness
+wave	has	unpredictability
+forest	has	ecosystem
+iron	has	magnetism
+cat	has	loyalty
+mountain	has	ruggedness
+stone	has	resilience
+sea	has	majesty
+book	has	imagination
+lake	has	clarity
+house	has	security
+tree	has	adaptability
+cat	has	independence
+river	has	life
+piano	has	complexity
+mountain	has	beauty
+cloud	has	speed
+iron	has	versatility
+wood	has	strength
+forest	has	harmony
+house	has	coziness
+lake	has	peacefulness
+music	has	soulfulness
+river	has	force
+snow	has	beauty
+stone	has	solidity
+wood	has	fragility
+tree	has	deciduousness
+river	has	tranquility
+iron	has	hardness
+book	has	history
+cat	has	affection
+soap	has	cleansing
+coffee	has	flavor
+tea	has	bitterness
+wool	has	insulation
+paper	has	texture
+pencil	has	scratchiness
+oil	has	lubrication
+gunpowder	has	explosiveness
+sulfur	has	irritancy
+iron	has	rustiness
+wood	has	porosity
+ruby	has	hardness
+marble	has	veining
+brass	has	corrosion
+oil	has	viscosity
+metal	has	magnetism
+magnet	has	attraction
+carbon	has	purity
+zinc	has	resistance
+paper	has	airiness
+fabric	has	texture
+steel	has	flexibility
+metal	has	sharpness
+rubber	has	resilience
+wood	has	knots
+plastic	has	malleability
+copper	has	corrosion
+water	has	buoyancy
+silver	has	purity
+granite	has	resistance
+gold	has	pliability
+copper	has	durability
+aluminum	has	conductivity
+glass	has	temperature
+paper	has	flexibility
+steel	has	corrosion
+rubber	has	resistance
+water	has	pressure
+copper	has	ductility
+aluminum	has	strength
+gold	has	conductivity
+gold	has	warmth
+carbon	has	resistance
+copper	has	temperature
+iron	has	ductility
+stone	has	texture
+gold	has	corrosion
+stone	has	heaviness
+water	has	density
+iron	has	corrosion
+earth	has	gravity
+volcano	has	explosiveness
+snow	has	flakiness
+key	has	unlockability
+door	has	functionality
+wind	has	turbulence
+flower	has	fragrance
+mirror	has	reflectivity
+piano	has	sound
+hammer	has	heaviness
+lake	has	serenity
+ship	has	buoyancy
+pencil	has	erasability
+paint	has	viscosity
+river	has	width
+car	has	maintenance
+library	has	quietness
+key	has	accessibility
+knife	has	precision
+piano	has	beauty
+ship	has	cargo
+mountain	has	altitude
+volcano	has	eruption
+door	has	security
+cloud	has	moisture
+paint	has	durability
+ship	has	route
+chair	has	durability
+mountain	has	accessibility
+library	has	cataloging
+volcano	has	danger
+river	has	navigation
+knife	has	cutting
+piano	has	practice
+hammer	has	strength
+lake	has	depth
+key	has	unlocking
+pencil	has	sharpness
+book	has	publishing
+mountain	has	scenicness
+lake	has	shore
+volcano	has	geysers
+hammer	has	tool
+ship	has	speed
+car	has	safety
+paint	has	coloration
+lake	has	water
+key	has	duplication
+glass	has	resistance
+car	has	mileage
+book	has	writer
+mountain	has	geology
+lake	has	ecosystem
+chair	has	ergonomic
+piano	has	accompaniment
+volcano	has	impact
+hammer	has	accuracy
+ship	has	navigation
+mountain	has	terrain
+lake	has	aquatic
+pencil	has	lead
+book	has	edition
+river	has	fishing
+car	has	acceleration
+volcano	has	ash
+hammer	has	impact
+lake	has	shores
+piano	has	harmony
+river	has	waves
+mountain	has	rockiness
+book	has	publication
+sand	has	graininess
+snow	has	fluffiness
+rock	has	solidity
+paper	has	softness
+leather	has	flexibility
+salt	has	dissolubility
+fabric	has	elasticity
+oil	has	slickness
+wool	has	itchiness
+sand	has	grittiness
+steel	has	weldability
+fabric	has	breathability
+rock	has	compactness
+soap	has	foaming
+perfume	has	longevity
+metal	has	reflectivity
+rock	has	impermeability
+sugar	has	crystallization
+soap	has	antibacterial
+steel	has	conductivity
+salt	has	buoyancy
+paper	has	foldability
+perfume	has	intoxication
+rock	has	hardness
+sugar	has	acidity
+iron	has	toughness
+fabric	has	insulation
+soap	has	exfoliation
+sugar	has	fermentation
+rock	has	compressibility
+metal	has	flexibility
+wool	has	compressibility
+steel	has	malleability
+soap	has	latherability
+perfume	has	fragility
+iron	has	reactivity
+steel	has	recyclability
+fabric	has	drapeability
+sugar	has	hygroscopy
+perfume	has	toxicity
+sugar	has	viscosity
+steel	has	machinability
+soap	has	surfactancy
+fabric	has	colorfastness
+soap	has	antiseptic
+ocean	has	vastness
+sunflower	has	beauty
+waterfall	has	force
+guitar	has	sound
+bubble	has	airiness
+clock	has	accuracy
+kite	has	flight
+ocean	has	salinity
+computer	has	speed
+river	has	continuity
+ice cream	has	coldness
+forest	has	lushness
+apple	has	juiciness
+fire	has	ferocity
+coffee	has	aroma
+butterfly	has	color
+guitar	has	resonance
+piano	has	dynamics
+stone	has	durability
+dog	has	playfulness
+tree	has	strength
+honey	has	medicinal properties
+cloud	has	coverage
+piano	has	emotion
+bubble	has	fragility
+guitar	has	expressiveness
+dog	has	trainability
+cloud	has	opacity
+coffee	has	energy
+mountain	has	vastness
+piano	has	timbre
+tree	has	flexibility
+river	has	course
+snow	has	lightness
+guitar	has	intimacy
+mountain	has	majesty
+lake	has	stillness
+dog	has	affection
+perfume	has	seductiveness
+butterfly	has	beauty
+snowflake	has	delicate
+tree	has	resilience
+river	has	meandering
+coffee	has	complexity
+piano	has	resonance
+guitar	has	volume
+perfume	has	alluringness
+coffee	has	intensity
+cat	has	cunning
+guitar	has	passion
+stone	has	gravity
+honey	has	taste
+piano	has	precision
+mountain	has	challenge
+butterfly	has	wingspan
+cat	has	stealth
+piano	has	tone
+dog	has	companionship
+cloud	has	movement
+stone	has	density
+mountain	has	height
+fog	has	obscurity
+mercury	has	density
+graphite	has	smoothness
+ice	has	brittleness
+silver	has	shininess
+steel	has	sharpness
+quartz	has	cleavage
+fog	has	mistiness
+wood	has	absorbency
+stone	has	ruggedness
+wool	has	insulating properties
+bronze	has	malleability
+gold	has	density
+ice	has	slippery surface
+fog	has	visibility
+iron	has	elasticity
+quartz	has	brilliance
+bronze	has	color
+silk	has	durability
+fog	has	humidity
+gold	has	attractiveness
+mercury	has	reactivity
+water	has	salinity
+wood	has	grain structure
+quartz	has	optical properties
+silver	has	high thermal conductivity
+copper	has	electrical conductivity
+glass	has	shattering point
+water	has	surface tension
+gold	has	color
+mercury	has	freezing point
+water	has	viscosity
+bronze	has	hardness
+copper	has	high temperature resistance
+quartz	has	thermal conductivity
+mercury	has	boiling point
+water	has	color
+soil	has	nutrient value
+salt	has	flavor
+silver	has	shine
+coal	has	carbon content
+clay	has	plasticity
+concrete	has	density
+foam	has	lightness
+soil	has	nutrient content
+coal	has	energy density
+wood	has	water resistance
+sugar	has	crystalline structure
+concrete	has	compressive strength
+ice	has	slippery texture
+stone	has	compressive strength
+wood	has	thermal conductivity
+salt	has	corrosiveness
+foam	has	buoyancy
+earth	has	magnetism
+metal	has	electricity conductivity
+stone	has	chemical resistance
+water	has	liquidity
+cotton	has	elasticity
+glass	has	optical clarity
+steel	has	thermal expansion
+concrete	has	shrinkage
+ice	has	transparency
+coal	has	energy value
+gold	has	rarity value
+silver	has	chemical properties
+steel	has	magnetic properties
+paper	has	transparency
+concrete	has	workability
+foam	has	insulation properties
+ice	has	slipperiness
+sugar	has	solubility in water
+metal	has	electrical conductivity
+earth	has	thermal conductivity
+gold	has	resistance to corrosion
+steel	has	resistance to high temperature
+paper	has	printability
+clay	has	plasticity in water
+cotton	has	absorbency of water
+metal	has	ductility at high temperature
+sugar	has	sweetness level
+leather	has	resistance to water
+concrete	has	resistance to compression
+ice	has	thermal conductivity
+wood	has	moisture content
+paper	has	opacity
+foam	has	insulating properties
+stone	has	chemical inertness
+gold	has	thermal conductivity
+sugar	has	caloric content
+water	has	surface area
+stone	has	strength
+clay	has	water permeability
+wood	has	hardness
+feather	has	lightness
+wind	has	power
+rain	has	coolness
+thunder	has	loudness
+light	has	visibility
+darkness	has	obscurity
+fog	has	murkiness
+cloud	has	density
+lightning	has	rapidity
+moon	has	phases
+day	has	brightness
+storm	has	intensity
+wave	has	movement
+ripple	has	smallness
+splash	has	suddenness
+sound	has	loudness
+echo	has	resonance
+silence	has	quietness
+noise	has	annoyance
+soundproof	has	insulation
+silence	has	stillness
+calmness	has	peacefulness
+chaos	has	disorder
+pattern	has	repetition
+beauty	has	attractiveness
+symmetry	has	balance
+ugliness	has	repulsiveness
+shape	has	distinctiveness
+color	has	vibrancy
+texture	has	tactileness
+flavor	has	deliciousness
+scent	has	pleasantness
+spice	has	pungency
+flavorless	has	dullness
+fragrance	has	intensity
+fragrance	has	captivation
+fragrance	has	allurement
+fragrance	has	allure
+fruit	has	ripeness
+freshness	has	crispness
+brick	has	durability
+building	has	structure
+leaf	has	greenness
+leaf	has	decay
+root	has	nourishment
+branch	has	flexibility
+branch	has	strength
+branch	has	bearing
+seed	has	germination
+seed	has	growth
+seed	has	reproduction
+garden	has	beauty
+garden	has	serenity
+garden	has	peace
+garden	has	tranquility
+garden	has	joy
+garden	has	growth
+garden	has	health
+garden	has	healing
+garden	has	nourishment
+garden	has	refreshment
+house	has	shelter
+house	has	safety
+house	has	warmth
+tree	has	shelter
+tree	has	comfort
+tree	has	tranquility
+forest	has	wildness
+river	has	mystery
+river	has	movement
+river	has	power
+river	has	beauty
+river	has	coolness
+mountain	has	danger
+mountain	has	adventure
+ocean	has	mystery
+ocean	has	movement
+ocean	has	power
+ocean	has	life
+ocean	has	serenity
+ocean	has	calmness
+quartz	has	rigidity
+oil	has	lubricity
+helium	has	buoyancy
+aluminum	has	lightweight
+sulfur	has	pungency
+coal	has	combustibility
+oil	has	flammability
+carbon	has	flexibility
+iron	has	malleability
+mercury	has	volatility
+copper	has	recyclability
+sulfur	has	acidity
+iron	has	recyclability
+wood	has	combustibility
+oil	has	solvency
+sulfur	has	toxicity
+rubber	has	traction
+sulfur	has	volatility
+coal	has	energy content
+water	has	cohesion
+velvet	has	softness
+piano	has	sonority
+drum	has	resonance
+trumpet	has	loudness
+guitar	has	melodiousness
+violin	has	expressiveness
+cello	has	depth
+piano	has	versatility
+opera	has	drama
+symphony	has	grandeur
+ballet	has	beauty
+sculpture	has	artistry
+painting	has	colorfulness
+dance	has	rhythm
+novel	has	storyline
+poem	has	imagery
+song	has	melody
+dance	has	fluidity
+blood	has	coagulability
+blood	has	viscosity
+shampoo	has	cleanliness
+toothpaste	has	hygiene
+lipstick	has	color
+paint	has	colorfulness
+dye	has	color
+lipstick	has	durability
+nail polish	has	gloss
+nail polish	has	adhesion
+makeup	has	appeal
+hair	has	growth
+skin	has	sensitivity
+teeth	has	whiteness
+soap	has	sudsing
+toothbrush	has	cleaning
+brush	has	abrasiveness
+eraser	has	removability
+eraser	has	effectiveness
+pencil	has	portability
+chalk	has	dustiness
+chalk	has	writeability
+chalk	has	erasability
+lipstick	has	reapplicability
+nail polish	has	repairability
+glue	has	stickiness
+glue	has	adhesion
+rubber	has	durability
+sponge	has	absorbency
+sponge	has	softness
+sponge	has	versatility
+pillow	has	comfort
+pillow	has	support
+pillow	has	restfulness
+mattress	has	firmness
+mattress	has	support
+mattress	has	comfort
+carpet	has	softness
+carpet	has	texture
+carpet	has	warmth
+rug	has	softness
+rug	has	style
+rug	has	durability
+tablecloth	has	smoothness
+tablecloth	has	elegance
+tablecloth	has	durability
+fabric	has	softness
+fabric	has	flexibility
+fabric	has	durability
+fabric	has	versatility
+fabric	has	color
+cotton	has	durability
+cotton	has	comfort
+linen	has	crispness
+linen	has	elegance
+linen	has	durability
+linen	has	versatility
+cotton	has	freshness
+wool	has	comfort
+fur	has	softness
+fur	has	warmth
+fur	has	insulation
+fur	has	style
+fur	has	elegance
+candle	has	warmth
+paper	has	thinness
+salt	has	bitterness
+crystal	has	clarity
+leather	has	suppleness
+brick	has	robustness
+ice	has	fragility
+glue	has	adhesiveness
+wood	has	flexibility
+crystal	has	transparency
+sugar	has	palatability
+steel	has	resistance
+sponge	has	buoyancy
+silver	has	sheen
+stone	has	sturdiness
+brick	has	solidity
+steel	has	versatility
+crystal	has	refraction
+sugar	has	tastiness
+honey	has	nourishment
+glass	has	brittleness
+fabric	has	drape
+metal	has	weight
+rock	has	weight
+wood	has	resistance
+leather	has	resistance
+wood	has	insulating properties
+brick	has	thermal mass
+steel	has	electrical conductivity
+glass	has	reflectivity
+paper	has	crumbliness
+steel	has	thermal conductivity
+crystal	has	optical clarity
+diamond	has	value
+metal	has	density
+rock	has	stability
+crystal	has	brilliance
+steel	has	weight
+metal	has	re
+sand	has	roughness
+tree	has	rigidity
+book	has	weight
+flower	has	fragility
+sandalwood	has	woody smell
+tea	has	astringency
+vinegar	has	sourness
+apple	has	crispness
+honeydew melon	has	juiciness
+ice cube	has	chillness
+soap	has	latheriness
+wire	has	flexibility
+perfume bottle	has	fragility
+rose	has	thorns
+salt	has	seasoning
+sugar cookie	has	sweetness
+candle	has	flame
+diamond ring	has	luxury
+ice block	has	solidity
+sponge cake	has	fluffiness
+honeycomb	has	hexagonal structure
+sugar cane	has	sweetness
+diamond necklace	has	glamour
+paper towel	has	absorbency
+honeycomb cell	has	hexagonal shape
+sugar syrup	has	thickness
+diamond stud	has	luxury
+coffee bean	has	aroma
+ice tray	has	chillness
+perfume spray	has	fragrance
+honeycomb hive	has	social structure
+fabric weave	has	pattern
+steel pipe	has	durability
+sugar crystal	has	transparency
+diamond engagement ring	has	rarity
+rock garden	has	tranquility
+perfume bottle cap	has	fragility
+ice skate	has	sharpness
+sponge pad	has	absorbency
+steel rod	has	strength
+diamond pendant	has	luxury
+honeycomb comb	has	hexagonal structure
+sandcastle	has	fragility
+ice scraper	has	scratchiness
+steel bridge	has	durability
+perfume atomizer	has	fragrance
+sugar crystal lattice	has	crystalline structure
+diamond stud earring	has	luxury
+rock climbing wall	has	difficulty
+ice bucket	has	chillness
+sponge sponge	has	absorbency
+steel wire	has	flexibility
+perfume container	has	fragility
+honeycomb wax	has	yellow color
+sugar cookie jar	has	sweetness
+diamond locket	has	luxury
+rock quarry	has	noise
+ice cream cone	has	coldness
+steel beam	has	strength
+perfume fragrance	has	intensity
+sugar syrup bottle	has	thickness
+diamond wedding ring	has	commitment
+gold	has	shininess
+piano	has	loudness
+violin	has	tone
+rain	has	wetness
+snow	has	coldness
+sunflower	has	brightness
+rope	has	flexibility
+paper	has	flimsiness
+wind	has	swiftness
+moon	has	glow
+tree	has	growth
+bike	has	speed
+rocket	has	propulsion
+train	has	speed
+plane	has	flight
+smart phone	has	connectivity
+television	has	picture quality
+music	has	melody
+poetry	has	emotion
+art	has	beauty
+magazine	has	entertainment
+newspaper	has	information
+radio	has	broadcast
+camera	has	lens quality
+flashlight	has	brightness
+microscope	has	magnification
+telescope	has	magnification
+binoculars	has	zoom
+calculator	has	precision
+thermometer	has	accuracy
+scale	has	measurement
+clock	has	timekeeping
+alarm	has	warning
+whistle	has	loudness
+siren	has	alertness
+bell	has	clarity
+chime	has	melodiousness
+gong	has	sonority
+drum	has	rhythm
+guitar	has	harmony
+flute	has	music
+trumpet	has	brassiness
+harp	has	elegance
+lyre	has	ancientness
+cello	has	sonorousness
+harp	has	soothingness
+saxophone	has	smoothness
+xylophone	has	clarity
+marimba	has	depth
+cymbal	has	loudness
+tambourine	has	rhythmicness
+triangle	has	sharpness
+organ	has	grandness
+pipe organ	has	loudness
+accordion	has	expressiveness
+violin	has	melodiousness
+harp	has	serenity
+pipe	has	simplicity
+gong	has	sonorousness
+marimba	has	rhythm
+lyre	has	poignancy
+pipe organ	has	grandeur
+accordion	has	playfulness
+trumpet	has	grandeur
+saxophone	has	expressiveness
+cello	has	expressiveness
+marimba	has	resonance
+triangle	has	piercingness
+flute	has	airiness
+trumpet	has	brightness
+piano	has	grandness
+gong	has	deepness
+champagne	has	effervescence
+ruby	has	preciousness
+silk	has	luminosity
+perfume	has	volatility
+silk	has	iridescence
+copper	has	flexibility
+chocolate	has	richness
+perfume	has	persistence
+silver	has	luminosity
+wood	has	stability
+perfume	has	pungency
+perfume	has	intensity
+silk	has	luster
+coffee	has	acidity
+candle	has	lightness
+iron	has	ferocity
+metal	has	corrosion
+sand	has	compactness
+salt	has	solubility
+candle	has	brightness
+honey	has	nutty flavor
+ice	has	slowness
+metal	has	ductility
+copper	has	oxidation
+honey	has	mellowness
+snow	has	purity
+leather	has	firmness
+iron	has	thermal conductivity
+metal	has	elasticity
+silver	has	brightness
+perfume	has	complexity
+leather	has	comfort
+metal	has	rust
+snow	has	clarity
+sun	has	heat
+silver	has	pliability
+perfume	has	strength
+snow	has	depth
+sugar	has	granularity
+honey	has	flavor
+lavender	has	fragrance
+rose	has	beauty
+coffee	has	astringency
+garlic	has	pungency
+garlic	has	smell
+garlic	has	sharpness
+onion	has	pungency
+onion	has	smell
+salt	has	taste
+salt	has	savoryness
+pepper	has	spiciness
+pepper	has	sharpness
+cinnamon	has	warmth
+cinnamon	has	aroma
+cinnamon	has	spiciness
+chili	has	heat
+chili	has	spiciness
+chili	has	sharpness
+dust	has	dryness
+dust	has	coarseness
+grass	has	greenness
+grass	has	freshness
+grass	has	softness
+tree	has	beauty
+root	has	growth
+root	has	underground
+flower	has	growth
+cloud	has	shape
+cloud	has	height
+rock	has	depth
+rock	has	earthiness
+wood	has	dryness
+wood	has	fragrance
+glass	has	smoothness
+glass	has	beauty
+fish	has	agility
+fish	has	speed
+fish	has	scale
+fish	has	coldness
+fish	has	aquaticness
+leaf	has	shape
+leaf	has	movement
+leaf	has	growth
+leaf	has	flexibility
+paper	has	absorbency
+paper	has	color
+paper	has	durability
+iron	has	density
+iron	has	resistance
+silk	has	beauty
+silk	has	fragility
+silver	has	value
+silver	has	durability
+silver	has	malleability
+copper	has	value
+earth	has	solidity
+ice cream	has	coolness
+bleach	has	whiteness
+soap	has	lather
+plastic	has	versatility
+silk	has	lightness
+polyester	has	ease of production
+ceramic	has	hardness
+metal	has	heat conduction
+copper	has	electrical resistance
+gold	has	reactivity
+leather	has	thickness
+steel	has	resistance to corrosion
+metal	has	heat retention
+rubber	has	shock absorption
+sugar	has	edibility
+perfume	has	aroma
+wood	has	smell
+leather	has	smell
+silver	has	strength
+iron	has	electrical conductivity
+rain	has	freshness
+diamond	has	clarity
+salt	has	crunchiness
+bubblegum	has	stickiness
+maple syrup	has	thickness
+honey	has	consistency
+bubblegum	has	chewiness
+ice cube	has	coldness
+mint	has	freshness
+lemon	has	sourness
+vinegar	has	pungency
+bubblegum	has	freshness
+lemon	has	zing
+vinegar	has	sharpness
+wine	has	acidity
+mint	has	coolness
+chocolate	has	decadence
+perfume	has	elegance
+perfume	has	allure
+flower	has	delicacy
+perfume	has	charm
+soap	has	purity
+honey	has	health
+soap	has	safety
+bubblegum	has	fun
+salt	has	importance
+soap	has	effectiveness
+bubblegum	has	funniness
+bubblegum	has	enjoyment
+lemon	has	acidity
+chocolate	has	luxury
+bubblegum	has	satisfaction
+ice cream	has	indulgence
+lemon	has	sharpness
+soap	has	freshness
+lemon	has	zest
+chocolate	has	indulgence
+honey	has	quality
+perfume	has	sophistication
+honey	has	utility
+bubblegum	has	amusement
+soap	has	power
+lemon	has	tartness
+lemon	has	tanginess
+bubblegum	has	delight
+soap	has	gentleness
+perfume	has	beauty
+lemon	has	pungency
+soap	has	hygiene
+honey	has	benefit
+diamond	has	durability
+ice cream	has	creaminess
+salt	has	sharpness
+ice cream	has	melting
+sugar	has	addictiveness
+crystal	has	sharpness
+chocolate	has	deliciousness
+ice	has	impermanence
+ice cream	has	tastiness
+honey	has	nutritional value
+metal	has	recyclability
+chocolate	has	mouthfeel
+soap	has	efficiency
+silk	has	breathability
+metal	has	corrosion resistance
+perfume	has	evaporation
+gold	has	scarcity
+honey	has	shelf life
+salt	has	preservation
+ice cream	has	flavor
+coffee	has	stimulating effect
+honey	has	medicinal value
+sugar	has	dental health benefits
+wind	has	force
+oil	has	smoothness
+coal	has	darkness
+air	has	lightness
+leather	has	softness
+concrete	has	strength
+plastic	has	flexibility
+iron	has	rigidity
+metal	has	conducivity
+brick	has	hardness
+gel	has	transparency
+liquid	has	fluidity
+air	has	invisibility
+coal	has	heat
+water	has	temperature
+gel	has	gelatinousness
+metal	has	reusability
+brick	has	insulation
+water	has	evaporation
+fabric	has	stainability
+wood	has	graininess
+air	has	pressure
+sponge	has	porosity
+stone	has	impermeability
+ice	has	slippiness
+wool	has	prickle
+paper	has	tearability
+air	has	buoyancy
+wood	has	decay
+water	has	freezing point
+air	has	airiness
+cotton	has	lightness
+wood	has	density
+ceramic	has	fragility
+zinc	has	corrosion resistance
+granite	has	hardness
+wool yarn	has	thinness
+wool felt	has	density
+copper wire	has	conductivity
+glass bottle	has	transparency
+iron chain	has	strength
+aluminum foil	has	malleability
+wool fabric	has	warmth
+cotton fabric	has	softness
+wool sweater	has	warmth
+copper pipe	has	durability
+wool thread	has	thinness
+quartz crystal	has	clarity
+wool blanket	has	insulation
+iron grate	has	strength
+glass vase	has	transparency
+steel gear	has	durability
+silver jewelry	has	luxury
+wool yarn ball	has	weight
+marble statue	has	beauty
+copper bell	has	sound production
+wood chair	has	comfort
+wool hat	has	warmth
+copper sheet	has	conductivity
+leather belt	has	strength
+granite countertop	has	durability
+wool fabric square	has	softness
+iron tool	has	strength
+glass window	has	transparency
+wood floor	has	warmth
+quartz clock	has	accuracy
+copper rod	has	conductivity
+wool gloves	has	warmth
+steel blade	has	sharpness
+wool scarf	has	softness
+iron gate	has	strength
+quartz radio	has	reception
+copper wire	has	malleability
+glass ornament	has	fragility
+wool fabric	has	breathability
+wool cloth	has	softness
+copper coin	has	value
+marble fountain	has	beauty
+wool fabric roll	has	smoothness
+copper mesh	has	strength
+glass jar	has	transparency
+wool rug	has	warmth
+wool ball	has	weight
+quartz oscillator	has	precision
+copper wire coil	has	conductivity
+wool fabric piece	has	softness
+iron screw	has	strength
+quartz filter	has	clarity
+copper tape	has	conductivity
+marble sculpture	has	beauty
+wool fabric bundle	has	warmth
+wool thread roll	has	thinness
+copper pipe joint	has	durability
+glass prism	has	refraction
+wool fabric swatch	has	softness
+quartz amplifier	has	clarity
+wool fabric square piece	has	warmth
+copper rod stock	has	conductivity
+iron hook	has	strength
+quartz generator	has	power
+copper cable	has	conductivity
+marble vane	has	aerodynamics
+wool fabric strip	has	breathability
+steel plate	has	durability
+quartz meter	has	accuracy
+wool fabric roll piece	has	smoothness
+copper mesh screen	has	strength
+glass test tube	has	transparency
+fabric	has	comfort
+clay	has	pliability
+gelatin	has	solubility
+gel	has	gelation
+gel	has	adhesive
+gelatin	has	taste
+wood	has	insulation
+steel	has	formability
+concrete	has	porosity
+gelatin	has	gelation
+gel	has	viscosity
+water	has	solubility
+concrete	has	insulation
+cotton	has	warmth
+wool	has	durability
+concrete	has	formability
+cotton	has	insulation
+cotton	has	sustainability
+vinegar	has	tanginess
+forest	has	greenery
+guitar	has	melody
+library	has	information
+school	has	education
+teacher	has	expertise
+hospital	has	care
+doctor	has	skill
+phone	has	connectivity
+airplane	has	altitude
+train	has	punctuality
+bicycle	has	agility
+skateboard	has	maneuverability
+boat	has	buoyancy
+ship	has	capacity
+engine	has	power
+battery	has	energy
+battery	has	portability
+electric	has	current
+magnet	has	force
+magnet	has	polarity
+compass	has	direction
+clock	has	time
+calendar	has	schedule
+map	has	location
+globe	has	geography
+star	has	twinkling
+planet	has	rotation
+cloud	has	weather
+thunderstorm	has	loudness
+rain	has	precipitation
+light	has	illumination
+dance	has	movement
+painting	has	beauty
+play	has	entertainment
+novel	has	imagination
+film	has	storytelling
+drama	has	emotion
+comedy	has	humor
+tragedy	has	sadness
+action	has	excitement
+horror	has	fear
+adventure	has	thrill
+history	has	significance
+mystery	has	intrigue
+detective	has	investigation
+journalist	has	research
+scientist	has	discovery
+philosopher	has	wisdom
+leader	has	authority
+politician	has	influence
+athlete	has	skill
+musician	has	talent
+artist	has	creativity
+chef	has	culinary skills
+architect	has	design
+engineer	has	innovation
+doctor	has	healing
+artist	has	expression
+designer	has	vision
+writer	has	storytelling
+coal	has	energy
+leather	has	toughness
+platinum	has	rarity
+wool	has	flammability
+copper	has	thermoelectricity
+ceramic	has	impermeability
+marble	has	resistance to etching
+steel	has	magnetic permeability
+quartz	has	piezoelectricity
+concrete	has	durability
+diamond	has	scratch resistance
+cotton	has	porosity
+gold	has	biocompatibility
+steel	has	fatigue resistance
+copper	has	antifungal properties
+silver	has	antimicrobial properties
+titanium	has	hypoallergenicity
+copper	has	resistance to seawater corrosion
+steel	has	magnetic attraction
+diamond	has	dispersion
+iron	has	magnetic susceptibility
+silver	has	electroconductivity
+ceramic	has	thermal shock resistance
+wool	has	hydrophobicity
+marble	has	chemical inertness
+lead	has	low melting point
+cotton	has	moisture absorption
+gold	has	thermal stability
+granite	has	resistance to chemical etching
+silver	has	low toxicity
+bronze	has	resistance to fatigue
+wool	has	thermal insulation
+silver	has	chemical inertness
+granite	has	durability
+copper	has	resistance to thermal shock
+gold	has	reflectivity
+silver	has	optical reflectivity
+copper	has	antimicrobial properties
+wool	has	elasticity
+ice	has	crystallinity
+fire	has	ignition
+wool	has	pile formation
+wool	has	shedding
+steel	has	forgeability
+gold	has	recyclability
+stone	has	porosity
+sugar	has	caramelization
+sugar	has	polymorphism
+iron	has	high thermal expansion
+marble	has	weather resistance
+copper	has	high electrical conductivity
+steel	has	resistance to fatigue
+silver	has	light transmittance
+wool	has	crimping
+fire	has	visibility
+honey	has	antimicrobial properties
+gold	has	high ductility
+copper	has	electroplating
+marble	has	resistance to thermal shock
+stone	has	thermal conductivity
+leather	has	resistance to wear
+wood	has	resistance to pests
+wool	has	resistance to uv radiation
+diamond	has	resistance to scratches
+sugar	has	polymers
+copper	has	high electrical resistance
+paper	has	resistance to moisture
+iron	has	corrosion rate
+wool	has	crimping speed
+steel	has	surface hardness
+marble	has	thermal insulating properties
+sugar	has	acidity coefficient
+stone	has	water absorption
+wool	has	resistance to chemicals
+steel	has	surface finish
+fire	has	ignition temperature
+gold	has	resistance to chemicals
+sugar	has	reaction rate
+metal	is	conductive
+diamond	is	durable
+glass	is	transparent
+salt	has	crystallinity
+wood	has	rot resistance
+glass	has	scratch resistance
+sugar	has	preservability
+paper	has	water resistance
+wood	has	decay resistance
+honey	has	preservability
+stone	has	weather resistance
+ice	has	specific gravity
+silk	has	flexibility
+copper	has	resistivity
+marble	has	aesthetics
+water	has	purity
+wood	has	shrinkage
+honey	has	antiseptic properties
+silver	has	reflective properties
+steel	has	high temperature resistance
+stone	has	abrasion resistance
+marble	has	coloration
+paper	has	combustibility
+gold	has	high melting point
+diamond	has	transparency
+ice	has	density
+silk	has	smooth texture
+steel	has	high ductility
+stone	has	resistance to acid
+wood	has	insulation properties
+wool	has	water absorption
+iron	has	corrosion resistance
+aluminum	has	lightweightness
+ceramic	has	resistance
+concrete	has	solidity
+asbestos	has	insulating properties
+dust	has	irritation
+pollen	has	allergenicity
+salt	has	salinity
+incense	has	aroma
+matchstick	has	ignitability
+cigarette	has	smoke
+fog	has	opacity
+mist	has	visibility
+ash	has	greyness
+charcoal	has	smokiness
+sodium	has	corrosion
+silver	has	conductive properties
+magnet	has	attractive force
+compass	has	directional guidance
+magnetism	has	magnetic field
+graphite	has	lubricating properties
+uranium	has	radioactivity
+cadmium	has	toxicity
+mica	has	flakiness
+sapphire	has	hardness
+amethyst	has	beauty
+emerald	has	rarity
+ruby	has	luxury
+opal	has	iridescence
+pearl	has	luminosity
+jade	has	cultural significance
+obsidian	has	sharpness
+jadeite	has	durability
+tourmaline	has	multicoloredness
+garnet	has	rarity
+peridot	has	gemstone quality
+topaz	has	hardness
+citrine	has	transparency
+ammolite	has	iridescence
+carnelian	has	durability
+aventurine	has	glassy appearance
+amazonite	has	bright blue color
+jade	has	spirituality
+charoite	has	rarity
+moonstone	has	adularescence
+apatite	has	whiteness
+pyrite	has	metallic luster
+iolite	has	blue color
+sphene	has	rarity
+lapis lazuli	has	deep blue color
+staurolite	has	twinning
+chalcedony	has	translucency
+benitoite	has	rarity
+sphalerite	has	zinc sulfide crystal structure
+bertrandite	has	lithium content
+cloth	has	flexibility
+brick	has	stability
+plastic	has	moldability
+wood	has	versatility
+concrete	has	impermeability
+paper	has	flatness
+cloth	has	elasticity
+carbon	has	flammability
+metal	has	luster
+gold	has	softness
+water	has	acidity
+stone	has	beauty
+carbon	has	hardness
+marble	has	luxury
+paper	has	smoothness
+silver	has	luster
+concrete	has	stability
+ruby	has	redness
+ice cream	has	deliciousness
+perfume	has	pleasantness
+mercury	has	liquidity
+metal	has	conducitivity
+copper	has	warmth
+brick	has	strength
+bronze	has	heat
+rubber	has	stretchiness
+wood	has	lightness
+concrete	has	compactness
+ruby	has	rarity
+steel	has	lightness
+gold	has	luminosity
+wool	has	texture
+gold	has	weight
+piano	has	musicality
+oak tree	has	strength
+guitar	has	sonority
+cloud	has	fluffiness
+cherry	has	tartness
+spring	has	renewal
+waterfall	has	beauty
+cherry blossom	has	delicacy
+peony	has	elegance
+lavender	has	calmness
+honeycomb	has	structural integrity
+peony	has	beauty
+rosewater	has	fragrance
+rose quartz	has	healing properties
+honeycomb	has	ventilation
+lavender	has	therapeutic properties
+moonstone	has	mystery
+rose	has	sensuality
+sardine	has	oiliness
+rosehip	has	nutritious value
+silverfish	has	agility
+peach	has	succulence
+honeydew	has	nectar
+ruby	has	luxuriousness
+river stone	has	smoothness
+cherry plum	has	sweetness
+moon	has	cyclical nature
+rose quartz	has	metaphysical properties
+rose petal	has	delicacy
+riverbank	has	tranquility
+rosemary	has	fragrance
+rose geranium	has	herbal properties
+rose apple	has	tartness
+silverfish	has	speed
+riverweed	has	buoyancy
+rose hip	has	antioxidant properties
+lavender oil	has	calming properties
+moonlight	has	magic
+sunbeam	has	warmth
+river rocks	has	ruggedness
+rosehip tea	has	medicinal properties
+rose geranium	has	relaxation properties
+peony flower	has	rarity
+rose quartz crystal	has	emotional healing
+river sand	has	softness
+rosemary herb	has	flavor
+river stones	has	wisdom
+rose quartz pendant	has	spiritual significance
+rose thorn	has	sharpness
+riverbank grass	has	flexibility
+silverfish	has	cleverness
+rosewater toner	has	skin care properties
+peony flowers	has	fleeting beauty
+rose	has	romance
+river pebbles	has	smoothness
+lavender fields	has	serenity
+rose quartz crystal cluster	has	spiritual power
+rose hips	has	antioxidant content
+river stones	has	historical significance
+rose gold	has	luxury
+river rocks	has	durability
+rose petal tea	has	relaxation properties
+silver	has	resistance
+rose geranium oil	has	anxiety relief
+river stones	has	symbolism
+rose quartz	has	love healing
+rose hips	has	nutritional value
+peony plant	has	fragrance
+riverbank grass	has	adaptability
+zinc	has	reactivity
+silicon	has	purity
+barium	has	reactivity
+strontium	has	radioactivity
+calcium	has	reactivity
+selenium	has	toxicity
+fluorine	has	reactivity
+iodine	has	essentialness
+oxygen	has	essentialness
+nitrogen	has	essentialness
+argon	has	unreactivity
+neon	has	brightness
+magnesium	has	flammability
+chlorine	has	reactivity
+sodium	has	reactivity
+potassium	has	flammability
+lead	has	flexibility
+platinum	has	value
+magnesium	has	lightness
+copper	has	strength
+aluminum	has	reactivity
+copper	has	reactivity
+iron	has	flexibility
+aluminum	has	flexibility
+clay	has	malleability
+gold	has	purity
+sugar	has	crystals
+ice	has	crystal clarity
+wool	has	odor
+clay	has	flexibility
+marble	has	weight
+diamond	has	fire resistance
+coal	has	fuel value
+clay	has	stickiness
+steel	has	stiffness
+water	has	taste
+carbon	has	combustibility
+honey	has	antibacterial properties
+coal	has	air quality impact
+wool	has	warmth retention
+water	has	oxygenation
+steel	has	corrosion protection
+salt	has	crystallization
+coal	has	ash content
+clay	has	absorbency
+steel	has	resistance to wear
+glass	has	breakage
+oil	has	viscosity index
+wood	has	knotting
+ice	has	refraction
+carbon	has	ionization
+clay	has	molding
+salt	has	dissolvability
+clay	has	adhesion
+goldfish	has	finnedness
+shark	has	sharpness
+piano	has	melodicness
+guitar	has	strumminess
+orange	has	citrusness
+banana	has	peelability
+tiger	has	ferocity
+elephant	has	size
+lion	has	courage
+mist	has	opacity
+granite	has	toughness
+copper	has	reddishness
+zinc	has	ductility
+fur	has	fluffiness
+suede	has	smoothness
+bone	has	hardness
+tin	has	malleability
+lead	has	weight
+platinum	has	durability
+copper	has	oxidability
+cobalt	has	hardness
+copper	has	thermoreactivity
+tin	has	softness
+book	has	information
+apple	has	flavor
+bicycle	has	mobility
+coffee	has	caffeine
+quartz	has	crystallinity
+perfume	has	luxury
+violin	has	virtuosity
+piano	has	emotional resonance
+piano	has	playability
+silk	has	smooth feel
+coffee	has	energizing properties
+guitar	has	versatility
+piano	has	musical complexity
+perfume	has	personal appeal
+apple	has	nutritious value
+piano	has	historic significance
+river	has	importance
+coffee	has	cultural significance
+silk	has	sophistication
+guitar	has	creativity
+violin	has	precision
+cat	has	domestication
+perfume	has	emotional association
+piano	has	nostalgia
+river	has	spiritual significance
+quartz	has	spiritual significance
+sugar	has	dietary value
+guitar	has	loudness
+coffee bean	has	versatility
+diamond	has	luxury value
+piano	has	therapy
+cat	has	protective instincts
+apple	has	medicinal properties
+guitar	has	musical influence
+silk	has	prestige
+river	has	symbolism
+piano	has	versatility in music
+violin	has	artistic value
+perfume	has	atmosphere
+coffee	has	social significance
+coffee bean	has	regional varieties
+guitar	has	portability
+diamond	has	carat weight
+piano	has	acoustic properties
+silk	has	luxurious texture
+sugar	has	usage in baking
+river	has	importance in ecosystems
+piano	has	musical innovation
+cat	has	hunting skills
+perfume	has	packaging
+apple	has	health benefits
+guitar	has	musical tone
+silk	has	fineness in weaving
+piano	has	practice value
+cat	has	playful behavior
+coffee	has	energizing effects
+guitar	has	strings made from animal gut
+silk	has	softness to touch
+violin	has	expressive range
+river	has	navigation importance
+perfume	has	brand value
+coffee bean	has	harvesting methods
+piano	has	musical versatility
+apple	has	fruit salads
+guitar	has	amp output
+sugar	has	uses in recipes
+metal	is	malleable
+perfume	has	sweetness
+piano	is	melodic
+steel	is	strong
+gemstone	is	precious
+velvet	has	luxury
+paint	is	colorful
+candle	has	light
+gold	is	valuable
+silver	is	reflective
+perfume	is	alluring
+fabric	is	tactile
+gem	has	sparkle
+rose	is	romantic
+silver	has	sterility
+perfume	has	seductive power
+crystal	has	cutability
+flower	has	delicate
+wood	is	rustic
+gold	is	expensive
+perfume	has	enchanting power
+rose	has	love
+steel	is	robust
+fabric	is	versatile
+crystal	has	precision
+diamond	has	beauty
+metal	is	versatile
+rose	is	lovely
+piano	has	soulfulness
+crystal	has	fragility
+gold	has	luxury
+wood	has	organic
+perfume	has	temptation
+gemstone	has	beauty
+stone	is	heavy
+soap	is	foamy
+crystal	is	delicate
+diamond	has	firelessness
+perfume	is	aromatic
+iron	has	robustness
+metal	has	heat conductivity
+flower	is	colorful
+perfume	has	attractiveness
+soap	has	cleansing power
+crystal	is	transparent
+rose	is	beautiful
+piano	has	expressiveness
+fabric	is	soft
+gold	is	precious
+snow	has	chilliness
+goldfish	has	smallness
+eagle	has	speed
+snake	has	slippiness
+mouse	has	agility
+bicycle	has	maneuverability
+submarine	has	depth
+robot	has	automation
+internet	has	connectivity
+library	has	knowledge
+table	has	flatness
+desk	has	firmness
+bed	has	restfulness
+pillow	has	softness
+blanket	has	warmth
+window	has	transparency
+vase	has	elegance
+garden	has	fragrance
+flower	has	colorfulness
+melody	has	harmony
+poem	has	emotion
+joke	has	humor
+movie	has	entertainment
+story	has	imagination
+dream	has	surrealness
+imagination	has	creativity
+idea	has	originality
+theory	has	logic
+concept	has	abstractness
+solution	has	effectiveness
+strategy	has	planning
+recipe	has	clarity
+instruction	has	specificity
+guide	has	direction
+map	has	orientation
+compass	has	accuracy
+chart	has	visualization
+graph	has	comparison
+equation	has	balance
+formula	has	precision
+algorithm	has	efficiency
+simulation	has	realism
+model	has	accuracy
+prototype	has	innovation
+product	has	usability
+service	has	helpfulness
+assistance	has	support
+treatment	has	effectiveness
+medication	has	efficacy
+remedy	has	relief
+cure	has	healing
+exercise	has	physicality
+sport	has	competition
+game	has	fun
+puzzle	has	challenge
+riddle	has	cleverness
+brain	has	intelligence
+mind	has	consciousness
+body	has	strength
+soul	has	spirituality
+heart	has	emotion
+liver	has	filtration
+kidney	has	purification
+lung	has	respiration
+stomach	has	digestion
+intestine	has	absorption
+bone	has	rigidity
+muscle	has	elasticity
+hair	has	texture
+nail	has	hardness
+tongue	has	taste
+eye	has	vision
+ear	has	hearing
+nose	has	smell
+mouth	has	speech
+ice	has	solidity
+butter	has	tenderness
+salt	has	clarity
+butter	has	flavor
+coffee	has	color
+butter	has	spreadability
+sugar	has	texture
+diamond	has	reflectivity
+gold	has	chemical resistance
+honey	has	color
+sugar	has	preservative properties
+ice	has	water content
+coffee	has	caffeine content
+sugar	has	crystallization rate
+honey	has	ph level
+diamond	has	refractive index
+butter	has	shelf life
+gold	has	aesthetic value
+ice	has	crystal structure
+sugar	has	water solubility
+diamond	has	light transmission
+honey	has	enzymatic activity
+coffee	has	energy content
+butter	has	taste
+ice	has	freezing point
+diamond	has	toughness
+water	has	ph level
+honey	has	moisture content
+coffee	has	solubility
+butter	has	melting point
+detergent	has	cleaning power
+essential oil	has	fragrance
+gasoline	has	combustibility
+grease	has	slipperiness
+tar	has	stickiness
+wax	has	protection
+ink	has	pigmentation
+cotton balls	has	fluffiness
+pillows	has	comfort
+mattresses	has	support
+carpets	has	warmth
+curtains	has	filtering
+filters	has	precision
+magnets	has	attraction
+mirrors	has	reflectivity
+lenses	has	focusing
+marbles	has	roundness
+balls	has	bounciness
+piano keys	has	musicality
+drumheads	has	tonality
+sound waves	has	frequency
+speech	has	eloquence
+languages	has	expressiveness
+poetry	has	imagery
+books	has	knowledge
+libraries	has	archives
+universities	has	education
+museums	has	preservation
+nature	has	wonder
+animals	has	behavior
+plants	has	growth
+trees	has	shade
+flowers	has	fragrance
+fruits	has	taste
+vegetables	has	nutrition
+spices	has	flavor
+herbs	has	medicinal properties
+flowers	has	attractiveness
+butterflies	has	metamorphosis
+stars	has	light
+planets	has	motion
+galaxies	has	expansion
+time	has	duration
+seasons	has	change
+weather	has	unpredictability
+climate	has	stability
+mountains	has	height
+oceans	has	depth
+rivers	has	flow
+lakes	has	serenity
+clouds	has	softness
+wind	has	speed
+lightning	has	intensity
+earthquakes	has	severity
+landslides	has	destruction
+tornadoes	has	ferocity
+hurricanes	has	power
+icebergs	has	floating
+sea ice	has	buoyancy
+cement	has	strength
+asphalt	has	flexibility
+aircraft	has	aerodynamics
+spacecraft	has	propulsion
+submarines	has	stealth
+sailboats	has	buoyancy
+ships	has	maneuverability
+locomotives	has	speed
+bicycles	has	efficiency
+scooters	has	maneuverability
+skateboards	has	balance
+surfboards	has	buoyancy
+kites	has	aerodynamics
+wings	has	lift
+parachutes	has	safety
+rain	brings	wetness
+firework	has	explosiveness
+butterfly	has	wings
+candle	has	flicker
+lightning	has	speed
+peach	has	juiciness
+perfume bottle	has	cap
+champagne bottle	has	cork
+tornado	has	destruction
+crystal glass	has	transparency
+perfume sachet	has	fragrance
+butterfly net	has	mesh
+tornado funnel	has	rotation
+tornado alley	has	storms
+perfume flacon	has	elegance
+perfume pump	has	dispensing
+marble countertop	has	sheen
+perfume refill	has	convenience
+tornado warning	has	alertness
+perfume holder	has	design
+crystal chandelier	has	beauty
+perfume gift set	has	packaging
+tornado shelter	has	safety
+perfume atomizer refill	has	longevity
+perfume storage	has	security
+perfume tester	has	fragrance
+crystal wine glass	has	fineness
+tornado observation	has	fascination
+perfume diffuser	has	functionality
+perfume box	has	compactness
+tornado watch	has	preparedness
+perfume pump refill	has	ease
+marble tile	has	durability
+perfume spray bottle	has	portability
+tornado path	has	destruction
+perfume fragrance	has	uniqueness
+perfume cap	has	convenience
+crystal vase	has	elegance
+perfume applicator	has	precision
+tornado warning system	has	accuracy
+perfume bottle cap	has	seal
+marble sculpture	has	intricacy
+perfume scent	has	longevity
+tornado emergency	has	urgency
+perfume storage case	has	protection
+crystal decoration	has	beauty
+perfume spray	has	versatility
+tornado preparedness	has	planning
+marble flooring	has	durability
+perfume packaging	has	style
+tornado funnel cloud	has	rotation
+perfume tester strip	has	accuracy
+crystal wall	has	reflection
+perfume gift box	has	presentation
+marble step	has	texture
+perfume refillable	has	convenience
+tornado watch tower	has	surveillance
+perfume scent throw	has	fragrance
+marble countertop laminate	has	ease
+perfume packaging materials	has	recyclability
+tornado warning siren	has	loudness
+perfume storage unit	has	compactness
+marble monument	has	grandeur
+perfume refill pack	has	convenience
+tornado shelter design	has	functionality
+painting	has	aesthetic
+poetry	has	rhythm
+sunshine	has	warmth
+autumn	has	coziness
+winter	has	cold
+summer	has	heat
+tea	has	soothingness
+ice cream	has	delight
+hospital	has	healing
+university	has	learning
+book	has	wisdom
+airplane	has	speed
+boat	has	stability
+river	has	nourishment
+wind	has	gentleness
+rain	has	moisture
+sunshine	has	brightness
+desert	has	harshness
+volcano	has	power
+hurricane	has	ferocity
+earthquake	has	destruction
+tsunami	has	devastation
+cyclone	has	intensity
+tornado	has	fury
+storm	has	ferocity
+hail	has	damage
+meteorite	has	danger
+earthquake	has	loss
+avalanche	has	danger
+landslide	has	destruction
+forest	has	complexity
+cliff	has	danger
+bridge	has	strength
+riverbank	has	erosion
+wave	has	energy
+tide	has	change
+forest	has	biodiversity
+river	has	length
+glacier	has	movement
+ice shelf	has	instability
+comet	has	danger
+asteroid	has	impact
+moon	has	gravity
+star	has	luminosity
+galaxy	has	vastness
+universe	has	mystery
+space	has	emptiness
+darkness	has	absence
+sound	has	audibility
+noise	has	loudness
+vibration	has	energy
+frequency	has	pitch
+wave	has	amplitude
+current	has	flow
+ice	has	crystalline structure
+steel	has	rust resistance
+silk	has	tensile strength
+diamond	has	sharpness
+mercury	has	high density
+marble	has	heaviness
+silk	has	texture
+wood	has	compressibility
+ice	has	clearness
+mercury	has	magnetism
+gold	has	rarity in nature
+sugar	has	flavor
+diamond	has	high hardness
+water	has	corrosivity
+wood	has	impermanence
+gold	has	ductility at high temperatures
+gold	has	corrosion resistance in seawater
+copper	has	ability to be alloyed
+diamond	has	extreme hardness
+ice	has	low thermal conductivity
+wood	has	carbon content
+paper	has	insulativity
+mercury	has	vapor pressure
+water	has	heat capacity
+diamond	has	brilliance at any angle
+gold	has	malleability at low temperatures
+copper	has	heat capacity
+sky	has	vastness
+bamboo	has	flexibility
+sponge	has	absorptivity
+sand	has	erosion
+stone	has	compactness
+wood	has	weather resistance
+iron	has	magnetic permeability
+leather	has	tensile strength
+marble	has	hardness
+copper	has	density
+sand	has	porosity
+iron	has	high melting point
+clay	has	workability
+leather	has	suppletness
+marble	has	resistance
+stone	has	compressibility
+soap	has	ph level
+brick	has	insulation properties
+stone	has	resistance to weathering
+concrete	has	durability in water
+paper	has	folding endurance
+metal	has	high melting point
+sand	has	cohesiveness
+glass	has	resistance to shattering
+soap	has	surface tension
+gold	has	melting point
+snow	has	density
+rubber	has	grip
+metal	has	thermal expansion
+sugar	has	solubility in hot water
+diamonds	have	rarity
+rain	has	dampness
+aluminum	has	corrosion resistance
+limestone	has	carbonate content
+chalk	has	whiteness
+asphalt	has	waterproofing
+cotton candy	has	sweetness
+bubble gum	has	stickiness
+polyester	has	flexibility
+tulle	has	transparency
+wool yarn	has	coarseness
+silk thread	has	smoothness
+aluminum foil	has	reflectivity
+papyrus	has	water resistance
+felt	has	heat retention
+nylon	has	durability
+stainless steel	has	corrosion resistance
+wool fibers	have	insulation
+carbon fiber	has	strength
+titanium	has	corrosion resistance
+polystyrene	has	lightweightness
+polyester fabric	has	smoothness
+ceramic tile	has	water resistance
+fiberglass	has	heat resistance
+carbonated water	has	fizziness
+gel	has	consistency
+pvc	has	flexibility
+polyethylene	has	toughness
+wood polish	has	shine
+epoxy	has	adhesiveness
+polyester resin	has	clarity
+rubber boots	has	water resistance
+thermal paper	has	heat sensitivity
+polyurethane	has	flexibility
+calcium	has	hardness
+phenolic resin	has	heat resistance
+silicone	has	water resistance
+epoxy glue	has	adhesiveness
+polycarbonate	has	impact resistance
+nylon rope	has	strength
+polyester rope	has	durability
+carbonated soda	has	fizziness
+pvc pipe	has	corrosion resistance
+calcium carbonate	has	whiteness
+thermal glass	has	heat resistance
+concrete block	has	density
+polypropylene	has	toughness
+metal sheet	has	reflectivity
+thermoplastic	has	moldability
+ceramic mug	has	impermeability
+aluminum alloy	has	strength
+gelatin dessert	has	gelatinous texture
+polyethylene sheet	has	flexibility
+thermal mass	has	heat capacity
+polystyrene foam	has	lightweightness
+ceramic tableware	has	impermeability
+polyvinyl chloride	has	chemical resistance
+phenolic fiber	has	thermal insulation
+polyurethane foam	has	cushioning
+glass lens	has	transparency
+metal wire	has	malleability
+butter	has	smoothness
+sand	has	scratchiness
+stone	has	weightiness
+ice	has	temperature
+pearl	has	luster
+lavender	has	calming properties
+snake	has	venom
+bell	has	sonance
+black hole	has	gravity
+rainbow	has	color
+rainbow	has	wonder
+sound	has	pitch
+sound	has	volume
+light	has	intensity
+wave	has	motion
+umbrella	has	protection
+library	has	wisdom
+library	has	vastness
+library	has	smell
+perfume	has	seduction
+perfume	has	attraction
+perfume	has	power
+perfume	has	mystique
+perfume	has	mysticism
+perfume	has	magic
+perfume	has	fascination
+perfume	has	wonder
+perfume	has	enchantment
+perfume	has	mystery
+perfume	has	secrecy
+perfume	has	intrigue
+perfume	has	sensuality
+perfume	has	intimacy
+tree	has	foliage
+river	has	flowing
+fog	has	density
+piano	has	silence
+cloud	has	windiness
+water	has	adaptability
+metal	has	resistance
+silk	has	drape
+cloud	has	mistiness
+crystal	has	refractability
+sea	has	depth
+music	has	structure
+sun	has	visibility
+rock	has	immobility
+cloud	has	turbulence
+honey	has	bitterness
+glass	has	shattering
+wood	has	aging
+metal	has	magnetizable
+stone	has	roughness
+fabric	has	firmness
+guitar	has	beauty
+music	has	simplicity
+tree	has	shading
+sea	has	tranquility
+wood	has	polishability
+perfume	has	smelliness
+fabric	has	warmth
+book	has	age
+music	has	mood
+stone	has	mass
+cloud	has	vastness
+tree	has	life
+guitar	has	song
+river	has	water
+cotton fabric	has	breathability
+wool yarn	has	warmth
+wool blanket	has	warmth
+silk fabric	has	smoothness
+steel pipe	has	strength
+steel alloy	has	strength
+concrete pavement	has	durability
+paper card	has	thinness
+leather belt	has	durability
+steel wheel	has	strength
+cotton thread	has	thinness
+silk fabric	has	sheerness
+wool cloth	has	warmth
+gold ring	has	value
+metal alloy	has	conductivity
+copper tube	has	strength
+rubber band	has	elasticity
+glass bottle	has	fragility
+paper sheet	has	smoothness
+steel wire	has	strength
+leather handbag	has	durability
+gold jewelry	has	value
+cotton shirt	has	breathability
+glass mirror	has	transparency
+metal wire	has	ductility
+steel gate	has	strength
+wool blanket	has	softness
+silk scarf	has	smoothness
+concrete wall	has	durability
+leather wallet	has	toughness
+wool sock	has	warmth
+glass vase	has	fragility
+cotton rope	has	strength
+wool coat	has	warmth
+gold coin	has	value
+copper pipe	has	malleability
+rubber tire	has	elasticity
+silk dress	has	luxury
+paper clip	has	thinness
+steel plate	has	strength
+concrete sidewalk	has	durability
+wool sweater	has	softness
+glass prism	has	transparency
+wool pillow	has	warmth
+leather bag	has	durability
+steel ruler	has	precision
+glass jar	has	fragility
+wool hat	has	softness
+rubber balloon	has	elasticity
+gold necklace	has	value
+steel bolt	has	strength
+leather handbag	has	toughness
+apple	has	crunchiness
+summer	has	warmth
+cake	has	moistness
+leaf	has	softness
+wave	has	power
+fog	has	haziness
+spring	has	hope
+bookshelf	has	flatness
+fog	has	coldness
+sand	has	smoothness
+raincoat	has	waterproofness
+riverbank	has	stability
+firework	has	loudness
+winter	has	chilliness
+tree trunk	has	thickness
+foghorn	has	loudness
+windmill	has	rotation
+summer camp	has	adventure
+river current	has	speed
+piano string	has	tension
+foggy mirror	has	distortion
+riverbed	has	depth
+tree branch	has	flexibility
+snowman	has	uniqueness
+metal rod	has	strength
+autumn leaf	has	color
+rock cliff	has	steepness
+wave crest	has	height
+windscreen	has	scratchiness
+spring rain	has	freshness
+foggy night	has	eeriness
+river boat	has	buoyancy
+steel beam	has	stability
+tree roots	has	anchorage
+snowflake	has	intricacy
+piano key	has	smoothness
+sand dune	has	softness
+wave motion	has	unpredictability
+metal alloy	has	strength
+autumn breeze	has	coolness
+foggy car	has	obscurity
+river bend	has	turn
+steel pipe	has	ductility
+tree fruit	has	edibility
+crystal glass	has	fragility
+rock cave	has	darkness
+wave impact	has	force
+spring breeze	has	freshness
+river delta	has	spread
+winter night	has	darkness
+sand castle	has	uniqueness
+metal rod end	has	strength
+autumn foliage	has	color
+foggy city	has	mistiness
+river rapids	has	speed
+piano note	has	sound
+steel wire mesh	has	flexibility
+snowflake pattern	has	uniqueness
+metal gear	has	complexity
+autumn forest	has	rustiness
+foggy highway	has	obscurity
+river estuary	has	mixing
+winter forest	has	quietness
+sand beach	has	softness
+steel plate	has	flatness
+tree bark	has	thickness
+wave break	has	power
+river flow	has	continuity
+rock formation	has	uniqueness
+winter lake	has	frostiness
+metal	has	durability
+pearl	has	lustrousness
+fiber	has	tensile strength
+gemstone	has	rarity
+steel wool	has	abrasive nature
+granite	has	weight
+ice cube	has	cooling effect
+wax	has	melting point
+marble statue	has	artistry
+silk fabric	has	luxurious feel
+marble floor	has	shine
+gemstone ring	has	symbolism
+ceramic mug	has	insulating properties
+foam mattress	has	comfort
+steel bridge	has	strength
+metal key	has	sharpness
+silk cloth	has	smoothness
+cotton yarn	has	softness
+honeycomb	has	structural strength
+marble sculpture	has	elegance
+foam board	has	lightness
+steel gate	has	security
+silk scarf	has	elegance
+ceramic vase	has	beauty
+concrete block	has	weight
+metal screw	has	tightness
+cotton rope	has	durability
+pearl necklace	has	beauty
+ceramic plate	has	impermeability
+marble quarry	has	resourcefulness
+sponge filter	has	effectiveness
+copper pipe	has	conductivity
+gemstone pendant	has	symbolism
+ceramic mug	has	warmth
+concrete slab	has	durability
+steel drum	has	loudness
+silk fabric	has	texture
+foam padding	has	comfort
+ceramic plate	has	smoothness
+copper wire	has	flexibility
+metal mesh	has	permeability
+honeycomb	has	intricate structure
+steel tube	has	strength
+ceramic cup	has	warmth
+marble bench	has	elegance
+glass ornament	has	beauty
+metal stamp	has	precision
+silk thread	has	thinness
+concrete mixer	has	efficiency
+foam cushion	has	comfort
+glass fiber	has	strength
+copper foil	has	conductivity
+ceramic figurine	has	delicacy
+marble column	has	grandeur
+steel rod	has	straightness
+glass jar	has	sealability
+metal coil	has	flexibility
+coal	has	carbon
+silk	has	luxuriousness
+quartz	has	fragility
+iron	has	flammability
+steel	has	resistance to rust
+copper	has	thermogenicity
+rock	has	density
+steel	has	resistance to deformation
+rubber	has	waterproofness
+wood	has	beauty
+granite	has	ruggedness
+velvet	has	smoothness
+wool	has	scratchiness
+nylon	has	stretchiness
+titanium	has	resistance
+plastic	has	transparency
+paper	has	colorlessness
+fabric	has	colorfulness
+wood	has	coarseness
+steel	has	lightweight
+diamond	has	cuttability
+fabric	has	style
+concrete	has	buildability
+iron	has	workability
+marble	has	aesthetic
+diamond	has	sparkle
+air	has	calmness
+silver	has	beauty
+stone	has	permanence
+wool	has	insulating
+stone	has	toughness
+air	has	emptiness
+earth	has	heaviness
+wave	has	fluidity
+fog	has	evasiveness
+oxygen	has	flammability
+fog	has	hazy appearance
+flame	has	warmth
+flame	has	illumination
+copper	has	elasticity
+silk	has	delicacy
+iron	has	magnetizability
+wood	has	decayability
+flame	has	intensity
+fog	has	moisture
+stone	has	timelessness
+iron	has	susceptibility
+rock	has	mass
+fog	has	dampness
+flame	has	radiance
+mercury	has	vaporizability
+earth	has	minerals
+ocean	has	waves
+earth	has	geysers
+river	has	erosion
+wood	has	growth
+wind	has	gusts
+fire	has	danger
+earth	has	earthquakes
+ocean	has	currents
+rock	has	layers
+earth	has	trenches
+silk	has	weave
+earth	has	fossils
+wind	has	chill
+metal	has	alloys
+wood	has	sap
+steel	has	polish
+ice	has	frost
+ocean	has	bioluminescence
+mountain	has	glaciers
+earth	has	plateaus
+wood	has	resin
+silk	has	fabric
+ice	has	crystallization
+wind	has	vortex
+ocean	has	tide
+mountain	has	ridges
+gold	has	jewelry
+earth	has	atmosphere
+fire	has	warmth
+ice	has	crystal
+river	has	confluence
+mountain	has	valleys
+gold	has	coins
+river	has	shoreline
+wind	has	storms
+earth	has	volcanoes
+steel	has	springiness
+mountain	has	fossils
+gold	has	nuggets
+ocean	has	saltwater
+river	has	sandbars
+metal	has	reactivity
+fiber	has	elasticity
+sponge	has	lightweight
+coal	has	flammability
+ceramic	has	strength
+oil	has	slipperiness
+plastic	has	recyclability
+fire	has	explosiveness
+foam	has	compressibility
+coal	has	burnability
+paper	has	sensitivity
+asphalt	has	durability
+glass	has	hardness
+concrete	has	compressibility
+cotton	has	strength
+asphalt	has	adhesion
+plastic	has	color
+copper wire	has	electrical conductivity
+asphalt	has	adhesiveness
+woolen	has	texture
+ceramic	has	porosity
+woolen cloth	has	warmth
+quartz crystal	has	transparency
+glass fiber	has	tensile strength
+steel alloy	has	resistance to corrosion
+metal rod	has	rigidity
+fabric thread	has	tensile strength
+copper sheet	has	ductility
+water vapor	has	humidity
+wood pulp	has	porosity
+ice cream	has	sweetness
+wool sweater	has	insulation
+gold foil	has	ductility
+gel	has	fluidity
+fabric fabric	has	smoothness
+soap scum	has	adhesiveness
+steel mesh	has	porosity
+sandstone	has	porosity
+metal filings	has	ductility
+metal wire	has	electrical conductivity
+woolen sock	has	warmth
+gold leaf	has	thinness
+gelatin capsule	has	strength
+foam board	has	buoyancy
+sugar syrup	has	sweetness
+metal plate	has	rigidity
+wood log	has	hardness
+steel pipe	has	corrosion resistance
+wool cloth	has	texture
+gold nugget	has	value
+wood fibers	has	porosity
+woolen yarn	has	texture
+concrete pillar	has	strength
+gold bar	has	value
+gel sheet	has	fluidity
+wool sweater set	has	warmth
+steel bracket	has	strength
+sand particles	has	coarseness
+wood stick	has	rigidity
+metal sheet	has	malleability
+soap bubble	has	fragility
+metal wire mesh	has	porosity
+concrete aggregate	has	density
+steel reinforcement	has	strength
+foam insulation	has	thermal insulation
+gold wire	has	electrical conductivity
+wood beam	has	strength
+metal strip	has	rigidity
+glass pane	has	transparency
+steel plate	has	corrosion resistance
+sugar cube	has	sweetness
+wool sock set	has	warmth
+coal	has	brittleness
+cotton	has	flammability
+plastic	has	plasticity
+leather	has	impermeability
+paper	has	weightlessness
+cotton	has	texture
+wood	has	insularity
+wood	has	impermeability
+honey	has	digestibility
+coal	has	blackness
+marble	has	fragility
+carbon	has	rigidity
+aluminum	has	malleability
+gold	has	liquidity
+water	has	clarity
+paper	has	erasability
+water	has	clearness
+diamond	has	high strength
+diamond	has	refractoriness
+glass	has	thermal resistance
+mercury	has	liquid density
+ice	has	cold temperature
+copper	has	oxidizability
+silver	has	corrosion resistance
+ice	has	solid state
+mercury	has	high toxicity
+ice	has	low conductivity
+copper	has	thermal conduction
+mercury	has	colorlessness
+copper	has	thermal resistance
+steel	has	high elasticity
+water	has	liquid state
+copper	has	versatility
+coal	has	impurity
+water	has	corrosiveness
+water	has	coldness
+water	has	flowability
+coal	has	pollution
+carbon	has	reactivity
+platinum	has	resistance
+oxygen	has	necessity
+air	has	thinness
+diamond	has	thermal conductivity
+air	has	weightlessness
+platinum	has	purity
+copper	has	solubility
+carbon	has	chemical reactivity
+platinum	has	chemical resistance
+iron	has	chemical reactivity
+steel	has	hardenability
+silver	has	thermal conductivity
+water	has	capillary action
+mercury	has	high pressure
+mercury	has	vaporization rate
+air	has	low viscosity
+sulfur	has	melting point
+diamond	has	density
+mercury	has	solubility
+sulfur	has	chemical reactivity
+ice	has	low specific heat capacity
+air	has	transparency
+forest	has	trees
+knife	has	danger
+guitar	has	rhythm
+hospital	has	medical care
+snow	has	chill
+diamond	has	luxury
+car	has	transportation
+perfume	has	appeal
+lake	has	relaxation
+hospital	has	help
+lake	has	scenic beauty
+river	has	flow rate
+car	has	performance
+perfume	has	allureness
+guitar	has	solo
+hospital	has	surgery
+lake	has	aquatic life
+piano	has	performance
+mountain	has	scenery
+car	has	fuel efficiency
+guitar	has	tone
+river	has	flow speed
+lake	has	depths
+mountain	has	climbability
+knife	has	sharp edge
+piano	has	music score
+lake	has	water level
+car	has	horsepower
+guitar	has	musicality
+lake	has	shoreline
+hospital	has	therapy
+perfume	has	allurement
+perfume	has	intoxicating
+mountain	has	peak
+knife	has	blade
+piano	has	composition
+river	has	turbulence
+wood	has	woodiness
+honey	has	nectariness
+coal	has	density
+cottonseed	has	oiliness
+metalworking	has	precision
+perfume oil	has	fragrance
+velvet	has	plushness
+metal alloys	has	strength
+marble sculpture	has	artistry
+iron alloy	has	durability
+saltwater	has	corrosiveness
+silk fabrics	has	luxury
+coffee beans	has	flavor
+paper towels	has	absorbency
+metal tools	has	sharpness
+wool yarn	has	knittability
+diamond cutting	has	precision
+coal mining	has	danger
+silver polish	has	reflectivity
+perfume sprays	has	aroma
+stone buildings	has	stability
+cottonseed oil	has	oiliness
+steel wire	has	tensile strength
+fabric dye	has	color
+soap bubbles	has	frothiness
+granite countertops	has	durability
+iron forging	has	skill
+metal stamping	has	precision
+diamond mining	has	danger
+saltwater pools	has	corrosiveness
+silk fabrics	has	breathability
+perfume oils	has	concentration
+steel alloys	has	strength
+granite quarrying	has	difficulty
+soap making	has	process
+clay pottery	has	handmade
+ironing	has	temperature
+fabric softener	has	gentleness
+perfume mixing	has	artistry
+aluminum foil	has	versatility
+diamond cutting	has	expertise
+sugar refining	has	process
+stone carvings	has	craftsmanship
+soap bars	has	cleanliness
+fabric weaving	has	patience
+metal casting	has	artistry
+cottonseed meal	has	nutty flavor
+granite countertops	has	resistance
+iron smelting	has	heat
+soap making	has	mixture
+perfume essences	has	fragrance
+silk embroidery	has	intricacy
+metal engraving	has	precision
+aluminum cans	has	recyclability
+cottonseed hulls	has	waste
+stone buildings	has	architectural
+lava	has	heat
+emerald	has	greenness
+grapefruit	has	sourness
+potato	has	earthiness
+clove	has	pungency
+cedarwood	has	scent
+eucalyptus	has	fragrance
+peppermint	has	coolness
+basil	has	freshness
+chamomile	has	calmingness
+valerian	has	sedativeness
+lavender	has	relaxation
+chamomile	has	sleepiness
+honeydew melon	has	sweetness
+pineapple	has	tartness
+papaya	has	muskiness
+strawberry	has	sweetness
+blueberry	has	tartness
+kiwi	has	tartness
+rhubarb	has	tartness
+peach	has	sweetness
+pear	has	sweetness
+apricot	has	sweetness
+quince	has	tartness
+cranberry	has	tartness
+blackcurrant	has	tartness
+plum	has	sweetness
+damson	has	tartness
+pomegranate	has	tartness
+cranberry	has	earthiness
+gooseberry	has	tartness
+raspberry	has	tartness
+currant	has	tartness
+elderberry	has	tartness
+sloe	has	bitterness
+gooseberry	has	sharpness
+blackberry	has	tartness
+persimmon	has	sweetness
+guava	has	sweetness
+pawpaw	has	muskiness
+mango	has	sweetness
+nectarine	has	sweetness
+fig	has	earthiness
+mulberry	has	sweetness
+pineapple	has	acidity
+strawberry	has	fragrance
+blackcurrant	has	earthiness
+blackberry	has	blackness
+elderberry	has	earthiness
+apricot	has	colorfulness
+lemon	has	yellowness
+orange	has	orangeness
+lime	has	greenness
+lime	has	acidity
+tangerine	has	fragrance
+clementine	has	sweetness
+pomegranate	has	redness
+cherry	has	fruitfulness
+kiwi	has	greenness
+peach	has	softness
+apricot	has	yellowness
+nectarine	has	smoothness
+orange	has	juiciness
+strawberry	has	redness
+orange	has	colorfulness
+pomegranate	has	juiciness
+cranberry	has	redness
+blackberry	has	earthiness
+metal	has	hardness
+steel wool	has	abrasiveness
+asphalt	has	oiliness
+brick	has	density
+steel rod	has	tensile strength
+watermelon	has	juiciness
+wool fabric	has	itchiness
+honeycomb	has	lightness
+wool yarn	has	softness
+watercolor	has	transparency
+fabric paint	has	colorfastness
+woodblock	has	density
+asphalt road	has	grip
+wool thread	has	fragility
+stone tile	has	hardness
+water filter	has	purity
+fabric weave	has	texture
+wood panel	has	durability
+stone monument	has	monumentality
+fabric glue	has	adhesiveness
+steel tool	has	sharpness
+sandpaper	has	grittiness
+steel mesh	has	strength
+fabric paintbrush	has	versatility
+charcoal pencil	has	sketchability
+stone carving	has	intricacy
+fabric embroidery	has	intricacy
+fabric texture	has	tactile quality
+fabric softener	has	cleanliness
+stone statue	has	grandeur
+wool carpet	has	comfort
+fabric dye	has	colorfastness
+wood furniture	has	durability
+silver ring	has	brilliance
+stone building	has	structural integrity
+fabric printing	has	uniqueness
+wool socks	has	warmth
+fabric patchwork	has	diversity
+stone road	has	durability
+wool felt	has	thickness
+fabric sewing	has	precision
+wood finish	has	glossiness
+steel saw	has	sharpness
+fabric weaving	has	skill
+wool fiber	has	elasticity
+fabric shrinkage	has	reduced size
+stone carving	has	craftsmanship
+fabric softness	has	smoothness
+wood polish	has	glossiness
+fabric pattern	has	design
+stone statue	has	beauty
+fabric ironing	has	crispness
+steel file	has	sharpness
+fabric repair	has	durability
+moon	has	luminescence
+honeycomb	has	structure
+vinegar	has	acidity
+woolen	has	softness
+silk threads	has	tensile strength
+water vapor	has	diffusivity
+copper wires	has	electrical conductivity
+steel sheets	has	strength
+honeycomb cells	has	hexagonal shape
+sponge cake	has	moistness
+woolen sweaters	has	warmth
+cotton threads	has	breathability
+coal deposits	has	potential energy
+copper pipes	has	corrosion resistance
+diamond cutting tools	has	precision
+steel drums	has	resonance
+sugar crystals	has	solubility
+wood panels	has	dimensional stability
+metal sheets	has	reflectivity
+copper wires	has	thermal conductivity
+coal mines	has	geologic significance
+sugar syrup	has	viscosity
+soap bars	has	cleansing power
+crystal clusters	has	geometric structure
+woolen fabric	has	drape
+marble statues	has	durability
+honeycomb hives	has	social organization
+sugar water	has	solubility
+stone carvings	has	aesthetic value
+woolen garments	has	warmth
+coal ash	has	pollution potential
+crystal balls	has	magnification
+sugar solution	has	sweetness
+woolen blankets	has	insulation
+steel pipes	has	corrosion resistance
+honey bees	has	social hierarchy
+stone walls	has	structural integrity
+marble columns	has	grandeur
+woolen socks	has	comfort
+sugar crystals	has	crystal structure
+copper foil	has	electrical conductivity
+coal mining	has	environmental impact
+woolen textiles	has	breathability
+metal detectors	has	sensitivity
+crystal chandeliers	has	elegance
+sugar cubes	has	sweetness
+woolen sweaters	has	layering
+steel tools	has	sharpness
+honeycomb cells	has	structural integrity
+woolen fabrics	has	softness
+copper wires	has	signal transmission
+coal deposits	has	geologic importance
+woolen garments	has	layering
+marble carvings	has	historical significance
+woolen hats	has	warmth
+sugar crystals	has	flavor
+copper plates	has	electrical conductivity
+woolen gloves	has	warmth
+stone structures	has	durability
+oxygen	has	reactivity
+marble	has	aesthetic value
+titanium	has	lightness
+ceramic	has	brittleness
+bronze	has	resistance to corrosion
+steel	has	high magnetic permeability
+glass	has	thermal insulation
+glass	has	thermal shock resistance
+silicon	has	thermal conductivity
+steel	has	wear resistance
+concrete	has	fire resistance
+lead	has	radioactivity
+carbon	has	porosity
+ceramic	has	transparency
+carbon	has	high surface area
+copper	has	chemical reactivity
+glass	has	chemical inertness
+carbon	has	low melting point
+diamond	has	chemical resistance
+steel	has	high thermal conductivity
+carbon	has	high energy density
+steel	has	high thermal expansion
+gold	has	electrical conductivity
+glass	has	uv resistance
+copper	has	high density
+carbon	has	high elasticity
+gold	has	high durability
+steel	has	chemical resistance
+diamond	has	optical clarity
+carbon	has	high compressibility
+glass	has	resistance to thermal shock
+steel	has	high density
+copper	has	high thermal shock resistance
+steel	has	high strength to weight ratio
+diamond	has	high melting point
+copper	has	resistance to high temperatures
+steel	has	high resistance to corrosion
+carbon	has	high abrasion resistance
+glass	has	high transparency
+glass	has	chemical resistance
+diamond	has	exceptional hardness
+carbon	has	resistance to corrosion
+steel	has	high compressive strength
+copper	has	thermal stability
+gold	has	high thermal conductivity
+silver	has	preciousness
+marble	has	porosity
+chocolate	has	meltability
+chocolate	has	palatability
+silver	has	fusibility
+rubber	has	stretchability
+steel	has	resistance to scratches
+gold	has	resistance to tarnishing
+marble	has	stability
+chocolate	has	treatability
+rain	has	nourishment
+goldfish	has	agility
+cherry	has	juiciness
+autumn	has	color
+cloud	has	gentleness
+maple	has	strength
+fog	has	mystery
+goldring	has	luxury
+peachtree	has	fruitfulness
+mountain lion	has	power
+pine	has	scent
+honeybee	has	busyness
+coral	has	color
+maple syrup	has	richness
+coffee bean	has	fragrance
+lavender oil	has	relaxation
+goldmine	has	wealth
+ocean wave	has	power
+steel bridge	has	sturdiness
+rainforest	has	biodiversity
+river delta	has	uniqueness
+mountain range	has	grandeur
+mountain stream	has	tranquility
+peaches	has	sweetness
+coffee cup	has	warmth
+silk fabric	has	softness
+goldenrod	has	color
+honey pot	has	sweetness
+pinecone	has	prickliness
+iron gate	has	security
+mountain meadow	has	serenity
+golden light	has	warmth
+forest glade	has	wildness
+peach blossom	has	beauty
+coffee shop	has	coziness
+silverware	has	elegance
+honey flavor	has	richness
+mountain peak	has	grandeur
+lake shore	has	calmness
+maple syrup can	has	convenience
+lavender field	has	fragrance
+peach pit	has	bitterness
+river rapids	has	turbulence
+mountain lodge	has	coziness
+golden honey	has	richness
+peach jam	has	sweetness
+steel plate	has	thickness
+river mouth	has	uniqueness
+mountain trail	has	ruggedness
+forest canopy	has	shade
+lavender tea	has	relaxation
+peach cobbler	has	taste
+coffee bean plant	has	productivity
+silver lining	has	hope
+honeycomb hive	has	organization
+river estuary	has	uniqueness
+mountain vista	has	breathtakingness
+gold dust	has	value
+forest ecosystem	has	interconnectedness
+lavender essential oil	has	benefits
+piano	has	durability
+computer	has	processability
+violin	has	sonority
+piano	has	tunability
+rose	has	delicacy
+stone	has	longevity
+book	has	comprehensiveness
+gold	has	worth
+fog	has	airiness
+book	has	historicity
+sunflower	has	warmth
+perfume	has	captivation
+piano	has	sensitivity
+fog	has	veiliness
+guitar	has	simplicity
+book	has	informativeness
+book	has	readability
+diamond	has	excellence
+lake	has	quietness
+apple	has	sweetness
+mountain	has	grandiosity
+coffee	has	strength
+book	has	accuracy
+fog	has	obscurantness
+violin	has	agility
+sunflower	has	vibrancy
+mountain	has	elevation
+apple	has	edibility
+book	has	authenticity
+stone	has	coarseness
+lake	has	vastness
+book	has	relevance
+sunflower	has	happiness
+perfume	has	distinctness
+piano	has	sophistication
+coffee beans	has	bitterness
+perfume bottle	has	fragrance
+salt	has	savoriness
+butter	has	creaminess
+cheese	has	flavor
+iron ore	has	hardness
+coal mine	has	darkness
+honeycomb	has	sweetness
+chocolate cake	has	richness
+coffee creamer	has	bitterness
+sugar substitute	has	sweetness
+diamond ring	has	brilliance
+marble statue	has	smoothness
+hot pepper	has	spiciness
+coffee grinder	has	bitterness
+salt shaker	has	savoriness
+silk shirt	has	smoothness
+crystal glass	has	clarity
+soap bubble	has	cleanliness
+iron rod	has	hardness
+stone wall	has	heaviness
+chocolate chip	has	richness
+rose petal	has	fragrance
+iron nail	has	hardness
+diamond necklace	has	brilliance
+honeycomb cells	has	sweetness
+coffee mug	has	bitterness
+sandstone	has	texture
+crystal vase	has	clarity
+hot sauce	has	spiciness
+coffee cream	has	richness
+saltwater	has	salinity
+diamond stud	has	brilliance
+granite counter	has	durability
+soap dish	has	cleanliness
+iron filings	has	magnetism
+rose quartz	has	transparency
+marble floor	has	smoothness
+salt lick	has	savoriness
+coffee roaster	has	bitterness
+sugar free	has	sweetness
+hot coals	has	heat
+diamond earring	has	brilliance
+soap dispenser	has	cleanliness
+crystal chandelier	has	clarity
+iron pipe	has	hardness
+granite rock	has	durability
+perfume box	has	fragrance
+copper wire mesh	has	conductivity
+rose essence	has	fragrance
+salted peanuts	has	savoriness
+diamond band	has	brilliance
+metal beam	has	strength
+granite slab	has	durability
+perfume atomizer refill	has	fragrance
+hot cocoa	has	richness
+iron skillet	has	hardness
+crystal glass table	has	clarity
+diamond solitaire	has	brilliance
+sugar substitute powder	has	sweetness
+sand	has	scratchability
+water	has	transparency
+soap	has	soapiness
+steel wool	has	roughness
+sponges	have	absorbency
+silk threads	have	fineness
+beeswax	has	smoothness
+ice cubes	have	coldness
+neodymium	has	magnetism
+diamonds	have	brilliance
+silver foil	has	thinness
+paper	has	paperity
+mercury thermometer	has	precision
+glass vial	has	fragility
+sugar crystals	have	sweetness
+diamond necklace	has	luxury
+glass bead	has	smallness
+quartz crystal glass	has	clarity
+leather book cover	has	durability
+iron rod	has	ferromagnetism
+honeycomb	has	honey
+carbon fiber bike	has	lightness
+quartz crystal pendant	has	clarity
+steel pipe fitting	has	precision
+gold watch	has	luxury
+quartz crystal oscillator	has	precision
+iron filings	has	ferromagnetism
+quartz crystal radio	has	precision
+honeycomb cells	have	cellularity
+leather wallet	has	durability
+steel tool	has	strength
+carbon fiber rod	has	strength
+steel gear	has	precision
+sapphire gemstone	has	hardness
+wool thread	has	fineness
+steel chain	has	strength
+quartz crystal resonator	has	precision
+leather saddle	has	durability
+iron wire	has	ferromagnetism
+glass lens	has	focusability
+quartz crystal filter	has	precision
+honeycomb frame	has	durability
+steel cable	has	strength
+leather strap	has	durability
+copper wire coat hanger	has	conductivity
+steel rod pipe	has	precision
+quartz crystal resonator array	has	precision
+wool fiber	has	softness
+diamond engagement ring	has	luxury
+piano	has	noise
+lavender	has	soothing
+piano	has	clarity
+lavender	has	peacefulness
+piano	has	expression
+leather	has	ruggedness
+lavender	has	tranquility
+diamond	has	cutability
+lavender	has	freshness
+honey	has	energy
+rose	has	allure
+water	has	quenching
+lavender	has	sophistication
+water	has	refreshment
+honey	has	culinary
+honey	has	medicinal
+lavender	has	floral
+lavender	has	therapeutic
+water	has	purification
+honey	has	healthfulness
+water	has	invigoration
+steel	has	sustainability
+perfume	has	seductive
+honey	has	naturalness
+honey	has	wholesomeness
+lavender	has	peaceful
+water	has	hydration
+lavender	has	aroma
+honey	has	delicacy
+honey	has	delicateness
+lavender	has	serenity
+star	has	twinkle
+flower	has	vibrancy
+sunflower	has	tallness
+butterfly	has	colorfulness
+city	has	energy
+computer	has	efficiency
+book	has	storytelling
+mirror	has	accuracy
+crystal	has	elegance
+butterfly	has	flight
+computer	has	processing
+city	has	diversity
+rose	has	elegance
+cat	has	curiosity
+flower	has	symbolism
+sun	has	grandeur
+ocean	has	majesty
+butterfly	has	metamorphosis
+mirror	has	honesty
+snow	has	delicacy
+computer	has	intelligence
+book	has	inspiration
+city	has	growth
+cat	has	mischievousness
+snowflake	has	beauty
+butterfly	has	resilience
+piano	has	artistry
+book	has	adventure
+city	has	vibrancy
+rose	has	nostalgia
+mirror	has	truthfulness
+flower	has	hope
+river	has	refreshment
+piano	has	lyricism
+cat	has	quickness
+computer	has	versatility
+city	has	complexity
+river	has	journey
+diamond	has	cuteness
+piano	has	soothing
+snow	has	cover
+computer	has	power
+book	has	education
+city	has	activity
+cat	has	adaptability
+snowflake	has	smallness
+ocean	contains	fish
+bird	has	feathers
+train	has	rails
+dog	has	teeth
+piano	has	harmonies
+train	has	tracks
+guitar	has	chords
+river	has	shores
+train	has	wagons
+river	has	aquatic life
+table	has	surface area
+train	has	freight
+music	has	beats
+piano	has	volume
+book	has	content
+train	has	signals
+music	has	tempo
+river	has	volume
+chair	has	ergonomics
+river	has	currents speed
+piano	has	pitch
+car	has	engine power
+music	has	lyrics
+book	has	editor
+chair	has	portability
+house	has	architecture
+guitar	has	resonator
+river	has	biodiversity
+piano	has	frequency
+train	has	cargo capacity
+guitar	has	strings tension
+river	has	fluidity
+ice	has	slipperyness
+coffee	has	robustness
+river	has	fluid motion
+thunderstorm	has	ferocity
+river	has	adaptability
+fog	has	mysteriousness
+lavender	has	elegance
+rose	has	romanticism
+perfume	has	euphoria
+gold	has	versatility
+coffee	has	stimulation
+rain	has	refreshingness
+river	has	constant flow
+mountain	has	rugged terrain
+fog	has	diffuseness
+coffee	has	rich aroma
+lake	has	clearness
+rain	has	patter
+sugar	has	edible quality
+ice	has	clarity of form
+honey	has	golden color
+fog	has	mysterious quality
+lavender	has	soothing effect
+coffee	has	invigoration
+lake	has	reflection
+diamond	has	cuttable quality
+honey	has	medicinal uses
+guitar	has	clarity
+sun	has	energy
+rainbow	has	beauty
+diamond	has	fire
+sun	has	light
+coffee	has	richness
+gemstone	has	uniqueness
+rainbow	has	diversity
+sun	has	power
+guitar	has	expression
+coffee	has	energization
+silk	has	comfort
+piano	has	acoustic
+coffee	has	antioxidant
+ocean	has	tides
+coffee	has	digestion
+sun	has	solar
+book	has	storage
+rainbow	has	colorfulness
+sugar	has	energy
+ocean	has	current
+crystal	has	prismatic
+wood	has	structure
+book	has	guidance
+coffee	has	warmth
+iron	has	resilience
+earth	has	density
+helium	has	lightness
+gold foil	has	thinness
+silk fabric	has	elegance
+lead shot	has	compactness
+carbon fiber	has	lightness
+iron oxide	has	pigment
+steel alloy	has	toughness
+ceramic	has	durability
+fiber optic	has	clarity
+quartz crystal	has	accuracy
+gold chain	has	value
+bronze sculpture	has	elegance
+copper wire mesh	has	strength
+glass fiber	has	lightness
+iron rod	has	stiffness
+glass prism	has	dispersion
+steel building	has	stability
+copper pipe joint	has	strength
+iron filings	has	powderiness
+gold dental	has	value
+titanium dioxide	has	whiteness
+copper foil	has	thinness
+lead paint	has	toxicity
+steel hammer	has	solidity
+silver nitrate	has	solubility
+iron ore	has	density
+glass container	has	impermeability
+steel drill	has	power
+quartz crystal oscillator	has	accuracy
+gold earring	has	luxury
+copper wire coil	has	inductance
+ceramic heater	has	efficiency
+steel nail	has	strength
+glass windowpane	has	transparency
+iron pipe	has	durability
+gold leafing	has	thinness
+steel rod	has	stiffness
+glass microscope slide	has	flatness
+zinc alloy	has	strength
+steel screw	has	torque
+quartz crystal clock	has	accuracy
+iron rod beam	has	strength
+glass lens	has	magnification
+steel rivet	has	strength
+gold foil wrapping	has	thinness
+glass screen	has	resolution
+copper busbar	has	conductivity
+tree	has	stability
+snake	has	agility
+pencil lead	has	softness
+chalkboard	has	permanence
+copper	has	heat conduction
+sponge mop	has	absorbency
+sponge eraser	has	effectiveness
+marble countertop	has	smoothness
+metal wire	has	flexibility
+cotton ball	has	fluffiness
+paintbrush	has	texture
+sponge scrub	has	effectiveness
+wool yarn	has	knittedness
+sponge filter	has	porosity
+ceramic tile	has	durability
+sugar jar	has	airtightness
+paper clip	has	tensile strength
+glass vase	has	elegance
+sponge dish	has	absorbency
+metal spoon	has	heat conduction
+crystal vase	has	transparency
+sponge pad	has	softness
+metal chain	has	durability
+cotton string	has	tensile strength
+sugar crystal	has	sweetness
+metal ring	has	corrosion resistance
+crystal chandelier	has	sparkle
+sponge eraser sponge	has	effectiveness
+metal nut	has	strength
+sponge roller	has	smoothness
+sugar powder	has	dustiness
+stone monument	has	durability
+crystal prism	has	refraction
+metal ball	has	roundness
+cotton yarn	has	knittedness
+sponge toothbrush	has	effectiveness
+earth	has	ruggedness
+linen	has	breathability
+salt	has	seasonings
+steel wool	has	sharpness
+steel screw	has	tightness
+copper wire	has	conductibility
+pearl	has	beauty
+woolen sweater	has	warmth
+wool yarn	has	twistiness
+steel bar	has	hardness
+pearl necklace	has	elegance
+copper sheet	has	malleability
+sugar powder	has	dryness
+silk embroidery	has	delicacy
+woolen hat	has	warmth
+cotton cloth	has	softness
+steel bolt	has	tightness
+copper plate	has	malleability
+woolen mitten	has	warmth
+pearl earring	has	beauty
+sugar cube	has	dryness
+copper foil	has	malleability
+woolen glove	has	warmth
+diamond ring setting	has	luxury
+pearl necklace chain	has	elegance
+steel nut	has	tightness
+sugar crystals	has	dryness
+woolen sock boot	has	warmth
+pearl stud	has	beauty
+copper mesh	has	malleability
+steel fastener	has	strength
+woolen sweater jacket	has	warmth
+pearl brooch	has	beauty
+woolen hat and scarf	has	warmth
+pearl pendant	has	elegance
+sugar glaze	has	dryness
+woolen cardigan	has	warmth
+diamond tennis bracelet	has	luxury
+pearl earrings	has	beauty
+sugar syrup can	has	sweetness
+woolen jacket	has	warmth
+woolen mittens	has	warmth
+steel plate	has	hardness
+fabric	has	smoothness
+velvet	has	luxuriousness
+gelatin	has	softness
+asphalt	has	stickiness
+felt	has	softness
+carbon	has	blackness
+sugar cookie	has	crunchiness
+watercolor	has	translucency
+glass fiber	has	transparency
+leather belt	has	suppleness
+fabric softener	has	freshness
+wooden spoon	has	texture
+honeycomb	has	airiness
+metallic foil	has	reflectivity
+charcoal	has	darkness
+paperclip	has	thinness
+iron rod	has	strength
+silk ribbon	has	elegance
+woodblock	has	heaviness
+sponge holder	has	absorbency
+fabric paint	has	colorfulness
+fabric dye	has	vibrancy
+glass bead	has	transparency
+silk blouse	has	smoothness
+ironing board	has	flatness
+marble statue	has	elegance
+wooden chair	has	sturdiness
+ceramic mug	has	fragility
+cotton thread	has	breathability
+carbon fiber	has	lightweightness
+granite floor	has	toughness
+fabric softener sheet	has	freshness
+ceramic vase	has	fragility
+felt hat	has	warmth
+iron horseshoe	has	strength
+marble statue base	has	sturdiness
+fabric patch	has	repairability
+ceramic table	has	durability
+woodblock print	has	texture
+gold leaf	has	luxury
+copper pipe fitting	has	malleability
+leather shoe	has	comfort
+granite curb	has	toughness
+flowers	have	fragrance
+diamonds	have	hardness
+candles	have	fragrance
+snow	has	chillness
+diamonds	have	sparkle
+mirrors	have	reflectivity
+fireworks	have	loudness
+feathers	have	lightness
+snowflakes	have	uniqueness
+rocks	have	durability
+ice cubes	have	chillness
+pencils	have	sharpness
+rocks	have	weight
+crystals	have	clarity
+bubbles	have	buoyancy
+chocolate	has	taste
+icebergs	have	size
+candles	have	warmth
+stones	have	texture
+balloons	have	inflation
+stones	have	density
+feathers	have	insulation
+ice skates	have	smoothness
+flowers	have	attractiveness
+mirrors	have	distortion
+rocks	have	erosion
+balloons	have	elasticity
+stones	have	magnetism
+paper	has	reusability
+perfume	has	expiration
+flowers	have	scent
+rocks	have	geological significance
+stones	have	weight
+honey	has	preservative properties
+balloons	have	volume
+flowers	have	color
+gold	has	conductibility
+stones	have	mineral composition
+candles	have	ambiance
+feathers	have	softness
+honey	has	medicinal use
+balloons	have	airiness
+stones	have	size
+mirrors	have	reflection
+rocks	have	geological importance
+icebergs	have	mass
+rocks	have	solidity
+fire	has	combustibility
+mercury	has	evaporation
+earth	has	tectonic activity
+fire	has	intensity
+coal	has	calorific value
+wood	has	combustive properties
+earth	has	geographical features
+iron	has	resistance to corrosion
+coal	has	energy output
+metal	has	thermal conductivity
+coal	has	ignitability
+earth	has	biodiversity
+wood	has	timber value
+coal	has	combustive properties
+porcelain	has	whiteness
+bronze	has	ductility
+linen	has	coolness
+paper	has	lightfastness
+eucalyptus	has	decongestant properties
+honeycomb	has	honey production
+lavender	has	calming effects
+coffee beans	has	coffee production
+cotton balls	has	absorbency
+paper	has	written content
+mint leaves	has	flavor
+eucalyptus oil	has	medical properties
+silk threads	has	strength
+ceramic	has	fire resistance
+perfume oils	has	fragrance
+chocolate cake	has	deliciousness
+garlic bread	has	flavor
+cinnamon sugar	has	taste
+lemon zest	has	flavor
+lavender flowers	has	fragrance
+eucalyptus plant	has	healing properties
+copper pipes	has	durability
+marble sculpture	has	aesthetic value
+coffee beans roast	has	flavor
+lavender sachet	has	fragrance
+ceramic mug	has	durability
+eucalyptus essential oil	has	decongestant properties
+honeycomb frame	has	beekeeping
+salt shaker	has	seasoning
+pepper mill	has	spiciness
+chocolate chips	has	sweetness
+copper wire rope	has	durability
+lavender sachet bag	has	calming effects
+eucalyptus shower	has	relaxation
+steel pipes	has	strength
+coffee filter	has	coffee production
+marble mosaic	has	aesthetic value
+honeycomb honey	has	food production
+cinnamon stick	has	warmth
+lavender potpourri	has	fragrance
+eucalyptus oil diffuser	has	aromatherapy
+gold wire	has	conductivity
+sugar crystals	has	sweetness
+pepper grinder	has	spiciness
+copper wire mesh	has	durability
+granite table	has	durability
+lavender bath salts	has	relaxation
+eucalyptus plant pot	has	healing properties
+steel tool	has	durability
+marble floor	has	beauty
+coffee maker	has	coffee production
+honeycomb hive	has	beekeeping
+cinnamon powder	has	flavor
+lavender tea	has	calming effects
+eucalyptus oil lamp	has	light
+gold pendant	has	luxury
+diamond	has	fireproofness
+lava	has	moltenness
+sponge	has	lightness
+silver	has	affordability
+brick	has	insulating properties
+salt	has	water solubility
+gold	has	conductive properties
+iron	has	reusability
+metal	has	magnetic properties
+cotton	has	biodegradability
+sponge	has	lightweight properties
+metal	has	high strength
+fabric	has	lightweight properties
+wood	has	resistance to weather
+salt	has	solubility in water
+iron	has	high tensile strength
+silver	has	high reflectivity
+sponge	has	buoy
+cream	has	creaminess
+soil	has	productivity
+grass	has	lushness
+sunset	has	serenity
+mist	has	coolness
+fog	has	chilliness
+breeze	has	refreshment
+mist	has	eeriness
+dew	has	freshness
+fog	has	hush
+mist	has	otherworldliness
+dew	has	sparkling
+smoke	has	haziness
+steam	has	steaminess
+waterfall	has	music
+seashell	has	fragility
+shell	has	protection
+driftwood	has	weathering
+kelp	has	sliminess
+fish	has	swiftness
+shark	has	ferocity
+whale	has	enormity
+squid	has	cunning
+crab	has	sideways movement
+butterfly	has	delicate flight
+bee	has	busyness
+hummingbird	has	speed
+ant	has	perseverance
+snake	has	slithery movement
+deer	has	agility
+fox	has	cunning
+horse	has	strength
+giraffe	has	longness
+elephant	has	memory
+eagle	has	sharpness
+bear	has	ferocity
+wolf	has	savageness
+rabbit	has	speed
+squirrel	has	agility
+mouse	has	stealth
+lion	has	bravery
+rhinoceros	has	toughness
+kangaroo	has	jumping
+zebra	has	stripes
+hyena	has	laughter
+crocodile	has	ferocity
+hippopotamus	has	size
+hippopotamus	has	aggression
+hippopotamus	has	strength
+owl	has	wisdom
+foxglove	has	poisonousness
+foxglove	has	danger
+nightshade	has	danger
+death cap	has	toxicity
+poison ivy	has	irritation
+poison oak	has	pain
+earth	has	firmness
+steel	has	resilience
+rope	has	tensile strength
+sponge cake	has	lightness
+sand	has	sharpness
+felt	has	warmth
+honeybee	has	industriousness
+watercolour	has	translucency
+granite stone	has	strength
+sponge sponge	has	porosity
+steel rod	has	rigidity
+silver dollar	has	value
+honey jar	has	airtightness
+silk thread	has	fineness
+diamond ring	has	sparkle
+sponge filter	has	efficiency
+silver polish	has	shine
+steel cable	has	tensile strength
+sponge cake slice	has	moistness
+ceramic plate	has	fragility
+silver spoon	has	conductance
+rubber tire	has	traction
+honey syrup	has	sweetness
+silver chain	has	strength
+steel wire mesh	has	tensile strength
+rubber boot	has	water resistance
+sand grain	has	sharpness
+granite wall	has	strength
+sponge squeegee	has	effectiveness
+silver alloy	has	malleability
+copper wire gauge	has	conductivity
+sandcastle	has	impermanence
+sponge eraser	has	abrasiveness
+rubber seal	has	elasticity
+leather wallet chain	has	strength
+honeycomb structure	has	complexity
+steel rod thread	has	tensile strength
+glass	has	recyclability
+wool	has	lightness
+sugar	has	taste
+paper	has	strength
+gold	has	aesthetic appeal
+sugar	has	energy content
+mercury	has	evaporation rate
+paper	has	weight
+gold	has	strength
+gold	has	whiteness
+eagle	has	majesty
+opera	has	grandeur
+tiger	has	power
+guitar	has	warmth
+violin	has	intimacy
+piano	has	nuance
+tiger	has	bravery
+guitar	has	emotion
+piano	has	technique
+eagle	has	freedom
+cat	has	grace
+tiger	has	strength
+tiger	has	dominance
+silver	has	corrosion
+eagle	has	courage
+cat	has	hunting
+tiger	has	sharpness
+violin	has	harmony
+rose	has	petal
+eagle	has	wingspan
+goldfish	has	scales
+tiger	has	roar
+violin	has	bow
+tiger	has	agility
+silver	has	tarnish
+eagle	has	vision
+rose	has	thorn
+violin	has	strings
+eagle	has	flight
+cat	has	meow
+marble	has	whiteness
+perfume	has	strong scent
+fiber	has	flexibility
+asphalt	has	blackness
+granite	has	coarseness
+brick	has	fire resistance
+concrete	has	tensile strength
+rubber	has	thermal insulation
+quartz	has	scratch resistance
+bronze	has	corrosion resistance
+glass	has	tensile strength
+steel	has	compressive strength
+glass	has	durability
+air	has	diffusion
+leather	has	elasticity
+air	has	viscosity
+rock	has	firmness
+silk	has	transparency
+air	has	humidity
+silver	has	fluidity
+helium	has	expansion
+iron	has	brittleness
+helium	has	flammability
+soap	has	lathering
+candle	has	illumination
+wine	has	intoxication
+gasoline	has	volatility
+bronze	has	resistance
+salt	has	seasonality
+sugar	has	edibleness
+quartz	has	resistance
+water	has	purifying
+acid	has	potency
+ice	has	melting
+sugar	has	dissolving
+gold	has	cost
+coffee	has	stimulancy
+salt	has	dehydrating
+steel	has	sharpening
+gold	has	portability
+water	has	cooling
+acid	has	toxicity
+soap	has	smoothness
+steel	has	cuttability
+acid	has	corrosivity
+ice	has	freezing
+salt	has	iodine
+sugar	has	melting
+acid	has	acidity
+gelatin	has	flexibility
+nylon	has	elasticity
+sulfur	has	combustibility
+calcium	has	solubility
+lead	has	toxicness
+air	has	cleanliness
+nylon	has	tear resistance
+bronze	has	conductivity
+air	has	dryness
+water	has	coolingness
+carbon	has	strength
+leather	has	moisture absorption
+carbon	has	lubricity
+gold	has	resistance
+guitar	has	sonance
+cactus	has	thorniness
+cello	has	sonance
+piano	has	instrumentality
+cactus	has	prickliness
+cello	has	melancholy
+fog	has	ambiguity
+wood	has	imperfection
+marble	has	timelessness
+firework	has	colorfulness
+cactus	has	defensiveness
+steel	has	sturdiness
+sugar	has	satisfaction
+cello	has	elegance
+gold	has	richness
+cactus	has	protection
+marble	has	grandiosity
+piano	has	soundness
+gold	has	magnificence
+crystal	has	refrangibility
+piano	has	expressivity
+marble	has	monumentality
+firework	has	brightness
+marble	has	stoniness
+cactus	has	sharpness
+crystal	has	refractive index
+ceramic	has	resistance to scratches
+rubber	has	waterproofing
+crystal	has	sparkle
+ceramic	has	resistance to heat
+wool	has	crumbliness
+paper	has	whiteness
+stone	has	weightlessness
+rubber	has	stickiness
+copper	has	magnetism
+stone	has	smoothness
+wool	has	density
+steel	has	resistance to impact
+gold	has	resistance to acid
+rubber	has	impermeability
+iron	has	resistance to pressure
+metal	is	hard
+air	is	invisible
+sand	is	coarse
+wood	is	fibrous
+oil	is	viscous
+rock	is	rigid
+mercury	is	liquid
+marble	is	smooth
+wind	has	velocity
+silk	is	smooth
+blood	has	color
+silver	is	conductive
+iron	is	strong
+honeybee	has	stinger
+quartz	is	brittle
+copper	is	conductive
+paper	is	lightweight
+lead	is	heavy
+metal rod	is	rigid
+rock formation	has	strength
+human	has	intelligence
+grass	has	photosynthesis
+tree trunk	has	girth
+gold bar	is	valuable
+sponge	is	absorbent
+iron ore	is	mineral
+clay	is	moldable
+silk fabric	is	smooth
+marble statue	is	beautiful
+metal plate	is	thin
+granite	is	tough
+iron wire	is	flexible
+water bubble	is	transparent
+coffee bean	has	flavor
+sandalwood	has	fragrance
+fish	has	scales
+tree root	has	depth
+marble block	is	massive
+copper wire	is	conductive
+tree seed	has	potential
+paper clip	is	lightweight
+iron nail	is	sharp
+ocean wave	has	movement
+gold ring	is	valuable
+tree stump	has	history
+silk thread	is	thin
+iron horseshoe	is	strong
+honeycomb cell	has	honey
+granite boulder	is	massive
+stone wall	is	sturdy
+silver coin	is	valuable
+iron gate	is	strong
+tree leaf	has	photosynthesis
+gold barbell	is	valuable
+honey bee hive	has	industry
+rock slope	has	steepness
+tree flower	has	fragrance
+metal gear	is	moving
+iron pipe	is	durable
+stone monument	has	significance
+human eye	has	vision
+honeycomb frame	has	structure
+iron chain	is	heavy
+tree bark	has	protection
+granite countertop	is	durable
+gold pendant	is	valuable
+iron handle	is	durable
+tree pollen	has	allergens
+iron pipe fitting	is	adjustable
+gold earring	is	valuable
+tree branch	has	strength
+iron nail file	is	sharp
+rock outcrop	has	visibility
+honeycomb	has	honeycomb structure
+goldfish	has	fineness
+steel guitar	has	resonance
+perfume bottle	has	beauty
+ice block	has	coldness
+diamond ring	has	value
+steel rod	has	durability
+silver pendant	has	shine
+wooden spoon	has	warmth
+honeycomb hive	has	honeycomb structure
+bronze statue	has	durability
+soap bubble	has	translucency
+silver ring	has	value
+perfume diffuser	has	fragrance
+diamond necklace	has	beauty
+honey jar	has	stickiness
+silver spoon	has	shine
+marble floor	has	elegance
+bronze plaque	has	durability
+silver necklace	has	value
+perfume spray bottle	has	beauty
+honeycomb bees	has	honeycomb structure
+steel rod rack	has	strength
+wooden table	has	warmth
+ice skating rink	has	coldness
+bronze bell	has	sound
+silver plate	has	shine
+iron fence	has	strength
+marble column	has	elegance
+steel beam	has	durability
+honeycomb comb	has	honeycomb structure
+steel pipe fitting	has	strength
+perfume vial	has	fragrance
+steel cable car	has	strength
+silver coin	has	value
+perfume fragrance	has	smell
+marble fountain	has	elegance
+ice rink	has	coldness
+bronze door	has	strength
+crystal glass vase	has	clarity
+silver ring	has	shine
+marble table	has	elegance
+wooden ladder	has	sturdiness
+bronze gate	has	durability
+ice pack	has	coldness
+silver vase	has	elegance
+crystal wine glass	has	transparency
+wooden coat rack	has	warmth
+ice cream	has	smoothness
+milk	has	nourishment
+clay	has	porosity
+fire	has	energy
+perfume	has	potability
+lavender	has	relaxation properties
+ice	has	cold compress properties
+rock	has	geological significance
+water	has	circulation
+ice cream	has	calorie content
+salt	has	seasonability
+wood	has	timber quality
+perfume	has	therapeutic properties
+rock	has	composition
+rock	has	fossil record
+lavender	has	medicinal properties
+coffee	has	stimulability
+rock	has	weathering resistance
+lavender	has	color
+dog	has	bark
+bird	has	wings
+bike	has	tires
+pencil	has	tip
+boat	has	sails
+apple	has	seeds
+key	has	hole
+window	has	glass
+shoe	has	sole
+dog	has	tail
+flower	has	roots
+mountain	has	slope
+flower	has	stem
+boat	has	anchor
+cat	has	ears
+phone	has	dial
+bike	has	chainring
+chair	has	arm
+car	has	doors
+piano	has	hammers
+boat	has	rudder
+phone	has	sim card
+dog	has	nose
+train	has	brakes
+guitar	has	pickguard
+bike	has	chainstay
+flower	has	pollen
+piano	has	music box
+car	has	spoiler
+guitar	has	tuning pegs
+dog	has	whiskers
+chair	has	casters
+lake	has	waves
+flower	has	seeds
+honeycomb	has	texture
+coffee bean	has	earthy smell
+diamond necklace	has	elegance
+violin	has	tonality
+piano	has	depth
+drum	has	impact
+drum	has	dynamics
+book	has	insight
+book	has	understanding
+flower	has	attractiveness
+flower	has	life
+car	has	comfort
+car	has	style
+car	has	power
+car	has	luxury
+plane	has	speed
+plane	has	altitude
+plane	has	comfort
+plane	has	safety
+computer	has	precision
+bike	has	portability
+bike	has	comfort
+bike	has	exercise
+bike	has	fun
+bike	has	adventure
+pencil	has	durability
+pencil	has	convenience
+pencil	has	precision
+pencil	has	accuracy
+phone	has	portability
+phone	has	convenience
+phone	has	accessibility
+phone	has	functionality
+tv	has	entertainment
+tv	has	education
+tv	has	information
+tv	has	relaxation
+tv	has	distraction
+table	has	stability
+table	has	durability
+table	has	comfort
+table	has	functionality
+table	has	style
+table	has	versatility
+bed	has	comfort
+bed	has	rest
+bed	has	relaxation
+bed	has	sleep
+bed	has	coziness
+chair	has	style
+chair	has	functionality
+pen	has	writing quality
+pen	has	convenience
+pen	has	precision
+pen	has	durability
+pen	has	accuracy
+wood	has	brittleness
+stone	has	absorbency
+gold	has	workability
+goldfish	have	smallness
+rainbows	have	colorfulness
+ivory	has	whiteness
+silk threads	have	thinness
+pearls	have	luminosity
+rose quartz	has	rose color
+waterfalls	have	musicalness
+silver foil	has	malleability
+woolen sweaters	have	warmth
+sandstone	has	coarseness
+bronze statues	have	durability
+sapphires	have	hardness
+perfume bottles	have	elegance
+moonstone	has	glow
+gold coins	have	value
+sugar crystals	have	crystallinity
+water lilies	have	fragrance
+ivory tusks	have	strength
+rubies	have	colorfulness
+diamonds	have	value
+wool fibers	have	flexibility
+copper wires	have	conductivity
+pearl necklaces	have	beauty
+bronze sculptures	have	durability
+silver filigree	has	intricacy
+crystal chandeliers	have	elegance
+iron tools	have	sharpness
+rose petals	have	fragrance
+woolen blankets	have	warmth
+coral	has	colorfulness
+waterfalls	have	power
+stainless steel	has	strength
+sapphires	have	rarity
+glass vases	have	fragility
+gold jewelry	have	luxury
+copper pipes	have	malleability
+pearls	have	luster
+bronze coins	have	durability
+wool fibers	have	warmth
+diamonds	have	fire
+silver filigree	has	thinness
+gold bars	have	value
+copper wires	have	electrical conductivity
+coral reefs	have	complexity
+quartz crystals	have	sharpness
+stainless steel	has	durability
+iron beams	have	strength
+gold coins	have	collectibility
+goldsmithing	has	artistry
+pearls	have	beauty
+rubies	have	rarity
+iron tools	have	longevity
+coral	has	texture
+marble statues	have	elegance
+woolen scarves	have	warmth
+bronze alloys	have	strength
+crystal glasses	have	transparency
+wool fibers	have	softness
+coral reefs	have	biodiversity
+steel pipes	have	strength
+gold nuggets	have	value
+coral	has	shape
+olive oil	has	smoothness
+marble	has	polish
+honeybee	has	socialness
+diamond ring	has	elegance
+steel knife	has	sharpness
+honey	has	medicinalness
+silk fabric	has	luxury
+quartz crystal	has	piezoelectricity
+leather belt	has	flexibility
+lavender essential oil	has	therapeuticness
+steel wire	has	malleability
+wood furniture	has	warmth
+honeycomb	has	social structure
+lavender	has	flowers
+perfume bottle	has	elegance
+honey	has	calories
+wool	has	fibers
+granite	has	texture
+honeybee	has	colony
+lavender oil	has	therapeutic properties
+honeycomb	has	honey production rate
+perfume bottle	has	shape
+honey	has	nectar
+granite	has	compressive strength
+wood	has	knot
+candle	has	smell
+iron	has	melting point
+honeycomb	has	honeycomb cells
+perfume	has	concentration
+wood	has	color
+stone	has	massiveness
+honey	has	palatability
+soap	has	foamability
+leather	has	texture
+mercury	has	buoyancy
+stone	has	agelessness
+wood	has	scent
+water	has	freshness
+marble	has	intricacy
+copper	has	fluidity
+water	has	moisture
+sand	has	grain
+sapphire	has	clarity
+silver	has	conducitivity
+candle	has	soot
+tea	has	warmth
+moon	has	illumination
+sapphire	has	beauty
+chocolate	has	calorie
+silver	has	polishability
+coffee	has	oiliness
+moon	has	gravitational pull
+tea	has	steeping time
+candle	has	smoke
+lemon	has	juiciness
+gold	has	shine
+sapphire	has	transparency
+coffee	has	roast
+moon	has	rotation
+sapphire	has	durability
+tea	has	caffeine content
+moon	has	atmosphere
+tea	has	steeping method
+coffee	has	roast level
+diamond	has	cut
+sunflower	has	grandeur
+ruby	has	deepness
+ruby	has	richness
+emerald	has	vibrancy
+sapphire	has	elegance
+bear	has	strength
+violin	has	musicality
+ballet	has	elegance
+ballet	has	precision
+football	has	competitiveness
+basketball	has	speed
+university	has	wisdom
+forest	has	depth
+storm	has	fury
+rainbow	has	rarity
+tornado	has	destructive power
+comet	has	speed
+asteroid	has	rockiness
+moon	has	orbit
+planet	has	uniqueness
+spaceship	has	technology
+robot	has	artificiality
+globe	has	roundness
+sphere	has	perfection
+sphere	has	symmetry
+kaleidoscope	has	beauty
+kaleidoscope	has	uniqueness
+kaleidoscope	has	complexity
+kaleidoscope	has	wonder
+kaleidoscope	has	fascination
+kaleidoscope	has	opticality
+kaleidoscope	has	colorfulness
+kaleidoscope	has	whiteness
+kaleidoscope	has	smoothness
+kaleidoscope	has	intricacy
+kaleidoscope	has	enchantment
+kaleidoscope	has	magic
+kaleidoscope	has	visuality
+kaleidoscope	has	illusion
+kaleidoscope	has	reality
+kaleidoscope	has	surrealness
+kaleidoscope	has	dreaminess
+kaleidoscope	has	lucidity
+kaleidoscope	has	transparency
+kaleidoscope	has	lightness
+kaleidoscope	has	clarity
+kaleidoscope	has	abstractness
+kaleidoscope	has	ambiguity
+kaleidoscope	has	mystery
+kaleidoscope	has	depth
+kaleidoscope	has	infinity
+kaleidoscope	has	artistry
+kaleidoscope	has	imagination
+kaleidoscope	has	innovation
+kaleidoscope	has	creativity
+kaleidoscope	has	playfulness
+kaleidoscope	has	curiosity
+kaleidoscope	has	adventure
+kaleidoscope	has	thrill
+copper	has	color
+sugar	has	density
+sand	has	abrasive quality
+water	has	boiling point
+wine	has	complexity
+wine	has	age
+coffee	has	energizing effect
+coffee bean	has	acidity
+honey	has	pollination
+wine	has	flavor profile
+guitar	has	adjustability
+coffee bean	has	roast level
+perfume	has	universality
+wool	has	itchiness when worn
+wine	has	pairing ability
+guitar	has	mobility
+perfume	has	discretion
+coffee	has	dependence
+leather	has	moldability
+coffee bean	has	bitterness level
+wine	has	complexity level
+butter	has	nutrition
+guitar	has	playability
+diamond	has	precision
+silk	has	translucency
+coffee	has	aftertaste
+leather	has	water absorption
+perfume	has	moodiness
+wool	has	heat retention
+wine	has	acidity level
+coffee bean	has	roast time
+honey	has	sweetness level
+wine	has	pairing compatibility
+butter	has	saturated fat content
+silk	has	flow
+moon	has	roundness
+wood	has	toughness
+lightning	has	brightness
+darkness	has	blackness
+light	has	radiance
+fog	has	heaviness
+stone	has	firmness
+water	has	coolness
+sand	has	slipperiness
+thunder	has	rumbling
+earth	has	rotation
+darkness	has	mystery
+rain	has	gentleness
+sea	has	danger
+thunder	has	ferocity
+cloud	has	unpredictability
+darkness	has	quietness
+earth	has	variety
+sun	has	longevity
+darkness	has	darkness
+light	has	brilliance
+earth	has	life
+thunder	has	energy
+gold	has	elegance
+sun	has	majesty
+wave	has	crashiness
+light	has	penetrability
+air	has	warmth
+cloud	has	beauty
+snow	has	coverage
+metal	has	versatility
+wind	has	gustiness
+music	has	expressiveness
+earth	has	abundance
+bicycle	has	portability
+cake	has	taste
+computer	has	functionality
+keyboard	has	usability
+air	has	breathability
+bed	has	support
+chair	has	seating
+hammer	has	power
+saw	has	sharpness
+nail	has	strength
+cloth	has	softness
+alloy	has	durability
+concrete	has	hardness
+gel	has	flexibility
+bone	has	structure
+skin	has	elasticity
+satin	has	smoothness
+lace	has	intricacy
+brocade	has	elegance
+bamboo	has	sustainability
+shell	has	translucency
+sapphire	has	blue color
+amber	has	preservation
+obsidian	has	glassy appearance
+agate	has	beauty
+lapis	has	luxury
+jet	has	darkness
+jet	has	density
+jade	has	greenness
+jade	has	toughness
+amber	has	antiquity
+amber	has	beauty
+aluminum	has	durability
+stainless steel	has	resistance
+tungsten	has	hardness
+titanium	has	scratch resistance
+titanium	has	ductility
+soap	has	foaming properties
+honeydew	has	stickiness
+steel wool	has	heat resistance
+polyester	has	wrinkle resistance
+silk	has	shine
+rock	has	rigidity
+neoprene	has	water resistance
+asbestos	has	heat resistance
+cotton seed	has	oil content
+cotton thread	has	durability
+nylon	has	strength
+polyester fabric	has	wrinkle resistance
+woolen fabric	has	warmth
+iron alloy	has	strength
+wood pulp	has	strength
+cellulose	has	strength
+polystyrene	has	lightness
+abs	has	strength
+hdpe	has	durability
+silicone	has	heat resistance
+foam board	has	insulating properties
+fiberglass	has	tensile strength
+gelatin	has	jelliness
+starch	has	digestibility
+wax	has	water resistance
+varnish	has	waterproofing properties
+epoxy	has	adhesion
+concrete block	has	compressive strength
+acrylic	has	transparency
+glass bottle	has	shatter resistance
+steel drum	has	corrosion resistance
+wood beam	has	compressive strength
+cotton bag	has	breathability
+silk scarf	has	softness
+steel rod	has	ductility
+carbon fiber	has	high tensile strength
+graphite rod	has	conductivity
+fabric softener	has	softening properties
+iron pipe	has	strength
+glass rod	has	clarity
+cotton seedling	has	oil content
+concrete mixer	has	strength
+polystyrene foam	has	lightness
+pva glue	has	bonding properties
+firework	has	explosion
+lightning	has	electricalness
+mist	has	softness
+desert	has	aridity
+tornado	has	ferocity
+earthquake	has	destructiveness
+asteroid	has	mass
+nebula	has	color
+comet	has	tail
+meteorite	has	hardness
+eclipse	has	totality
+meteor	has	speed
+shooting star	has	briefness
+aurora	has	colorfulness
+iceberg	has	danger
+glacier	has	slowness
+hurricane	has	fury
+cyclone	has	power
+blizzard	has	ferocity
+landslide	has	unpredictability
+avalanche	has	speed
+tidal wave	has	destruction
+earthquake	has	chaos
+landslide	has	danger
+snowstorm	has	coldness
+forest fire	has	destruction
+hurricane	has	damage
+wildfire	has	ferocity
+drought	has	aridity
+flood	has	danger
+mudslide	has	speed
+wildfire	has	intensity
+fog	has	confusion
+hurricane	has	devastation
+earthquake	has	devastation
+forest fire	has	danger
+storm surge	has	destruction
+landside	has	danger
+forest	has	life
+desert	has	vastness
+tsunami	has	destruction
+mudslide	has	destruction
+blizzard	has	isolation
+wildfire	has	danger
+desert	has	sand
+volcano	has	lava
+iceberg	has	melting
+snowstorm	has	disruption
+blizzard	has	coldness
+drought	has	severity
+flood	has	destruction
+mudslide	has	danger
+landslide	has	speed
+wildfire	has	destruction
+silver	has	brilliance
+copper	has	antifouling properties
+mercury	has	low melting point
+paper	has	tensile strength
+silver	has	resistance to corrosion
+sulfur	has	toxic properties
+glass	has	shatter resistance
+copper	has	electromagnetic properties
+steel	has	high durability
+mercury	has	thermionic properties
+lavender	has	calming effect
+onion	has	flavor
+train	has	reliability
+ship	has	stability
+building	has	stability
+castle	has	grandeur
+valley	has	serenity
+mist	has	obscurity
+sand	has	warmth
+crystal	has	purity
+air	has	freedom
+darkness	has	fear
+noise	has	disturbance
+sound	has	vibration
+language	has	expression
+art	has	creativity
+drama	has	impact
+comedy	has	laughter
+culture	has	richness
+tradition	has	continuity
+knowledge	has	value
+education	has	growth
+skill	has	proficiency
+talent	has	ability
+strength	has	power
+courage	has	determination
+faith	has	trust
+hope	has	optimism
+love	has	devotion
+kindness	has	compassion
+honesty	has	integrity
+patience	has	tolerance
+persistence	has	dedication
+forgiveness	has	mercy
+gratitude	has	appreciation
+responsibility	has	accountability
+humility	has	modesty
+generosity	has	charity
+courage	has	bravery
+wisdom	has	insight
+integrity	has	honesty
+loyalty	has	commitment
+trust	has	reliability
+respect	has	dignity
+freedom	has	independence
+peace	has	harmony
+order	has	organization
+logic	has	reason
+intuition	has	instinct
+inspiration	has	creativity
+innovation	has	progress
+imagination	has	fantasy
+creativity	has	originality
+excitement	has	energy
+joy	has	happiness
+happiness	has	contentment
+satisfaction	has	fulfillment
+pleasure	has	enjoyment
+pain	has	suffering
+suffering	has	endurance
+hopelessness	has	despair
+despair	has	desperation
+desperation	has	panic
+anxiety	has	worry
+fear	has	insecurity
+insecurity	has	uncertainty
+uncertainty	has	doubt
+river	has	calmness
+river	has	velocity
+pearl	has	iridescence
+sand	has	traction
+ocean	has	temperature
+sun	has	radiation
+sand	has	absorbency
+pearl	has	transparency
+river	has	sedimentation
+steel	has	reactivity
+steel	has	electroconductivity
+river	has	discharge
+sand	has	abrasion
+steel	has	pliability
+sand	has	density
+fog	has	opaqueness
+steel	has	fatigue
+sun	has	ultraviolet radiation
+river	has	clarity
+river	has	precipitation
+pearl	has	value
+sun	has	temperature
+air	has	freshness
+tree	has	greenness
+bee	has	industriousness
+butterfly	has	delicacy
+butterfly	has	lightness
+spider	has	agility
+grass	has	elasticity
+pebble	has	roundness
+bird	has	songfulness
+leaf	has	thinness
+honeybee	has	collectiveness
+soil	has	nourishment
+fox	has	cleverness
+squirrel	has	nimbleness
+tree trunk	has	strength
+snake	has	slitheringness
+riverbed	has	smoothness
+mountain peak	has	steepness
+cloud layer	has	height
+bee hive	has	socialness
+forest	has	thickness
+rabbit burrow	has	complexity
+spider web	has	intricateness
+cave	has	darkness
+sea shell	has	fragility
+ant	has	industry
+rock formation	has	timelessness
+tree root	has	tenacity
+wave	has	turbulence
+mountain slope	has	steepness
+honeycomb	has	organization
+river delta	has	branching
+bee pollen	has	importance
+rock wall	has	ruggedness
+pebble beach	has	flatness
+leaf litter	has	decomposition
+river source	has	purity
+tree stump	has	persistence
+desert sand	has	grittiness
+mountain lake	has	serenity
+spider egg sac	has	protection
+fog bank	has	obscurity
+catnip	has	attractiveness
+rabbit warren	has	security
+forest floor	has	denseness
+snowfield	has	whiteness
+tree crown	has	luxuriance
+pebble stone	has	smoothness
+butterfly metamorphosis	has	wonder
+river estuary	has	diversity
+fox den	has	seclusion
+cave entrance	has	mystery
+river fork	has	branching
+sun shadow	has	coolness
+bee hive entrance	has	guardedness
+tree bark	has	resilience
+forest stream	has	music
+rabbit food	has	nutritiousness
+cloud formation	has	unpredictability
+rock crack	has	fragility
+spider silk	has	strength
+fog layer	has	dampness
+rock outcropping	has	ruggedness
+river mouth	has	openness
+desert bloom	has	vibrancy
+pebble cave	has	darkness
+leaf bud	has	promise
+snowflake crystal	has	uniqueness
+mountain stream	has	rapidness
+sunbeam filter	has	warmth
+honeycomb cell	has	efficiency
+river bend	has	twisting
+emerald	has	brilliance
+fleece	has	insulation
+granite	has	strength
+slate	has	hardness
+chrome	has	reflectivity
+incense	has	scent
+lavender	has	soothingness
+chamomile	has	calmness
+chamomile tea	has	relaxingness
+cocoa	has	richness
+vanilla	has	creaminess
+onion	has	savoryness
+cayenne pepper	has	spiciness
+wasabi	has	pungency
+ginger	has	spiciness
+eucalyptus	has	freshness
+chamomile oil	has	antisepticness
+tea tree oil	has	antibacterialness
+jasmine	has	sweetness
+patchouli	has	earthiness
+myrrh	has	antisepticness
+thyme	has	flavor
+parsley	has	freshness
+dill	has	flavor
+coriander	has	warmth
+cumin	has	earthiness
+curry	has	spiciness
+cilantro	has	flavor
+basil	has	aroma
+sage	has	warmth
+tarragon	has	aniseedness
+parsley oil	has	medicinalness
+rose oil	has	beauty
+eucalyptus oil	has	decongestantness
+tea	has	hydration
+lemon balm	has	calmingness
+chamomile tea oil	has	relaxation
+ginkgo biloba	has	memory
+valerian root	has	sedation
+lavender essential oil	has	relaxation
+aloe vera	has	soothingness
+beeswax	has	durability
+wax	has	smoothness
+silicone	has	flexibility
+silicone oil	has	lubrication
+polyester	has	strength
+fleece jacket	has	warmth
+down	has	insulation
+feathers	has	warmth
+cotton shirt	has	comfort
+denim	has	strength
+medicine	has	effectiveness
+pain	has	sharpness
+calmness	has	serenity
+bubble	has	lightness
+rust	has	flakiness
+moon	has	brightness
+lava	has	intensity
+smoke	has	opacity
+cream	has	richness
+chalk	has	smoothness
+dust	has	toxicity
+bubble	has	buoyancy
+silk	has	sheerness
+snow	has	snowflakiness
+wood	has	naturalness
+water	has	refreshingness
+perfume	has	captivatingness
+silk	has	luxurious
+gel	has	elasticity
+asphalt	has	tackiness
+jade	has	luster
+polyester	has	elasticity
+gelatin	has	texture
+graphite	has	slipperiness
+paper	has	porosity
+steel	has	workability
+gelatin	has	clarity
+paper	has	translucency
+fabric	has	stability
+cotton	has	absorption
+firefly	has	luminescence
+waterfall	has	power
+star	has	twinkliness
+forest	has	denseness
+river	has	windingness
+honey	has	value
+waterfall	has	majesty
+shark	has	strength
+star	has	twinklingness
+river	has	flowingness
+ice cream	has	taste
+piano	has	rhythm
+star	has	brilliance
+mountain	has	steep slope
+waterfall	has	roar
+river	has	narrowness
+perfume	has	subtlety
+river	has	meanderingness
+star	has	radiance
+river	has	silence
+shark	has	deadliness
+cat	has	sensitivity
+ocean	has	vast ocean
+cat	has	mischief
+shark	has	power
+mountain	has	isolation
+river	has	riverbed
+cloud	has	elevation
+mountain	has	snow
+river	has	calm flow
+river	has	me
+lightning	has	electricity
+violin	has	sound
+clock	has	precision
+guitar string	has	tension
+mountain lion	has	ferocity
+piano key	has	tone
+forest	has	tranquility
+wind chime	has	melodiousness
+silk fabric	has	fineness
+piano hammers	has	force
+piano pedals	has	smoothness
+riverbank	has	serenity
+steel wire	has	elasticity
+flower pot	has	attractiveness
+piano tuning	has	precision
+lake shore	has	peace
+butterfly wings	has	color
+metal tool	has	sharpness
+forest glade	has	quietness
+soap bubble	has	fleetingness
+wind turbine	has	energy
+snowman	has	artificiality
+river delta	has	vastness
+butterfly cocoon	has	protection
+guitar pick	has	smoothness
+perfume spray	has	spritziness
+lake ice	has	fragility
+raindrop	has	refreshment
+clockwork	has	complexity
+river mouth	has	vastness
+piano bench	has	comfort
+wind speed	has	velocity
+rock face	has	ruggedness
+metal rod	has	durability
+perfume packaging	has	attractiveness
+butterfly net	has	delicacy
+river pool	has	calmness
+piano soundboard	has	resonance
+forest path	has	windingness
+lake surface	has	serenity
+metal pipe	has	strength
+perfume atomizer	has	convenience
+butterfly perch	has	delicacy
+rock crevice	has	narrowness
+piano keys	has	responsiveness
+snowstorm	has	fury
+metal tool box	has	functionality
+forest tree	has	longevity
+rock pillar	has	grandeur
+perfume flask	has	elegance
+bubble solution	has	buoyancy
+guitar fretboard	has	smoothness
+rock wall	has	strength
+wind farm	has	energy
+snowdrift	has	whiteness
+metal wire	has	conductivity
+butterfly habitat	has	delicacy
+rock formation	has	complexity
+piano stand	has	stability
+lake ice rink	has	slickness
+cypress	has	aroma
+quartz	has	elasticity
+diamond	has	high pressure
+cactus	has	thorns
+lavender	has	antiseptic properties
+quartz	has	refractive index
+rose	has	color variability
+iron	has	high density
+honey	has	water content
+copper	has	electroconductivity
+lavender	has	antiviral properties
+quartz	has	sound transmission
+rose	has	scent
+gold	has	high reactivity
+cactus	has	adaptation
+lavender	has	medicinal uses
+rose	has	fragility
+cypress	has	longevity
+honey	has	antibiotic properties
+gold	has	resistance to acids
+cactus	has	drought tolerance
+cypress	has	shade provision
+lavender	has	sedative effects
+steel	has	impact resistance
+copper	has	high malleability
+rose	has	variety

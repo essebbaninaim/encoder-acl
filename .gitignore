@@ -1,0 +1,9 @@
+.env
+__pycache__/
+src/utils/analogie/log/*
+src/utils/relation/log/*
+config/encoder/*
+output/encoder/*
+
+!output/encoder/*.py
+!config/encoder/make_conf.py

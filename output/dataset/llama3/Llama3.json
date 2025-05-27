@@ -1,0 +1,174 @@
+{
+    "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+    "nb_to_generate": 5000,
+    "temperature": 1,
+    "top_p": 0.9,
+    "max_length": 1024,
+    "no_repeat_ngram_size": 0,
+    "output_dir": "output/dataset/llama3",
+  
+    "system_prompt": "Your goal is to generate triplets, each separated by a comma .",
+    "relation": {
+      "common-sens": {
+        "prompt_suffix": "knowing knowledge triplets that describe commonsense relation",
+        "examples": [
+          "glass, falls, breaks",
+          "day, follows, night",
+          "fish, live in, water",
+          "wheel, part of, car",
+          "knife, used for, cutting"
+        ]
+      },
+      "spatial": {
+        "prompt_suffix": "spatial triplets that describe spatial relationship between objects or entities",
+        "examples": [
+          "cup, on, table",
+          "bird, above, tree",
+          "fish, in, water",
+          "book, beside, lamp",
+          "car, in, parking"
+        ]
+      },
+      "temporal": {
+        "prompt_suffix": "temporal triplets that describe the temporal relationship between events or states",
+        "examples": [
+          "breakfast, before, lunch",
+          "night, follows, sunset",
+          "seed, before, tree",
+          "study, before, exam",
+          "caterpillar, before, butterfly"
+        ]
+      },
+      "causal": {
+        "prompt_suffix": "causal triplets that describe cause and effect relationships",
+        "examples": [
+          "rain, causes, puddle",
+          "fire, create, ash",
+          "study, give , knowledge",
+          "exercise, promotes, health",
+          "sunlight, enables, photosynthesis"
+        ]
+      },
+      "functional": {
+        "prompt_suffix": "functional triplets that describe the function or role of an object or entity",
+        "examples": [
+          "bee, pollinates, flower",
+          "sun, warms, earth",
+          "wind, disperses, seed",
+          "tree, provides, oxygen",
+          "fish, controls, algae population"
+        ]
+      },
+      "antonymy": {
+        "prompt_suffix": "antonymy triplets that describe opposite concepts or entities",
+        "examples": [
+          "hot, opposite of, cold",
+          "dark, opposite of, light",
+          "success, opposite of, failure",
+          "ascent, opposite of, descent",
+          "abundance, opposite of, scarcity"
+        ]
+      },
+      "synonymy": {
+        "prompt_suffix": "synonymy triplets that describe similar or identical concepts",
+        "examples": [
+          "big, similar to, large",
+          "happy, similar to, joyful",
+          "fast, similar to, quick",
+          "intelligent, similar to, smart",
+          "difficult, similar to, hard"
+        ]
+      },
+      "meronymy": {
+        "prompt_suffix": "meronymy triplets that describe part-whole relationships",
+        "examples": [
+          "petal, is a part of, flower",
+          "tire, is a component of, bicycle",
+          "seed, is contained in, fruit",
+          "wheel, is a component of, car",
+          "leaf, part of, tree"
+        ]
+      },
+      "collocation": {
+        "prompt_suffix": "collocation triplets that describe words that frequently occur together",
+        "examples": [
+          "bread, and, butter",
+          "salt, and, pepper",
+          "thunder, and, lightning",
+          "fish, and, chips",
+          "law, and, order"
+        ]
+      },
+      "troponymy": {
+        "prompt_suffix": "troponymy triplets that describe specific ways in which an action is performed",
+        "examples": [
+          "whisper, is a way to, speak",
+          "jog, is a way to, run",
+          "chuckle, is a way to, laugh",
+          "scribble, is a way to, write",
+          "slouch, is a way to, sit"
+        ]
+      },
+      "hyponymy": {
+        "prompt_suffix": "hyponymy triplets that describe the relationship where one term is a subtype or a specific instance of another",
+        "examples": [
+          "terrier, is a type of, dog",
+          "tulip, is a kind of, flower",
+          "oak, is a species of, tree",
+          "Honda, is a brand of, car",
+          "thriller, is a genre of, movie"
+        ]
+      },
+      "hypernymy": {
+        "prompt_suffix": "hypernymy triplets that describe the relationship where one term encompasses a broader category to which the other belongs",
+        "examples": [
+          "dog, is a general term for, terrier",
+          "flower, encompasses, tulip",
+          "tree, includes, oak",
+          "car, covers, Honda",
+          "movie, categorizes, thriller"
+        ]
+      },
+      "entailment": {
+        "prompt_suffix": "entailment triplets that describe logical relationships where one concept or action logically infers another",
+        "examples": [
+          "to sleep, entails, to be tired",
+          "to eat, entails, to be hungry",
+          "to rain, entails, to carry an umbrella",
+          "to study, entails, to learn",
+          "to drive, entails, having a license"
+        ]
+      },
+      "attribute": {
+        "prompt_suffix": "attribute triplets that describe inherent properties or qualities of objects or entities",
+        "examples": [
+          "water, has, wetness",
+          "sun, has, brightness",
+          "ice, has, coldness",
+          "fire, has, heat",
+          "sugar, has, sweetness"
+        ]
+      },
+      "member-collection": {
+        "prompt_suffix": "member-collection triplets that describe the relationship between an individual item and the group to which it belongs",
+        "examples": [
+          "bee, member of, swarm",
+          "fish, part of, school",
+          "tree, part of, forest",
+          "book, part of, library",
+          "student, member of, class"
+        ]
+      },
+      "similarity": {
+        "prompt_suffix": "similarity triplets that describe the likeness or analogies between different concepts or entities",
+        "examples": [
+          "heart, similar to, pump",
+          "mind, similar to, computer",
+          "tree, similar to, lungs of the Earth",
+          "car, similar to, horse",
+          "key, similar to, password"
+        ]
+      }
+    }
+  }
+  
