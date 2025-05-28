@@ -1,0 +1,14 @@
+{
+  "output" : "./output/encoder/multibert/FacebookAI_roberta-large/relbert_and_llama/prompt2",
+  "encodeur" : {
+    "model_name": "multibert",
+    "based_encoder": "FacebookAI/roberta-large",
+    "batch_size": 256,
+    "lr": 1e-5,
+    "max_length": 64,
+    "temperature": 0.03,
+    "dataset": "./output/dataset/others/relbert_llama3.csv",
+
+    "templates": ["The word that best describe the relationship between [HEAD] and [TAIL] is <mask> . "]
+  }
+}

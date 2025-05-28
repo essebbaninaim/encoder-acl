@@ -1,0 +1,14 @@
+{
+  "output" : "./output/encoder/multibert/microsoft_deberta-v3-large/relbert/prompt5",
+  "encodeur" : {
+    "model_name": "multibert",
+    "based_encoder": "microsoft/deberta-v3-large",
+    "batch_size": 256,
+    "lr": 1e-5,
+    "max_length": 64,
+    "temperature": 0.03,
+    "dataset": "./output/dataset/others/relbert_dataset.csv",
+
+    "templates": ["One property of [HEAD] is to be the [MASK] of [TAIL] .","Usually, we are [TAIL] [MASK] [HEAD] ."]
+  }
+}

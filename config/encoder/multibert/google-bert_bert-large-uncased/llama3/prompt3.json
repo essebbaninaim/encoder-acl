@@ -1,0 +1,14 @@
+{
+  "output" : "./output/encoder/multibert/google-bert_bert-large-uncased/llama3/prompt3",
+  "encodeur" : {
+    "model_name": "multibert",
+    "based_encoder": "google-bert/bert-large-uncased",
+    "batch_size": 256,
+    "lr": 1e-5,
+    "max_length": 64,
+    "temperature": 0.03,
+    "dataset": "./output/dataset/llama3/merged.csv",
+
+    "templates": ["People often use the word [MASK] to describe the relationship between [HEAD] and [TAIL] ."]
+  }
+}
